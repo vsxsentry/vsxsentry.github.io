@@ -1130,30 +1130,84 @@ function ScriptGenerator({data}){
       lines.push('');
 
       if(act==='block'){
-        // Block: generate policy JSON
-        lines.push('# ── Step 3: Generate block policy ──');
+        // Block: generate and apply policy
+        lines.push('# ── Step 3: Build extensions.allowed policy ──');
         lines.push('$policy = [ordered]@{ "*" = $true }');
         lines.push('foreach ($id in $feedIds) { $policy[$id] = $false }');
-        lines.push('$wrapper = [ordered]@{ "extensions.allowed" = $policy }');
-        lines.push('$json = $wrapper | ConvertTo-Json -Depth 3');
-        lines.push('$outPath = Join-Path $env:TEMP "vsxsentry_block_policy.json"');
-        lines.push('$json | Out-File -FilePath $outPath -Encoding UTF8');
+        lines.push('Write-Host "[+] Policy built: $($feedIds.Count) extensions will be blocked" -ForegroundColor Green');
+        lines.push('');
         if(dr){
-          lines.push('Write-Host "[DRY RUN] Policy written to: $outPath" -ForegroundColor Yellow');
-          lines.push('Write-Host "[+] Review the file, then merge into your VS Code settings or GPO." -ForegroundColor Cyan');
+          lines.push('# ── DRY RUN - preview only ──');
+          lines.push('$wrapper = [ordered]@{ "extensions.allowed" = $policy }');
+          lines.push('$json = $wrapper | ConvertTo-Json -Depth 3');
+          lines.push('$outPath = Join-Path $env:TEMP "vsxsentry_block_policy.json"');
+          lines.push('$json | Out-File -FilePath $outPath -Encoding UTF8');
+          lines.push('Write-Host "[DRY RUN] Policy preview saved to: $outPath" -ForegroundColor Yellow');
+          lines.push('Write-Host "[DRY RUN] To apply: disable dry-run and re-run, or manually merge into settings.json" -ForegroundColor Yellow');
+          lines.push('Write-Host ""');
+          lines.push('Write-Host "First 5 blocked entries:" -ForegroundColor Cyan');
+          lines.push('$feedIds | Select-Object -First 5 | ForEach-Object { Write-Host "    $_: false" -ForegroundColor Yellow }');
+          lines.push('Write-Host "    ... and $($feedIds.Count - 5) more" -ForegroundColor Yellow');
         } else {
-          lines.push('$settingsDir = "$env:APPDATA\\Code\\User"');
-          lines.push('if (-not (Test-Path $settingsDir)) { $settingsDir = "$env:APPDATA\\'+v.replace('code','Code').replace('-insiders',' - Insiders')+'\\User" }');
-          lines.push('$settingsPath = Join-Path $settingsDir "settings.json"');
-          lines.push('Write-Host "[*] Merging policy into $settingsPath ..." -ForegroundColor Cyan');
+          lines.push('# ── Step 4: Locate settings.json ──');
+          var settingsPaths=[];
+          if(v==='code') settingsPaths=['$env:APPDATA\\Code\\User'];
+          else if(v==='code-insiders') settingsPaths=['$env:APPDATA\\Code - Insiders\\User'];
+          else if(v==='codium') settingsPaths=['$env:APPDATA\\VSCodium\\User'];
+          else if(v==='cursor') settingsPaths=['$env:APPDATA\\Cursor\\User'];
+          lines.push('$settingsDirs = @(');
+          settingsPaths.forEach(function(p){lines.push('    "'+p+'"')});
+          lines.push('    "$env:APPDATA\\Code\\User"');
+          lines.push(')');
+          lines.push('$settingsPath = $null');
+          lines.push('foreach ($dir in $settingsDirs) {');
+          lines.push('    $candidate = Join-Path $dir "settings.json"');
+          lines.push('    if (Test-Path $dir) { $settingsPath = $candidate; break }');
+          lines.push('}');
+          lines.push('if (-not $settingsPath) {');
+          lines.push('    # Create default settings dir');
+          lines.push('    $defaultDir = $settingsDirs[0]');
+          lines.push('    New-Item -ItemType Directory -Path $defaultDir -Force | Out-Null');
+          lines.push('    $settingsPath = Join-Path $defaultDir "settings.json"');
+          lines.push('}');
+          lines.push('Write-Host "[*] Settings path: $settingsPath" -ForegroundColor Cyan');
+          lines.push('');
+          lines.push('# ── Step 5: Backup existing settings ──');
           lines.push('if (Test-Path $settingsPath) {');
-          lines.push('    $existing = Get-Content $settingsPath -Raw | ConvertFrom-Json');
+          lines.push('    $backupPath = "$settingsPath.vsxsentry.bak"');
+          lines.push('    Copy-Item -Path $settingsPath -Destination $backupPath -Force');
+          lines.push('    Write-Host "[+] Backup saved to: $backupPath" -ForegroundColor Green');
+          lines.push('    $existing = Get-Content $settingsPath -Raw -ErrorAction Stop | ConvertFrom-Json');
           lines.push('} else {');
+          lines.push('    Write-Host "[*] No existing settings.json - creating new one" -ForegroundColor Cyan');
           lines.push('    $existing = [PSCustomObject]@{}');
           lines.push('}');
+          lines.push('');
+          lines.push('# ── Step 6: Merge policy into settings ──');
           lines.push('$existing | Add-Member -NotePropertyName "extensions.allowed" -NotePropertyValue $policy -Force');
-          lines.push('$existing | ConvertTo-Json -Depth 5 | Set-Content $settingsPath -Encoding UTF8');
-          lines.push('Write-Host "[+] Policy applied to $settingsPath ($($feedIds.Count) extensions blocked)" -ForegroundColor Green');
+          lines.push('$existing | ConvertTo-Json -Depth 10 | Set-Content $settingsPath -Encoding UTF8');
+          lines.push('Write-Host "[+] Policy applied: $($feedIds.Count) extensions blocked in $settingsPath" -ForegroundColor Green');
+          lines.push('');
+          lines.push('# ── Step 7: Restart VS Code ──');
+          lines.push('$running = Get-Process -Name "Code","Code - Insiders" -ErrorAction SilentlyContinue');
+          lines.push('if ($running) {');
+          if(!ac){
+            lines.push('    $restart = Read-Host "VS Code is running. Restart now to apply policy? (y/N)"');
+            lines.push('    if ($restart -eq "y") {');
+          } else {
+            lines.push('    if ($true) {');
+          }
+          lines.push('        Write-Host "[*] Restarting VS Code..." -ForegroundColor Cyan');
+          lines.push('        $running | Stop-Process -Force');
+          lines.push('        Start-Sleep -Seconds 2');
+          lines.push('        Start-Process $codeBin');
+          lines.push('        Write-Host "[+] VS Code restarted with new policy" -ForegroundColor Green');
+          lines.push('    } else {');
+          lines.push('        Write-Host "[*] Restart VS Code manually for the policy to take effect" -ForegroundColor Yellow');
+          lines.push('    }');
+          lines.push('} else {');
+          lines.push('    Write-Host "[*] VS Code not running. Policy will apply on next launch." -ForegroundColor Cyan');
+          lines.push('}');
         }
       } else {
         // Detect/Remove: list installed, match, act
@@ -1321,27 +1375,102 @@ function ScriptGenerator({data}){
       lines.push('');
 
       if(act==='block'){
-        var policyPath=os==='macos'?'"$HOME/Library/Application Support/Code/User/settings.json"':'"$HOME/.config/Code/User/settings.json"';
-        lines.push('# ── Step 3: Generate block policy ──');
-        lines.push('OUT="/tmp/vsxsentry_block_policy.json"');
-        lines.push('echo "{" > "$OUT"');
-        lines.push('echo "  \\"extensions.allowed\\": {" >> "$OUT"');
-        lines.push('echo "    \\"*\\": true," >> "$OUT"');
+        var settingsDir=os==='macos'?'"$HOME/Library/Application Support/Code/User"':'"$HOME/.config/Code/User"';
+        if(v==='code-insiders') settingsDir=os==='macos'?'"$HOME/Library/Application Support/Code - Insiders/User"':'"$HOME/.config/Code - Insiders/User"';
+        if(v==='codium') settingsDir=os==='macos'?'"$HOME/Library/Application Support/VSCodium/User"':'"$HOME/.config/VSCodium/User"';
+        if(v==='cursor') settingsDir=os==='macos'?'"$HOME/Library/Application Support/Cursor/User"':'"$HOME/.config/Cursor/User"';
+        lines.push('# ── Step 3: Build extensions.allowed policy ──');
+        lines.push('SETTINGS_DIR='+settingsDir);
+        lines.push('SETTINGS_FILE="$SETTINGS_DIR/settings.json"');
+        lines.push('POLICY_TMP="/tmp/vsxsentry_block_policy.json"');
+        lines.push('');
+        lines.push('# Build the policy JSON fragment');
+        lines.push('echo "[*] Building block policy for $FEED_COUNT extensions..."');
+        lines.push('POLICY_FRAGMENT="{"');
+        lines.push('POLICY_FRAGMENT="$POLICY_FRAGMENT \\"*\\": true"');
         lines.push('echo "$FEED" | while IFS= read -r ext; do');
-        lines.push('    [ -n "$ext" ] && echo "    \\"$(echo "$ext" | tr -d \'\\r\')\\": false," >> "$OUT"');
+        lines.push('    [ -n "$ext" ] && POLICY_FRAGMENT="$POLICY_FRAGMENT, \\"$(echo "$ext" | tr -d \'\\r\')\\": false"');
         lines.push('done');
-        lines.push('# Remove trailing comma and close');
-        lines.push('sed -i.bak \'$ s/,$/\' "$OUT" 2>/dev/null || sed -i \'\' \'$ s/,$/\' "$OUT" 2>/dev/null || true');
-        lines.push('echo "  }" >> "$OUT"');
-        lines.push('echo "}" >> "$OUT"');
-        lines.push('rm -f "${OUT}.bak"');
+        lines.push('POLICY_FRAGMENT="$POLICY_FRAGMENT }"');
+        lines.push('');
         if(dr){
-          lines.push('echo "[DRY RUN] Policy written to: $OUT"');
-          lines.push('echo "[+] Review the file, then merge into '+policyPath+'"');
+          lines.push('# ── DRY RUN - preview only ──');
+          lines.push('echo "[DRY RUN] Would apply extensions.allowed to: $SETTINGS_FILE"');
+          lines.push('echo "[DRY RUN] $FEED_COUNT extensions would be blocked"');
+          lines.push('echo "[DRY RUN] First 5:"');
+          lines.push('echo "$FEED" | head -5 | while IFS= read -r ext; do echo "    $ext: false"; done');
+          lines.push('echo "    ... and more"');
+          lines.push('echo "[DRY RUN] Disable dry-run and re-run to apply."');
         } else {
-          lines.push('echo "[+] Policy written to: $OUT"');
-          lines.push('SETTINGS='+policyPath);
-          lines.push('echo "[+] Merge into: $SETTINGS"');
+          lines.push('# ── Step 4: Apply policy to settings.json ──');
+          lines.push('mkdir -p "$SETTINGS_DIR"');
+          lines.push('');
+          lines.push('# Backup existing settings');
+          lines.push('if [ -f "$SETTINGS_FILE" ]; then');
+          lines.push('    cp "$SETTINGS_FILE" "$SETTINGS_FILE.vsxsentry.bak"');
+          lines.push('    echo "[+] Backup saved to: $SETTINGS_FILE.vsxsentry.bak"');
+          lines.push('fi');
+          lines.push('');
+          lines.push('# Use python3 to merge JSON (robust and available on most dev machines)');
+          lines.push('if command -v python3 &>/dev/null; then');
+          lines.push('    python3 -c "');
+          lines.push('import json, sys, os');
+          lines.push('settings_path = os.path.expandvars(os.path.expanduser(sys.argv[1]))');
+          lines.push('feed_path = sys.argv[2]');
+          lines.push('# Load existing settings or empty dict');
+          lines.push('if os.path.exists(settings_path):');
+          lines.push('    with open(settings_path) as f: settings = json.load(f)');
+          lines.push('else:');
+          lines.push('    settings = {}');
+          lines.push('# Load feed IDs');
+          lines.push('with open(feed_path) as f: ids = [l.strip() for l in f if l.strip()]');
+          lines.push('# Build policy');
+          lines.push('policy = {chr(42): True}');
+          lines.push('for ext_id in ids: policy[ext_id] = False');
+          lines.push('settings[chr(101)+chr(120)+chr(116)+chr(101)+chr(110)+chr(115)+chr(105)+chr(111)+chr(110)+chr(115)+chr(46)+chr(97)+chr(108)+chr(108)+chr(111)+chr(119)+chr(101)+chr(100)] = policy');
+          lines.push('with open(settings_path, chr(119)) as f: json.dump(settings, f, indent=2)');
+          lines.push('print("[+] Policy applied: " + str(len(ids)) + " extensions blocked in " + settings_path)');
+          lines.push('" "$SETTINGS_FILE" <(echo "$FEED")');
+          lines.push('elif command -v jq &>/dev/null; then');
+          lines.push('    # Fallback to jq');
+          lines.push('    POLICY_OBJ=$(echo "$FEED" | jq -Rn \'{"*":true} + ([inputs | select(length>0)] | map({(.): false}) | add)\')');
+          lines.push('    if [ -f "$SETTINGS_FILE" ]; then');
+          lines.push('        jq --argjson policy "$POLICY_OBJ" \'.["extensions.allowed"] = $policy\' "$SETTINGS_FILE" > "${SETTINGS_FILE}.tmp"');
+          lines.push('        mv "${SETTINGS_FILE}.tmp" "$SETTINGS_FILE"');
+          lines.push('    else');
+          lines.push('        echo "{\\\"extensions.allowed\\\": $POLICY_OBJ}" | jq . > "$SETTINGS_FILE"');
+          lines.push('    fi');
+          lines.push('    echo "[+] Policy applied via jq: $FEED_COUNT extensions blocked"');
+          lines.push('else');
+          lines.push('    echo "[!] Neither python3 nor jq found. Saving policy to $POLICY_TMP"');
+          lines.push('    echo "{\\"extensions.allowed\\": {" > "$POLICY_TMP"');
+          lines.push('    echo "  \\"*\\": true," >> "$POLICY_TMP"');
+          lines.push('    echo "$FEED" | while IFS= read -r ext; do');
+          lines.push('        [ -n "$ext" ] && echo "  \\"$(echo "$ext" | tr -d \'\\r\')\\": false," >> "$POLICY_TMP"');
+          lines.push('    done');
+          lines.push('    sed -i.bak \'$ s/,$/\' "$POLICY_TMP" 2>/dev/null || sed -i \'\' \'$ s/,$/\' "$POLICY_TMP" 2>/dev/null || true');
+          lines.push('    echo "}}" >> "$POLICY_TMP"');
+          lines.push('    rm -f "${POLICY_TMP}.bak"');
+          lines.push('    echo "[+] Merge $POLICY_TMP into $SETTINGS_FILE manually"');
+          lines.push('fi');
+          lines.push('');
+          lines.push('# ── Step 5: Restart VS Code ──');
+          var killCmd=os==='macos'?'killall "Electron" "Code Helper" 2>/dev/null':'pkill -f "'+v+'" 2>/dev/null';
+          if(!ac){
+            lines.push('read -rp "Restart VS Code to apply policy? (y/N) " restart');
+            lines.push('if [[ "$restart" == "y" || "$restart" == "Y" ]]; then');
+          } else {
+            lines.push('if true; then');
+          }
+          lines.push('    echo "[*] Restarting VS Code..."');
+          lines.push('    '+killCmd+' || true');
+          lines.push('    sleep 2');
+          lines.push('    "$CODE_BIN" &>/dev/null &');
+          lines.push('    disown');
+          lines.push('    echo "[+] VS Code restarted with new policy"');
+          lines.push('else');
+          lines.push('    echo "[*] Restart VS Code manually for the policy to take effect"');
+          lines.push('fi');
         }
       } else {
         // Detect/Remove
