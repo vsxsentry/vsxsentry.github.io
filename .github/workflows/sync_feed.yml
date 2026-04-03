@@ -16,6 +16,7 @@ jobs:
 
       - name: Fetch source feed
         run: |
+          mkdir -p feeds
           curl -sSfL \
             "https://raw.githubusercontent.com/mthcht/awesome-lists/refs/heads/main/Lists/VSCODE%20Extensions/feeds/vsxsentry_feed.json" \
             -o feeds/vsxsentry_feed.json
