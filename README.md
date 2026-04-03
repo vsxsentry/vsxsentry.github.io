@@ -11,7 +11,7 @@ Community-driven threat intelligence for Visual Studio Code extensions. Track ma
 VS Code extensions execute as native Node.js processes with full access to the file system, terminals, environment variables, SSH keys, and source code  -  with **no sandbox and no permission model**. VSXSentry provides:
 
 - **Live feed** of known-malicious, removed, and suspicious VS Code extensions
-- **Extension Checker**  -  paste your `code --list-extensions` output and instantly find matches
+- **Extension Checker**  -  upload your VSIX extension to a quick analysis or paste your `code --list-extensions` output and instantly find matches
 - **Policy Generator**  -  create `settings.json` blocklist/allowlist snippets for enterprise deployment
 - **Investigation Guide**  -  forensic traces and remediation procedures for incident response
 - **Inventory Tools**  -  PowerShell, Python, and Bash scripts to scan workstations
