@@ -1069,7 +1069,7 @@ function ScriptGenerator({data}){
       if(v==='code'){
         lines.push('        "$env:LOCALAPPDATA\\Programs\\Microsoft VS Code\\bin\\code.cmd"');
         lines.push('        "$env:ProgramFiles\\Microsoft VS Code\\bin\\code.cmd"');
-        lines.push('        "$env:ProgramFiles(x86)\\Microsoft VS Code\\bin\\code.cmd"');
+        lines.push('        "${env:ProgramFiles(x86)}\\Microsoft VS Code\\bin\\code.cmd"');
       } else if(v==='code-insiders'){
         lines.push('        "$env:LOCALAPPDATA\\Programs\\Microsoft VS Code Insiders\\bin\\code-insiders.cmd"');
         lines.push('        "$env:ProgramFiles\\Microsoft VS Code Insiders\\bin\\code-insiders.cmd"');
@@ -1146,7 +1146,7 @@ function ScriptGenerator({data}){
           lines.push('Write-Host "[DRY RUN] To apply: disable dry-run and re-run, or manually merge into settings.json" -ForegroundColor Yellow');
           lines.push('Write-Host ""');
           lines.push('Write-Host "First 5 blocked entries:" -ForegroundColor Cyan');
-          lines.push('$feedIds | Select-Object -First 5 | ForEach-Object { Write-Host "    $_: false" -ForegroundColor Yellow }');
+          lines.push('$feedIds | Select-Object -First 5 | ForEach-Object { Write-Host "    ${_}: false" -ForegroundColor Yellow }');
           lines.push('Write-Host "    ... and $($feedIds.Count - 5) more" -ForegroundColor Yellow');
         } else {
           lines.push('# ── Step 4: Locate settings.json ──');
@@ -1200,7 +1200,7 @@ function ScriptGenerator({data}){
           lines.push('        Write-Host "[*] Restarting VS Code..." -ForegroundColor Cyan');
           lines.push('        $running | Stop-Process -Force');
           lines.push('        Start-Sleep -Seconds 2');
-          lines.push('        Start-Process $codeBin');
+          lines.push('        Start-Process -FilePath $codeBin -ErrorAction SilentlyContinue');
           lines.push('        Write-Host "[+] VS Code restarted with new policy" -ForegroundColor Green');
           lines.push('    } else {');
           lines.push('        Write-Host "[*] Restart VS Code manually for the policy to take effect" -ForegroundColor Yellow');
@@ -1229,39 +1229,39 @@ function ScriptGenerator({data}){
         lines.push('Write-Host "[+] Found $($installedList.Count) installed extensions" -ForegroundColor Green');
         lines.push('');
         lines.push('# ── Step 4: Match against feed ──');
-        lines.push('$matches = @($installedList | Where-Object { $feedIds -contains $_.ToLower() })');
-        lines.push('if ($matches.Count -eq 0) {');
+        lines.push('$found = @($installedList | Where-Object { $feedIds -contains $_.ToLower() })');
+        lines.push('if ($found.Count -eq 0) {');
         lines.push('    Write-Host "[+] No matching extensions found - all clean!" -ForegroundColor Green');
         lines.push('    exit 0');
         lines.push('}');
         lines.push('Write-Host ""');
-        lines.push('Write-Host "[!] ALERT: $($matches.Count) matching extension(s) found:" -ForegroundColor Red');
-        lines.push('$matches | ForEach-Object { Write-Host "    - $_" -ForegroundColor Yellow }');
+        lines.push('Write-Host "[!] ALERT: $($found.Count) matching extension(s) found:" -ForegroundColor Red');
+        lines.push('$found | ForEach-Object { Write-Host "    - $_" -ForegroundColor Yellow }');
         lines.push('Write-Host ""');
 
         if(act==='detect'){
           lines.push('# ── Results ──');
-          lines.push('Write-Host "[+] Detection complete: $($matches.Count) match(es) out of $($installedList.Count) installed" -ForegroundColor Cyan');
-          lines.push('exit $matches.Count');
+          lines.push('Write-Host "[+] Detection complete: $($found.Count) match(es) out of $($installedList.Count) installed" -ForegroundColor Cyan');
+          lines.push('exit $found.Count');
         }
         if(act==='remove'){
           lines.push('# ── Step 5: Remove matched extensions ──');
           if(dr){
             lines.push('Write-Host "[DRY RUN] The following extensions WOULD be removed:" -ForegroundColor Yellow');
-            lines.push('$matches | ForEach-Object { Write-Host "    [DRY RUN] $_" -ForegroundColor Yellow }');
+            lines.push('$found | ForEach-Object { Write-Host "    [DRY RUN] $_" -ForegroundColor Yellow }');
             lines.push('Write-Host ""');
             lines.push('Write-Host "[+] Dry run complete. Disable dry-run to execute removal." -ForegroundColor Cyan');
           } else {
             if(!ac){
-              lines.push('$confirm = Read-Host "Proceed with removal of $($matches.Count) extension(s)? (y/N)"');
+              lines.push('$confirm = Read-Host "Proceed with removal of $($found.Count) extension(s)? (y/N)"');
               lines.push('if ($confirm -ne "y") { Write-Host "Aborted by user."; exit 0 }');
               lines.push('');
             }
             lines.push('$removed = 0; $failed = 0');
-            lines.push('foreach ($ext in $matches) {');
+            lines.push('foreach ($ext in $found) {');
             lines.push('    Write-Host "[*] Removing $ext ..." -ForegroundColor Red');
             lines.push('    try {');
-            lines.push('        & $codeBin --uninstall-extension $ext --force 2>&1 | Out-Null');
+            lines.push('        & $codeBin --uninstall-extension $ext 2>&1 | Out-Null');
             lines.push('        if ($LASTEXITCODE -eq 0) {');
             lines.push('            Write-Host "    [OK] Removed $ext" -ForegroundColor Green');
             lines.push('            $removed++');
@@ -1275,7 +1275,7 @@ function ScriptGenerator({data}){
             lines.push('    }');
             lines.push('}');
             lines.push('Write-Host ""');
-            lines.push('Write-Host "[+] Done: $removed removed, $failed failed out of $($matches.Count) total" -ForegroundColor Cyan');
+            lines.push('Write-Host "[+] Done: $removed removed, $failed failed out of $($found.Count) total" -ForegroundColor Cyan');
             lines.push('if ($failed -gt 0) { exit 1 } else { exit 0 }');
           }
         }
@@ -1383,15 +1383,7 @@ function ScriptGenerator({data}){
         lines.push('SETTINGS_DIR='+settingsDir);
         lines.push('SETTINGS_FILE="$SETTINGS_DIR/settings.json"');
         lines.push('POLICY_TMP="/tmp/vsxsentry_block_policy.json"');
-        lines.push('');
-        lines.push('# Build the policy JSON fragment');
         lines.push('echo "[*] Building block policy for $FEED_COUNT extensions..."');
-        lines.push('POLICY_FRAGMENT="{"');
-        lines.push('POLICY_FRAGMENT="$POLICY_FRAGMENT \\"*\\": true"');
-        lines.push('echo "$FEED" | while IFS= read -r ext; do');
-        lines.push('    [ -n "$ext" ] && POLICY_FRAGMENT="$POLICY_FRAGMENT, \\"$(echo "$ext" | tr -d \'\\r\')\\": false"');
-        lines.push('done');
-        lines.push('POLICY_FRAGMENT="$POLICY_FRAGMENT }"');
         lines.push('');
         if(dr){
           lines.push('# ── DRY RUN - preview only ──');
@@ -1413,24 +1405,24 @@ function ScriptGenerator({data}){
           lines.push('');
           lines.push('# Use python3 to merge JSON (robust and available on most dev machines)');
           lines.push('if command -v python3 &>/dev/null; then');
-          lines.push('    python3 -c "');
+          lines.push('    PYSCRIPT=$(mktemp /tmp/vsxsentry_merge_XXXXXX.py)');
+          lines.push('    cat > "$PYSCRIPT" << \'PYEOF\'');
           lines.push('import json, sys, os');
-          lines.push('settings_path = os.path.expandvars(os.path.expanduser(sys.argv[1]))');
-          lines.push('feed_path = sys.argv[2]');
-          lines.push('# Load existing settings or empty dict');
+          lines.push('settings_path = sys.argv[1]');
+          lines.push('feed_lines = sys.argv[2]');
           lines.push('if os.path.exists(settings_path):');
           lines.push('    with open(settings_path) as f: settings = json.load(f)');
           lines.push('else:');
           lines.push('    settings = {}');
-          lines.push('# Load feed IDs');
-          lines.push('with open(feed_path) as f: ids = [l.strip() for l in f if l.strip()]');
-          lines.push('# Build policy');
-          lines.push('policy = {chr(42): True}');
+          lines.push('ids = [l.strip() for l in feed_lines.split("\\n") if l.strip()]');
+          lines.push('policy = {"*": True}');
           lines.push('for ext_id in ids: policy[ext_id] = False');
-          lines.push('settings[chr(101)+chr(120)+chr(116)+chr(101)+chr(110)+chr(115)+chr(105)+chr(111)+chr(110)+chr(115)+chr(46)+chr(97)+chr(108)+chr(108)+chr(111)+chr(119)+chr(101)+chr(100)] = policy');
-          lines.push('with open(settings_path, chr(119)) as f: json.dump(settings, f, indent=2)');
+          lines.push('settings["extensions.allowed"] = policy');
+          lines.push('with open(settings_path, "w") as f: json.dump(settings, f, indent=2)');
           lines.push('print("[+] Policy applied: " + str(len(ids)) + " extensions blocked in " + settings_path)');
-          lines.push('" "$SETTINGS_FILE" <(echo "$FEED")');
+          lines.push('PYEOF');
+          lines.push('    python3 "$PYSCRIPT" "$SETTINGS_FILE" "$FEED"');
+          lines.push('    rm -f "$PYSCRIPT"');
           lines.push('elif command -v jq &>/dev/null; then');
           lines.push('    # Fallback to jq');
           lines.push('    POLICY_OBJ=$(echo "$FEED" | jq -Rn \'{"*":true} + ([inputs | select(length>0)] | map({(.): false}) | add)\')');
@@ -1525,7 +1517,7 @@ function ScriptGenerator({data}){
             lines.push('echo "$MATCHES" | while IFS= read -r ext; do');
             lines.push('    [ -z "$ext" ] && continue');
             lines.push('    echo "[*] Removing $ext ..."');
-            lines.push('    if "$CODE_BIN" --uninstall-extension "$ext" --force 2>/dev/null; then');
+            lines.push('    if "$CODE_BIN" --uninstall-extension "$ext" 2>/dev/null; then');
             lines.push('        echo "    [OK] Removed $ext"');
             lines.push('        removed=$((removed+1))');
             lines.push('    else');
