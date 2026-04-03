@@ -22,6 +22,45 @@ input:focus,button:focus,textarea:focus{outline:none}
 code{font-family:"IBM Plex Mono",monospace}
 strong{color:#e6edf3;font-weight:600}
 body{margin:0;background:#0a0c10;color:#c8ccd4;font-family:"IBM Plex Sans",system-ui,sans-serif}
+@media(max-width:768px){
+  .vsx-header{padding:12px 14px 10px!important}
+  .vsx-header h1{font-size:16px!important}
+  .vsx-header .vsx-subtitle{font-size:8px!important;letter-spacing:1.5px!important}
+  .vsx-logo{width:30px!important;height:30px!important}
+  .vsx-content{padding:14px 12px!important}
+  .vsx-tabs button{padding:5px 10px!important;font-size:11px!important}
+  .vsx-subtabs{gap:3px!important}
+  .vsx-subtabs button{padding:6px 10px!important;font-size:10px!important}
+  .vsx-grid3{grid-template-columns:1fr!important;gap:10px!important}
+  .vsx-grid2{grid-template-columns:1fr!important;gap:10px!important}
+  .vsx-stats{grid-template-columns:repeat(3,1fr)!important;gap:8px!important}
+  .vsx-filter-row{flex-direction:column!important;gap:6px!important}
+  .vsx-filter-row input,.vsx-filter-row select{width:100%!important;min-width:0!important;font-size:12px!important}
+  .vsx-btn-row{flex-wrap:wrap!important;gap:6px!important}
+  .vsx-btn-row button,.vsx-btn-row a{font-size:10px!important;padding:5px 10px!important}
+  .vsx-code-block{font-size:10px!important;padding:10px!important;max-height:300px;overflow:auto}
+  .vsx-card{padding:12px!important;margin-bottom:10px!important}
+  .vsx-card p{font-size:11.5px!important}
+  .vsx-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .vsx-table-wrap table{min-width:700px!important}
+  .vsx-presets{gap:4px!important}
+  .vsx-presets button{padding:4px 8px!important;font-size:10px!important}
+  .vsx-section-title{font-size:12px!important}
+  .vsx-footer{font-size:9px!important;padding:10px 14px!important}
+  .vsx-ghbtn{font-size:10px!important;padding:3px 8px!important}
+  .vsx-download-item{flex-direction:column!important;align-items:flex-start!important;gap:8px!important}
+  .vsx-download-item a,.vsx-download-item button{align-self:flex-end}
+  .vsx-desc-text{font-size:11px!important;line-height:1.6!important}
+  .vsx-checkbox-list{max-height:150px!important}
+}
+@media(max-width:480px){
+  .vsx-header{padding:10px 10px 8px!important}
+  .vsx-content{padding:10px 8px!important}
+  .vsx-tabs{gap:2px!important}
+  .vsx-tabs button{padding:4px 7px!important;font-size:10px!important}
+  .vsx-stats{grid-template-columns:repeat(2,1fr)!important}
+  .vsx-code-block{font-size:9px!important;padding:8px!important}
+}
 </style>
 </head>
 <body>
@@ -67,21 +106,21 @@ const S={
 };
 
 /* ── Utility Components ── */
-function Code({children}){return React.createElement("div",{style:S.code},children)}
+function Code({children}){return React.createElement("div",{className:"vsx-code-block",style:S.code},children)}
 function Callout({type,children}){
   const cfg={tip:{border:'#3fb950',icon:'TIP'},warn:{border:'#d29922',icon:'WARN'},critical:{border:'#f85149',icon:'CRIT'},info:{border:'#58a6ff',icon:'NOTE'}};
   const c=cfg[type]||cfg.info;
-  return React.createElement("div",{style:{borderLeft:'3px solid '+c.border,padding:'12px 16px',margin:'12px 0',background:'#0d1117',borderRadius:'0 8px 8px 0'}},
+  return React.createElement("div",{className:"vsx-card",style:{borderLeft:'3px solid '+c.border,padding:'12px 16px',margin:'12px 0',background:'#0d1117',borderRadius:'0 8px 8px 0'}},
     React.createElement("div",{style:{display:'flex',gap:8,alignItems:'flex-start'}},
       React.createElement("span",{style:{fontSize:10,fontWeight:700,color:c.border,fontFamily:mono,letterSpacing:'0.5px',marginTop:2,flexShrink:0}},c.icon),
-      React.createElement("div",{style:{fontSize:12.5,color:'#b1bac4',lineHeight:1.7}},children)));
+      React.createElement("div",{className:"vsx-desc-text",style:{fontSize:12.5,color:'#b1bac4',lineHeight:1.7}},children)));
 }
 function Section({title,children}){
-  return React.createElement("div",{style:{...S.card,marginBottom:16}},
-    React.createElement("div",{style:{fontSize:13,fontWeight:700,color:'#e6edf3',marginBottom:14,paddingBottom:12,borderBottom:'1px solid #1b1f27'}},title),children);
+  return React.createElement("div",{className:"vsx-card",style:{...S.card,marginBottom:16}},
+    React.createElement("div",{className:"vsx-section-title",style:{fontSize:13,fontWeight:700,color:'#e6edf3',marginBottom:14,paddingBottom:12,borderBottom:'1px solid #1b1f27'}},title),children);
 }
 function GhBtn({href,label}){
-  return React.createElement("a",{href,target:"_blank",rel:"noopener noreferrer",style:{display:'inline-flex',alignItems:'center',gap:6,padding:'5px 12px',background:'#161b22',border:'1px solid #30363d',borderRadius:6,color:'#c8ccd4',fontSize:11,textDecoration:'none',fontFamily:mono,fontWeight:500}},
+  return React.createElement("a",{href,target:"_blank",rel:"noopener noreferrer",className:"vsx-ghbtn",style:{display:'inline-flex',alignItems:'center',gap:6,padding:'5px 12px',background:'#161b22',border:'1px solid #30363d',borderRadius:6,color:'#c8ccd4',fontSize:11,textDecoration:'none',fontFamily:mono,fontWeight:500}},
     React.createElement("svg",{width:"14",height:"14",viewBox:"0 0 16 16",fill:"#c8ccd4"},
       React.createElement("path",{d:"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"})),
     label);
@@ -116,13 +155,13 @@ function DashboardTab({data}){
   return React.createElement("div",null,
     React.createElement("div",{style:{...S.card,marginBottom:24,borderLeft:'3px solid #f85149'}},
       React.createElement("div",{style:{fontSize:15,fontWeight:700,color:'#e6edf3',marginBottom:10}},"Why VS Code extensions are a critical attack vector"),
-      React.createElement("div",{style:{fontSize:12.5,color:'#8b949e',lineHeight:1.9},dangerouslySetInnerHTML:{__html:DASHBOARD_DESC}})),
-    React.createElement("div",{style:{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(140px,1fr))',gap:12,marginBottom:24}},
+      React.createElement("div",{className:"vsx-desc-text",style:{fontSize:12.5,color:'#8b949e',lineHeight:1.9},dangerouslySetInnerHTML:{__html:DASHBOARD_DESC}})),
+    React.createElement("div",{className:"vsx-stats",style:{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(140px,1fr))',gap:12,marginBottom:24}},
       [{l:'Total Extensions',v:data.length,c:'#58a6ff'},{l:'Publishers',v:pubs,c:'#a371f7'},{l:'Critical',v:sevs.critical||0,c:'#f85149'},{l:'High',v:sevs.high||0,c:'#db6d28'},{l:'Medium',v:sevs.medium||0,c:'#d29922'},{l:'Low',v:sevs.low||0,c:'#3fb950'}].map((s,i)=>
         React.createElement("div",{key:i,style:{...S.card,textAlign:'center'}},
           React.createElement("div",{style:{fontSize:24,fontWeight:800,color:s.c,fontFamily:mono}},s.v),
           React.createElement("div",{style:{fontSize:10,color:'#484f58',marginTop:4,textTransform:'uppercase',letterSpacing:'0.5px',fontFamily:mono}},s.l)))),
-    React.createElement("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16}},
+    React.createElement("div",{className:"vsx-grid2",style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16}},
       React.createElement(Section,{title:"Category Breakdown"},
         Object.entries(cats).sort((a,b)=>b[1]-a[1]).map(([cat,count],i)=>
           React.createElement("div",{key:i,style:{display:'flex',alignItems:'center',gap:10,padding:'6px 0',fontSize:12}},
@@ -245,7 +284,7 @@ function FeedTable({data,generated}){
     return h(React.Fragment,{key:i},mainRow,expRow);
   }
 
-  var searchBar=h("div",{style:{marginBottom:12,display:'flex',gap:8,flexWrap:'wrap',alignItems:'center'}},
+  var searchBar=h("div",{className:"vsx-filter-row",style:{marginBottom:12,display:'flex',gap:8,flexWrap:'wrap',alignItems:'center'}},
     h("input",{placeholder:"Search all fields...",value:search,onChange:function(e){setSearch(e.target.value)},style:{flex:1,minWidth:220,padding:'8px 14px',background:'#0d1117',border:'1px solid #1b1f27',borderRadius:6,color:'#e6edf3',fontSize:13,fontFamily:sans}}),
     h("select",{value:catFilter,onChange:function(e){setCatFilter(e.target.value)},style:{padding:'8px 10px',background:'#0d1117',border:'1px solid #1b1f27',borderRadius:6,color:'#c8ccd4',fontSize:12}},
       h("option",{value:''},"All categories"),
@@ -260,7 +299,7 @@ function FeedTable({data,generated}){
 
   var infoLine=h("div",{style:{fontSize:11,color:'#484f58',marginBottom:10,fontFamily:mono}},filtered.length+" results"+(pages>1?" - page "+(page+1)+" of "+pages:"")+(sortCol?" - sorted by "+sortCol+(sortAsc?" ↑":" ↓"):""));
 
-  var tableEl=h("div",{style:{borderRadius:8,border:'1px solid #1b1f27',overflow:'auto'}},
+  var tableEl=h("div",{className:"vsx-table-wrap",style:{borderRadius:8,border:'1px solid #1b1f27',overflow:'auto'}},
     h("table",{style:{width:'100%',borderCollapse:'collapse',fontSize:12,fontFamily:mono,minWidth:1100}},
       h("thead",null,h("tr",null,cols.map(function(c){
         var arrow=sortCol===c.k?(sortAsc?' ↑':' ↓'):'';
@@ -334,7 +373,7 @@ function DownloadPanel({data,generated}){
           h("span",{style:{width:8,height:8,borderRadius:'50%',background:g.color,display:'inline-block'}}),g.cat),
         g.feeds.map(function(f,fi){
           var url='feeds/'+f.file;
-          return h("div",{key:fi,style:{...S.card,marginBottom:8,display:'flex',alignItems:'center',gap:12}},
+          return h("div",{key:fi,className:"vsx-download-item",style:{...S.card,marginBottom:8,display:'flex',alignItems:'center',gap:12}},
             h("div",{style:{flex:1}},
               h("div",{style:{fontSize:13,fontWeight:600,color:'#e6edf3'}},f.name),
               h("div",{style:{fontSize:11,color:'#6e7681',marginTop:2}},f.desc),
@@ -359,7 +398,7 @@ function FeedBrowser({data,generated,subTab,onSubTab}){
     {id:'download',l:'Download Feeds'}
   ];
 
-  var tabBar=h("div",{style:{display:'flex',gap:4,marginBottom:16,alignItems:'center',flexWrap:'wrap'}},
+  var tabBar=h("div",{className:"vsx-subtabs",style:{display:'flex',gap:4,marginBottom:16,alignItems:'center',flexWrap:'wrap'}},
     tabs.map(function(t){return h("button",{key:t.id,onClick:function(){onSubTab(t.id)},style:{background:subTab===t.id?'#161b22':'transparent',
       border:subTab===t.id?'1px solid #58a6ff33':'1px solid #1b1f27',color:subTab===t.id?'#58a6ff':'#6e7681',
       padding:'8px 16px',borderRadius:8,cursor:'pointer',fontSize:12,fontWeight:subTab===t.id?700:400}},t.l)}),
@@ -680,7 +719,7 @@ function VSIXAnalyzer({data}){
       !r.exactHit&&r.pubHit&&h("span",{style:S.tag('#db6d28')},"PUBLISHER IN FEED"),
       !r.exactHit&&!r.pubHit&&h("span",{style:S.tag('#3fb950')},"No feed match"),
       h("span",{style:{...S.tag('#58a6ff')}},r.extId||'unknown')),
-    h("div",{style:{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(120px,1fr))',gap:10,marginTop:12}},
+    h("div",{className:"vsx-stats",style:{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(120px,1fr))',gap:10,marginTop:12}},
       [{l:'Files',v:r.fileCount},{l:'Size',v:fmtBytes(r.fileSize)},{l:'Scripts',v:r.signals.scripts},{l:'Binaries',v:r.signals.binaries},{l:'Findings',v:r.findings.length}].map(function(s,i){
         return h("div",{key:i,style:{textAlign:'center',padding:8,background:'#161b22',borderRadius:6}},
           h("div",{style:{fontSize:16,fontWeight:700,color:'#e6edf3',fontFamily:mono}},s.v),
@@ -785,14 +824,14 @@ function VSIXAnalyzer({data}){
     h("button",{onClick:function(){navigator.clipboard.writeText(r.vsixDownloadUrl)},style:{marginTop:6,padding:'5px 14px',background:'#161b22',border:'1px solid #30363d',borderRadius:6,color:'#c8ccd4',fontSize:11,cursor:'pointer',fontFamily:mono}},"Copy URL")):null;
 
   return h("div",null,dropZone,summaryCard,
-    h("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16}},manifestCard,feedCard),
-    h("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},findingsCard,capsCard),
-    h("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},depsCard,filesCard),
+    h("div",{className:"vsx-grid2",style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16}},manifestCard,feedCard),
+    h("div",{className:"vsx-grid2",style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},findingsCard,capsCard),
+    h("div",{className:"vsx-grid2",style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},depsCard,filesCard),
     signersCard,
-    ipsCard||domainsCard?h("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},ipsCard,domainsCard):null,
+    ipsCard||domainsCard?h("div",{className:"vsx-grid2",style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},ipsCard,domainsCard):null,
     urlsCard,
     hashesCard,
-    h("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},hashCard,policyCard),
+    h("div",{className:"vsx-grid2",style:{display:'grid',gridTemplateColumns:'1fr 1fr',gap:16,marginTop:16}},hashCard,policyCard),
     marketplaceCard,
     h("div",{style:{marginTop:16,display:'flex',gap:8,alignItems:'center'}},
       h(ContributeBtn),
@@ -891,7 +930,7 @@ function PolicyGenerator({data}){
         h("input",{placeholder:"Filter feed extensions...",value:search,onChange:function(e){setSearch(e.target.value)},style:{flex:1,padding:'6px 10px',background:'#0d1117',border:'1px solid #1b1f27',borderRadius:6,color:'#e6edf3',fontSize:12,fontFamily:sans}}),
         h("label",{style:{display:'flex',alignItems:'center',gap:4,fontSize:11,color:'#6e7681',cursor:'pointer'}},
           h("input",{type:"checkbox",checked:selectAll,onChange:function(e){setSelectAll(e.target.checked)}}),"Select all ("+filtered.length+")")),
-      h("div",{style:{maxHeight:200,overflowY:'auto',border:'1px solid #1b1f27',borderRadius:8,background:'#0d1117',marginBottom:12}},
+      h("div",{className:"vsx-checkbox-list",style:{maxHeight:200,overflowY:'auto',border:'1px solid #1b1f27',borderRadius:8,background:'#0d1117',marginBottom:12}},
         filtered.slice(0,200).map(function(r,i){return h("label",{key:i,style:{display:'flex',alignItems:'center',gap:8,padding:'4px 10px',fontSize:11,color:'#b1bac4',cursor:'pointer',borderBottom:'1px solid #0d111708'}},
           h("input",{type:"checkbox",checked:selected.has(r.extension_id),onChange:function(){toggle(r.extension_id)}}),
           h("span",{style:{fontFamily:mono,color:'#e6edf3'}},r.extension_id),
@@ -1561,12 +1600,12 @@ function ScriptGenerator({data}){
         "Scripts fetch the feed at runtime so they always use the latest data.")),
 
     // Quick presets
-    h("div",{style:{display:'flex',gap:6,marginBottom:14,flexWrap:'wrap'}},
+    h("div",{className:"vsx-presets",style:{display:'flex',gap:6,marginBottom:14,flexWrap:'wrap'}},
       h("span",{style:{fontSize:11,color:'#484f58',alignSelf:'center',fontFamily:mono}},"Quick:"),
       presets.map(function(p){return h("button",{key:p.key,onClick:function(){p.set();setActivePreset(p.key)},style:{padding:'5px 12px',background:activePreset===p.key?'#238636':'#161b22',border:'1px solid '+(activePreset===p.key?'#2ea04366':'#30363d'),borderRadius:6,color:activePreset===p.key?'#fff':'#e6edf3',fontSize:11,cursor:'pointer',fontFamily:mono,fontWeight:activePreset===p.key?700:400}},p.l)})),
 
     // Config grid
-    h("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr 1fr',gap:12,marginBottom:16}},
+    h("div",{className:"vsx-grid3",style:{display:'grid',gridTemplateColumns:'1fr 1fr 1fr',gap:12,marginBottom:16}},
       // OS
       h("div",null,
         h("div",{style:{fontSize:10,color:'#484f58',marginBottom:6,fontFamily:mono,textTransform:'uppercase'}},"Platform"),
@@ -1585,7 +1624,7 @@ function ScriptGenerator({data}){
           h("option",{value:'risky'},"Risky only"),
           h("option",{value:'all'},"All (malicious + risky)")))),
 
-    h("div",{style:{display:'grid',gridTemplateColumns:'1fr 1fr 1fr',gap:12,marginBottom:16}},
+    h("div",{className:"vsx-grid3",style:{display:'grid',gridTemplateColumns:'1fr 1fr 1fr',gap:12,marginBottom:16}},
       // VS Code variant
       h("div",null,
         h("div",{style:{fontSize:10,color:'#484f58',marginBottom:6,fontFamily:mono,textTransform:'uppercase'}},"VS Code Variant"),
@@ -1611,7 +1650,7 @@ function ScriptGenerator({data}){
           h("input",{type:"checkbox",checked:autoConfirm,onChange:function(e){setAutoConfirm(e.target.checked)}}),"Skip confirmation prompt"))),
 
     // Script output
-    h("div",{style:{display:'flex',gap:8,marginBottom:10,alignItems:'center'}},
+    h("div",{className:"vsx-btn-row",style:{display:'flex',gap:8,marginBottom:10,alignItems:'center',flexWrap:'wrap'}},
       h("button",{onClick:copyScript,style:{padding:'6px 16px',background:'#238636',border:'1px solid #2ea04366',borderRadius:6,color:'#fff',fontSize:11,fontWeight:600,cursor:'pointer',fontFamily:mono}},"Copy Script"),
       h("button",{onClick:downloadScript,style:{padding:'6px 16px',background:'#161b22',border:'1px solid #30363d',borderRadius:6,color:'#c8ccd4',fontSize:11,cursor:'pointer',fontFamily:mono}},"Download "+(os==='windows'?'.ps1':'.sh')),
       h(ContributeBtn),
@@ -1639,30 +1678,30 @@ function App(){
   var gps=[{id:'traces',l:'Forensic Traces'},{id:'remediation',l:'Remediation'}];
 
   return React.createElement("div",{style:S.page},
-    React.createElement("div",{style:{borderBottom:'1px solid #1b1f27',padding:'20px 28px 16px'}},
+    React.createElement("div",{className:"vsx-header",style:{borderBottom:'1px solid #1b1f27',padding:'20px 28px 16px'}},
       React.createElement("div",{style:{display:'flex',alignItems:'center',gap:12,marginBottom:10}},
-        React.createElement("img",{src:"data:image/png;base64,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",alt:"VSXSentry",style:{width:38,height:38,borderRadius:8}}),
+        React.createElement("img",{className:"vsx-logo",src:"data:image/png;base64,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",alt:"VSXSentry",style:{width:38,height:38,borderRadius:8}}),
         React.createElement("div",null,
           React.createElement("h1",{style:{fontSize:19,fontWeight:800,letterSpacing:'-0.5px',color:'#e6edf3',fontFamily:sans}},
             "VSX",React.createElement("span",{style:{color:'#58a6ff'}},"Sentry")),
-          React.createElement("div",{style:{fontSize:10,color:'#484f58',letterSpacing:'2px',textTransform:'uppercase',fontFamily:mono}},"VS Code Extension Threat Intelligence")),
+          React.createElement("div",{className:"vsx-subtitle",style:{fontSize:10,color:'#484f58',letterSpacing:'2px',textTransform:'uppercase',fontFamily:mono}},"VS Code Extension Threat Intelligence")),
         React.createElement("div",{style:{marginLeft:'auto',display:'flex',gap:8,alignItems:'center'}},
           React.createElement(GhBtn,{href:"https://github.com/mthcht/awesome-lists/tree/main/Lists/VSCODE%20Extensions",label:"IOCs"}),
           React.createElement(GhBtn,{href:"https://github.com/vsxsentry",label:"VSXSentry"}))),
-      React.createElement("div",{style:{display:'flex',gap:4,flexWrap:'wrap'}},
+      React.createElement("div",{className:"vsx-tabs",style:{display:'flex',gap:4,flexWrap:'wrap'}},
         tabs.map(function(t){return React.createElement("button",{key:t.id,onClick:function(){nav(t.id)},style:{background:tab===t.id?'#161b22':'transparent',border:tab===t.id?'1px solid #30363d':'1px solid transparent',color:tab===t.id?'#e6edf3':'#6e7681',padding:'7px 14px',borderRadius:6,cursor:'pointer',fontSize:12,fontWeight:tab===t.id?700:400}},t.l)}))),
-    React.createElement("div",{style:{padding:'24px 28px',maxWidth:1400,margin:'0 auto'}},
+    React.createElement("div",{className:"vsx-content",style:{padding:'24px 28px',maxWidth:1400,margin:'0 auto'}},
       tab==='dashboard'&&React.createElement(DashboardTab,{data:feedData}),
       tab==='feed'&&React.createElement(FeedBrowser,{data:feedData,generated:feedGenerated,subTab:feedSub,onSubTab:function(s){nav('feed/'+s)}}),
       tab==='scripts'&&React.createElement(ScriptGenerator,{data:feedData}),
       tab==='vsix'&&React.createElement(VSIXAnalyzer,{data:feedData}),
       tab==='policy'&&React.createElement(PolicyGenerator,{data:feedData}),
       tab==='guide'&&React.createElement("div",null,
-        React.createElement("div",{style:{display:'flex',gap:6,marginBottom:16}},
+        React.createElement("div",{className:"vsx-subtabs",style:{display:'flex',gap:6,marginBottom:16}},
           gps.map(function(g){return React.createElement("button",{key:g.id,onClick:function(){nav('guide/'+g.id)},style:{background:guideSub===g.id?'#161b22':'transparent',border:guideSub===g.id?'1px solid #58a6ff33':'1px solid #1b1f27',color:guideSub===g.id?'#58a6ff':'#6e7681',padding:'8px 16px',borderRadius:8,cursor:'pointer',fontSize:12,fontWeight:guideSub===g.id?700:400}},g.l)})),
         guideSub==='traces'&&React.createElement(TracesPanel),
         guideSub==='remediation'&&React.createElement(RemediationPanel))),
-    React.createElement("div",{style:{borderTop:'1px solid #1b1f27',padding:'16px 28px',textAlign:'center',fontSize:11,color:'#30363d',fontFamily:mono}},
+    React.createElement("div",{className:"vsx-footer",style:{borderTop:'1px solid #1b1f27',padding:'16px 28px',textAlign:'center',fontSize:11,color:'#30363d',fontFamily:mono}},
       "VSXSentry - Community-driven VS Code extension threat intelligence - ",
       React.createElement("a",{href:"https://github.com/vsxsentry",target:"_blank",rel:"noopener",style:{color:'#484f58',textDecoration:'none'}},"github.com/vsxsentry")));
 }
