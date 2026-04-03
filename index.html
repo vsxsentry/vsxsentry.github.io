@@ -804,16 +804,27 @@ function PolicyGenerator({data}){
   var h=React.createElement;
   var[os,setOs]=useState('windows');
   var[mode,setMode]=useState('blocklist');
+  var[feedScope,setFeedScope]=useState('malicious');
   var[search,setSearch]=useState('');
   var[selected,setSelected]=useState(new Set());
   var[selectAll,setSelectAll]=useState(true);
   var[customBlock,setCustomBlock]=useState('');
   var[customAllow,setCustomAllow]=useState('');
+
+  // Scope filter
+  var scoped=useMemo(function(){
+    if(feedScope==='malicious')return data.filter(function(r){return!(r.metadata_category||'').startsWith('risky-')});
+    if(feedScope==='risky')return data.filter(function(r){return(r.metadata_category||'').startsWith('risky-')});
+    return data;
+  },[data,feedScope]);
+  var malCount=useMemo(function(){return data.filter(function(r){return!(r.metadata_category||'').startsWith('risky-')}).length},[data]);
+  var riskyCount=useMemo(function(){return data.filter(function(r){return(r.metadata_category||'').startsWith('risky-')}).length},[data]);
+
   var filtered=useMemo(function(){
-    if(!search)return data;
+    if(!search)return scoped;
     var s=search.toLowerCase();
-    return data.filter(function(r){return(r.extension_id+' '+r.metadata_category+' '+r.metadata_comment).toLowerCase().includes(s)});
-  },[data,search]);
+    return scoped.filter(function(r){return(r.extension_id+' '+r.metadata_category+' '+r.metadata_comment).toLowerCase().includes(s)});
+  },[scoped,search]);
   useEffect(function(){
     if(selectAll)setSelected(new Set(filtered.map(function(r){return r.extension_id})));
     else setSelected(new Set());
@@ -868,6 +879,11 @@ function PolicyGenerator({data}){
         "Use ",h("code",{style:{color:'#a5d6ff'}},"\"*\": true")," with specific ",h("code",{style:{color:'#a5d6ff'}},"\"publisher.ext\": false"),
         " entries to block, or ",h("code",{style:{color:'#a5d6ff'}},"\"*\": false")," with explicit allows for strict allowlisting.")),
     h(OsToggle,{os:os,setOs:setOs}),
+    // Feed scope selector
+    h("div",{style:{display:'flex',gap:4,marginBottom:10,alignItems:'center'}},
+      h("span",{style:{fontSize:10,color:'#484f58',fontFamily:mono,textTransform:'uppercase',marginRight:4}},"Feed scope:"),
+      [{id:'malicious',l:'Malicious ('+malCount+')',c:'#f85149'},{id:'risky',l:'Risky ('+riskyCount+')',c:'#1f6feb'},{id:'all',l:'All ('+data.length+')',c:'#a371f7'}].map(function(s){
+        return h("button",{key:s.id,onClick:function(){setFeedScope(s.id)},style:{background:feedScope===s.id?'#161b22':'transparent',border:feedScope===s.id?'1px solid '+s.c+'55':'1px solid #1b1f27',color:feedScope===s.id?s.c:'#6e7681',padding:'5px 12px',borderRadius:6,cursor:'pointer',fontSize:11,fontWeight:feedScope===s.id?700:400,fontFamily:mono}},s.l)})),
     h("div",{style:{display:'flex',gap:4,marginBottom:14}},
       ['blocklist','allowlist'].map(function(m){return h("button",{key:m,onClick:function(){setMode(m)},style:{background:mode===m?'#161b22':'transparent',border:mode===m?'1px solid #a371f733':'1px solid #1b1f27',color:mode===m?'#a371f7':'#6e7681',padding:'5px 12px',borderRadius:6,cursor:'pointer',fontSize:11,fontWeight:mode===m?700:400,fontFamily:mono}},m==='blocklist'?'Block malicious (allow all others)':'Strict allowlist (block all others)')})),
     mode==='blocklist'&&h("div",{style:{marginBottom:16}},
