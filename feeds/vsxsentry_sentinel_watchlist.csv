@@ -321,6 +321,7 @@ Zeron1337.Zeron-CySec,Zeron1337,critical,malware,Removed from VS Marketplace: Ma
 723Studio.fta-ruleset-tools,723Studio,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 77qingliu.sas-syntax,77qingliu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 8bitZeta.Nand2Tetris-8bit,8bitZeta,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+abczyx2006.rust-coder,abczyx2006,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Acronix-dev.Go-work-tools,Acronix-dev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 AdamFortune.ezsqlite,AdamFortune,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 agility6.go-sort-imports,agility6,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -390,6 +391,7 @@ btwiuse.gopilot-chat,btwiuse,high,impersonation,Removed from VS Marketplace: Imp
 bysabi.prettier-vscode-semistandard,bysabi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 bysabi.prettier-vscode-standard,bysabi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 CalebBaird.leaderkey-configurable,CalebBaird,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+camork.fonted-plus,camork,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 cancline.cancline-dev,cancline,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 CartagoNova.turbo-console-log-forked-by-cartago,CartagoNova,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 chess-color-theme.chess-svelte-5-snippets,chess-color-theme,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -408,6 +410,16 @@ COMP.sqltools-enhanced,COMP,high,impersonation,Removed from VS Marketplace: Impe
 complete.prettier-vscode-community,complete,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 contextia.contextia-cline,contextia,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 crazypanda.git-commit-plugin-custom,crazypanda,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-auto-accept,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-code-review,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-color-picker,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-commit-helper,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-diff-viewer,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-japanese-pack,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-json-tools,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-prompt-pack,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-regex-tester,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+cryptninjaswap.cryptoninja-shuriken-dojo,cryptninjaswap,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ctk.commandlist-enhanced,ctk,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 cuijiudai.i18n-ally-vue,cuijiudai,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 cuitianze.turbo-console-log-with-emoji,cuitianze,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -431,6 +443,7 @@ devCharles5277.primevue-helper-zh-tw,devCharles5277,high,impersonation,Removed f
 devCHOUZZ.vscode-better-align-pro,devCHOUZZ,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 devolutionsinc.devolutions-powershell-universal,devolutionsinc,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 devSparkle.luau-lsp-overtur,devSparkle,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+devxlogan.jetbrains-rider-new-ui-theme-fixed,devxlogan,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Dhakshinesh.sfdx-package-xml-generator-by-dk,Dhakshinesh,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 diamond.diamond,diamond,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 diegofernandezpandiello.super-elixir-ls,diegofernandezpandiello,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -449,6 +462,7 @@ dotatong.wt-prettier-vscode,dotatong,high,impersonation,Removed from VS Marketpl
 DoveAz.gitmojisense,DoveAz,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 drzorm.vscode-fast-folder-structure-custom,drzorm,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 duailibe.miniprettier,duailibe,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+duanyll.image-gallery,duanyll,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 DylanRampage.prettier-optimized,DylanRampage,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 dywsy21.latex-previewer-minor-fixes,dywsy21,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ebextensions.clang-format-2025,ebextensions,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -526,6 +540,7 @@ JackHerry.copilotx-ai-assistant,JackHerry,high,impersonation,Removed from VS Mar
 JackHerry.gitlens-turbocharged,JackHerry,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 JackHerry.neon-night-theme-ai,JackHerry,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 JackHerry.prettier-advanced-ai,JackHerry,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+jackieyyang.jackieyyang-git-extension-pack,jackieyyang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jackolope.lit-analyzer-plugin,jackolope,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jackywjs.jacky-jest-runner,jackywjs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jackywjs.node-modules-enhanced,jackywjs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -699,6 +714,7 @@ RachmatKaligis.robotcode-gherkin-extended,RachmatKaligis,high,impersonation,Remo
 RahulSinha.bracketeer-personal,RahulSinha,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 RdbtCVS.chattriggers-latest,RdbtCVS,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ReadMeAI.readmeai,ReadMeAI,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+RecoLive.lldb-dap-android,RecoLive,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 remimarsal.prettier-now,remimarsal,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 reorx.github-abs-vscode-theme,reorx,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 RevoData.vscode-for-just,RevoData,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
