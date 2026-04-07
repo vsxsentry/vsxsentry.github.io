@@ -609,6 +609,7 @@ fecet.vscode-neovim-fecet
 ferrymo.intellij-idea-new-ui-pretty-ferrymo
 flutcode.flutter-extension
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai
+foba-language.foba-language
 formulahendry.code-runner
 fortune.investment-assistant
 fq.markdown-checkbox-with-timestamp-at-creation
@@ -643,6 +644,7 @@ hetu.HetuGit
 hhu-stups.prob
 hkalyane.csv-advanced-editor
 hoOJluGun.ho-ojlugun-ai
+hqvjet.pixel-agents-remake
 hsn8086.cph-hsn-edition
 humao.rest-client
 humy2833.ftp-simple
@@ -866,6 +868,7 @@ publishingsofficial.prettier-vscode-plus
 pvparuchuri.sas
 pythoner.Black-Molokai-Theme
 qianzijiao.continue-with-code-swift
+qpluslang.qplusos
 quartz.quartz-markdown-editor
 qusic.easysass-ng
 rabbitsyntax.rabbitsyntax
@@ -963,6 +966,7 @@ vibe-xyz.vibe-xyz
 vims-vsce.vscode-vim
 vitalik-Buterin.soli-extensio
 vjoker.legend-script-editor
+vox-studio.vox-language
 vroshupkin.plantuml-png-microfork
 vs-browser-openUrl.vs-browser-openUrl
 vsceue.volar-vscode

@@ -516,6 +516,7 @@ indicator,Text,hhu-stups.prob,75,75,Removed from VS Marketplace: Impersonation.,
 indicator,Text,hkalyane.csv-advanced-editor,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,HonzaPudil.vscode-theme-onedarker-custom,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hoOJluGun.ho-ojlugun-ai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,hqvjet.pixel-agents-remake,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hsn8086.cph-hsn-edition,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hwrn001.snakemake-lang-pre-release,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hyoban.file-icons-continue,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -945,7 +946,10 @@ indicator,Text,kanin-020.vscode-proxy-manager,50,50,VSCode Proxy Manager: manage
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.market,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledin,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,foba-language.foba-language,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,Kiki67.gambling-corner,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,qpluslang.qplusos,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,vox-studio.vox-language,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,sanchuan.glm-copilot,50,50,Removed from VS Marketplace: Spam / Malware.,spam-malware;medium
 indicator,Text,sanchuan.kimi-coding-copilot,50,50,Removed from VS Marketplace: Spam / Malware.,spam-malware;medium
 indicator,Text,sanchuan.kimi-copilot,50,50,Removed from VS Marketplace: Spam / Malware.,spam-malware;medium
