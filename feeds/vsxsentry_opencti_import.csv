@@ -255,6 +255,7 @@ indicator,Text,seolmuah.jupyter-live-share,90,90,Removed from VS Marketplace: Ma
 indicator,Text,SFRA-FAKA.sfra-toolkit,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ShowSnowcrypto.SnowShoNo,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,SmartContractAI.solaibot,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,sneakyloris.team-pulse,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,SnippetsLabs.kendo-formatter,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,soIidity.cryptoovertheweekend4,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,solblanco.svetle-vsce,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -397,6 +398,7 @@ indicator,Text,CartagoNova.turbo-console-log-forked-by-cartago,75,75,Removed fro
 indicator,Text,chess-color-theme.chess-svelte-5-snippets,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,chirayuk.embedded-languages-ck,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,christian237.nys,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,ChristopherCRobinson.browser-tools-for-testcafe,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,chrp.vscode-auto-restart-typescript-and-eslint,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,CJL.todo-tree-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,clclw.php-formatterclclw,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -405,6 +407,7 @@ indicator,Text,cn00.sqltools-duckdb,75,75,Removed from VS Marketplace: Impersona
 indicator,Text,codelogix.catppuccin-darker-vsc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codeomnitrix.firestore-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codevsce.codelddb-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,cognivision.cogni-dev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,COMP.sqltools-driver-postgres,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,COMP.sqltools-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,complete.prettier-vscode-community,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -576,6 +579,7 @@ indicator,Text,kazi08.mcp-audit-pii-guard,75,75,Removed from VS Marketplace: Imp
 indicator,Text,kd100100.kd100100-cline,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,KevinYouu.tailwind-raw-reorder-tw4,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,keyang.vscode-leetcode-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,kindly-robotics.inferall-ai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kingace2056.json-to-dart-fixed-kingace2056,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,KMSLV.c-ai-chan,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Knotron.treky-dev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -676,6 +680,7 @@ indicator,Text,PCODE-pl.LiveServerPlus,75,75,Removed from VS Marketplace: Impers
 indicator,Text,PCODE-pl.vscode-autohide-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PCODE-pl.vscode-favorites-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PCODE-pl.vscode-phpmd-suppress,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,pedrocmota.workspace-formatter-multiple,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PeterC.i18n-ally-fork-peter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,phantomgz.vscode-theme-onedark-c,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PhungXuanAnh.auto-run-command-with-condition,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -775,6 +780,7 @@ indicator,Text,StackspotPlatform.StackSpot,75,75,Removed from VS Marketplace: Im
 indicator,Text,sthudy.keil-assistant-Linux,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,stratomercata.strato-mercata,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,streamax.claude-dev-streamax,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,stunning-yunwu.code-debugger-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,sunamo-cz.specstory-autosave,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Superxin.ctags-c-cpp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Superxin.ctagsc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -789,11 +795,13 @@ indicator,Text,TheRealGorgan.better-sidebar-markdown-notes,75,75,Removed from VS
 indicator,Text,TheRealGorgan.copilot-chat-history-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,TheRealGorgan.vscode-google-tasks-extension,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,thewerthon.thewerthon-scope-to-this,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,thirst.cfxlua-types-intellisense,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,thirst.cfxlua-typings,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,tinbox.korofileheader-tinbox,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,tmp-primes.wtinymist,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,TobiasHochguertel.catalog-lens,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,TobiasHochguertel.pattern-links-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,tohuw.focus-lines,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,toommyliu.cursor-dark-no-italicse,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,trandaison.trandaison-git-file-history,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,tria-technologies.simpleswitch-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -860,6 +868,9 @@ indicator,Text,zouguowei.krtc-filter-line,75,75,Removed from VS Marketplace: Imp
 indicator,Text,zqchen.vscode-dashboard-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zstings.claude-code-zh-cn,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zwyyy456.mariana-st,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Price.automatic-printing-codem,75,75,Removed from VS Marketplace: Potentially malicious.,potentially-malicious;high
+indicator,Text,Price.automatic-recording-code,75,75,Removed from VS Marketplace: Potentially malicious.,potentially-malicious;high
+indicator,Text,Price.code-documentation-utilities,75,75,Removed from VS Marketplace: Potentially malicious.,potentially-malicious;high
 indicator,Text,zigbook.pilot-repl,75,75,Removed from VS Marketplace: Potentially malicious.,potentially-malicious;high
 indicator,Text,RooVeterinaryInc.roo-cline,75,75,Roo Code (Roo-Cline): autonomous AI coding agent - full filesystem and terminal access - executes commands and modifies code - sends context to external LLM providers,risky-ai-code-access;high
 indicator,Text,saoudrizwan.claude-dev,75,75,Cline (Claude Dev): autonomous AI coding agent - reads writes and executes code - can run terminal commands - creates files and modifies codebase - sends context to LLM APIs,risky-ai-code-access;high

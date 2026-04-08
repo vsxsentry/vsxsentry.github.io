@@ -74,6 +74,7 @@ CalebBaird.leaderkey-configurable
 CartagoNova.turbo-console-log-forked-by-cartago
 Cencurity.cencurity-connector
 CharlesHoskinson.lfamnw1
+ChristopherCRobinson.browser-tools-for-testcafe
 CloudianApp.CloudianCompanion-56d02aa8da72
 Codeium.codeium
 Continue.continue
@@ -288,6 +289,9 @@ ParwatKunwar.codesandbox-parwat-theme
 PeterC.i18n-ally-fork-peter
 PhungXuanAnh.auto-run-command-with-condition
 Postman.postman-for-vscode
+Price.automatic-printing-codem
+Price.automatic-recording-code
+Price.code-documentation-utilities
 Prisma-Inc.prisma-studio-assistance
 PriyanshuMallick.clipboard-history-manager
 ProjectStarboy.projectstarboy-vscode
@@ -522,6 +526,7 @@ codelogix.catppuccin-darker-vsc
 codeomnitrix.firestore-studio
 coder.coder-remote
 codevsce.codelddb-vscode
+cognivision.cogni-dev
 colan100.antigravity100
 colan100.ccbrasil
 colan100.gemini100
@@ -711,6 +716,7 @@ kast789.vs-2019-theme
 kazi08.mcp-audit-pii-guard
 kd100100.kd100100-cline
 keyang.vscode-leetcode-enhanced
+kindly-robotics.inferall-ai
 kingace2056.json-to-dart-fixed-kingace2056
 kingepic84.symphony-language
 kodawari.cline-japanese
@@ -825,6 +831,7 @@ pandaexpress.Theme-Array-plugin
 pandaexpress.Theme-ant-plugin
 pandaexpress.Theme-arstotzka-plugin
 parmentelat.vscode-jupytext-parmentelat
+pedrocmota.workspace-formatter-multiple
 phantomgz.vscode-theme-onedark-c
 philnash.ngrok-for-vscode
 piithon.piiithon-linter
@@ -913,6 +920,7 @@ siehc.vscode-proto3-rebirth
 siffat-ahmed.ai-autocomplete-siffat-ahmed
 smarty1337.nixware-snippets
 smnatale.tokyodark
+sneakyloris.team-pulse
 snrico-moonlight.gruvbox-material-community
 soIidity.cryptoovertheweekend4
 solario.enhanced-favorites
@@ -927,6 +935,7 @@ sseveur.vscode-bigquery-v2
 sthudy.keil-assistant-Linux
 stratomercata.strato-mercata
 streamax.claude-dev-streamax
+stunning-yunwu.code-debugger-plus
 sunamo-cz.specstory-autosave
 suntobright.vscode-sftp
 suspublisher18.susvsex
@@ -942,10 +951,12 @@ testrl777.Solidity-Ethereum
 theme-cyberpunk.theme-neon-cyberpunk
 thesashkin.krnl-execute-thesashkin
 thewerthon.thewerthon-scope-to-this
+thirst.cfxlua-types-intellisense
 thirst.cfxlua-typings
 tilt-dev.tiltfile
 tinbox.korofileheader-tinbox
 tmp-primes.wtinymist
+tohuw.focus-lines
 toommyliu.cursor-dark-no-italicse
 trandaison.trandaison-git-file-history
 tria-technologies.simpleswitch-vscode
