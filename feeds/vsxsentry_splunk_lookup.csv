@@ -20,7 +20,6 @@ AmsTaFFix.daemonic-lua-api,AmsTaFFix,critical,malware,Removed from VS Marketplac
 annacode.pt-lab-simproc,annacode,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ANZ-BANK.vscode-sysl,ANZ-BANK,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AshleyHornja.prettierformattingplus,AshleyHornja,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
-AugmentedValueAcceleration.ava-supernova,AugmentedValueAcceleration,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 automated1ogic.automated1ogic,automated1ogic,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 automatedlogic.automatedlogic,automatedlogic,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AutoMind.automindX,AutoMind,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -960,6 +959,39 @@ kanin-020.vscode-proxy-manager,kanin-020,medium,risky-tunnel,VSCode Proxy Manage
 foba-language.foba-language,foba-language,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Kiki67.gambling-corner,Kiki67,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 qpluslang.qplusos,qpluslang,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+sentinelvs.sentinel-debug,sentinelvs,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+shahul-dev.internal,shahul-dev,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-base64,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-case-converter,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-duplicate-line-highlighter,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-duplicate-line-remover,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-fahh,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-hash-generator,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-http-status,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-json-formatter,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-jwt-decoder,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-kill-port,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-lorem-generator,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-password-generator,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-rage-quit,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-random-data-generator,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-regex-tester,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-remove-empty-lines,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-remove-trailing-spaces,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-tab-killer,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-terminal-cleaner,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-text-sorter,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-timestamp-converter,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-url-encoder,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-uuid,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-word-counter,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMark.slashmark-workspace-reset,SlashMark,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+slashmarkdev.api-tester-by-slashmark-it,slashmarkdev,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+slashmarkdev.env-file-manager-by-slashmark,slashmarkdev,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMarkHub.auto-log-tracker-by-slashmark,SlashMarkHub,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMarkHub.error-explainer-by-slashmark,SlashMarkHub,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMarkHub.global-notes-snippets-by-slashmark,SlashMarkHub,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+SlashMarkITSolutionsOPCPvtLtd.slashmark-json-yaml-converter,SlashMarkITSolutionsOPCPvtLtd,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 vox-studio.vox-language,vox-studio,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 sanchuan.glm-copilot,sanchuan,medium,spam-malware,Removed from VS Marketplace: Spam / Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 sanchuan.kimi-coding-copilot,sanchuan,medium,spam-malware,Removed from VS Marketplace: Spam / Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
