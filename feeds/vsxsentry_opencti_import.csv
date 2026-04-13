@@ -109,6 +109,7 @@ indicator,Text,Extensions-Topic.polish,90,90,Removed from VS Marketplace: Malwar
 indicator,Text,Extensions-Topic.portugese,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,FaceCrypto.chocolatesnack,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,FEYeh.ssc-ibs,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,floktokbok.autoimport,90,90,compromised - New Zig dropper infects every IDE on your machine,malware;critical
 indicator,Text,flutcode.flutter-extension,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,GavinLamWood.vs-blanket,90,90,Removed from VS Marketplace: Malware.,malware;critical
