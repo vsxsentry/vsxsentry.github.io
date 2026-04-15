@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-8b64ddc5-05dd-40c9-a709-85536b5c896a">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-602168e4-28b1-49c0-80a3-9ba0f0f2005c">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-04-15T07:54:00+00:00</description>
+<description>Generated: 2026-04-15T13:47:01+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -2286,10 +2286,6 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
-    <Content type="string">Gabeseltzer.behave-vsc-gs</Content>
-  </IndicatorItem>
-  <IndicatorItem condition="contains">
-    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">gabrielbotan.gruvbox-vim</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -2795,10 +2791,6 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">lujstn.synthwave-fluoromachine-cursor</Content>
-  </IndicatorItem>
-  <IndicatorItem condition="contains">
-    <Context document="processItem" search="processItem/arguments" type="mir"/>
-    <Content type="string">lumirelle.shell-format-rev</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
