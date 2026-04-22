@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20260421",
+  "version": "20260422",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
