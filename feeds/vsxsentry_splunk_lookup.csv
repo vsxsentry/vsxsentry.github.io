@@ -49,6 +49,8 @@ bug-author.shadure,bug-author,critical,malware,Removed from VS Marketplace: Malw
 Cencurity.cencurity-connector,Cencurity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ceo.sammarco,ceo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 CharlesHoskinson.lfamnw1,CharlesHoskinson,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+checkmarx.ast-results,checkmarx,critical,malware,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,static_list,https://socket.dev/blog/checkmarx-supply-chain-compromise
+checkmarx.cx-dev-assist,checkmarx,critical,malware,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,static_list,https://socket.dev/blog/checkmarx-supply-chain-compromise
 clacla100.claudemem,clacla100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 clacla100.cosave100,clacla100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 clawdbot.clawdbot-agent,clawdbot,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
