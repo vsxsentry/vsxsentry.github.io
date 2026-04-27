@@ -242,6 +242,7 @@ LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
 LinkingMountains.SonarColorizer
 LuizDoPc.luizdopc-turbo-console-log
+MMitsuha.vscode-docker-registry-explorer-rev
 MS-vsliveshare.vsliveshare
 MahendrakarPrateek.prettyxml-pro
 MaikeyShrimp.vscode-pets-shrimp-bata
@@ -263,6 +264,7 @@ MarkH.python-obfuscator-vscode
 MarkH.rust-compiler-vs
 MarkHutchins.markdown-preview-vs
 MarkWood.nonmalicious2
+Marvello.js-beautify-wrapper
 Med-H.git-graph-revamped
 MediaLLC.solidyy
 MichaelBanucu.vscode-mocha-test-adapter-update-to-nodejs-22
@@ -275,10 +277,12 @@ NFoundation.terraform-ai
 NPC1.unify-chat-provider-ui
 Naki.ariake2022
 Natizyskunk.sftp
+NavAI-B.svn-scm-modified
 NeoMain.Neo-Better-DevTracker
 Nibs.remote-cloud-shell
 Nice8888.cline-nice8888
 Noe.noe-tokyo-night-horizon
+NolanWang.omnimedia-player
 NotToTest.NotToTest
 OPENEDAI.OPENEDAI
 OfekBickel.wpp
@@ -306,7 +310,6 @@ ParthRaninga.cursor-ai-rules
 ParthRaninga.cursor-smart-rules
 ParthRaninga.cursor-smart-rules-demo
 ParwatKunwar.codesandbox-parwat-theme
-PatrikHuber.ImageWatch
 PeterC.i18n-ally-fork-peter
 PhungXuanAnh.auto-run-command-with-condition
 Postman.postman-for-vscode
@@ -366,6 +369,8 @@ SamuelPinto.better-vscode-html-css
 SamuelPinto.better-vscode-html-css-support
 SamuelPinto.prettier-vscode-pluss
 Sayantan710.ollot
+SenkoTheKitsune.nomo-dark-extended
+SeoDoktoru.minimax-god-mode
 SereneStudios.Steam-Classic-Theme
 Sewara.copy-fences-lang
 ShayanAhmedKhan.visual-studio-themes
@@ -496,6 +501,7 @@ ab-498.cppplayground
 ab-498.pythonformat
 abczyx2006.rust-coder
 abhiagr.livs
+abstractalgo.package-json-upgrade-abstractalgo
 adityasanwal.faa-sound
 agent.devdock
 agility6.go-sort-imports
@@ -779,6 +785,7 @@ gtfish1988.gtfish24-jira-markdown
 gtfish1988.gtfish26-join-selected-string
 gtfish1988.gtfish28-add-header
 gtfish1988.gtfish31-folding
+gtfish1988.gtfish32-markdown-formatter
 guojun.code-keeper
 gvotch-studio.claude-code-extensions
 gvotcha.claude-code-extension
@@ -912,6 +919,7 @@ lavender-studio.theme-lavender-dreams
 leon-qiu.hexo-auto-updated
 leonardomth.claudio-code
 levicarlsson.shelly
+lijiangang.vscode-picgo-paste-adpt-wayland
 linlinzhao.turbo-console-log-enhance
 littensy-studio.magical-icons
 littensydev.charmed-icons-pro
@@ -1081,6 +1089,7 @@ qianzijiao.continue-with-code-swift
 qpluslang.qplusos
 quartz.quartz-markdown-editor
 qusic.easysass-ng
+r0kuko.jetbrains-file-icon-theme-extended
 rabbitsyntax.rabbitsyntax
 raidenshogun.javascript-null-sequence
 rangav.vscode-thunder-client
@@ -1228,6 +1237,7 @@ unique123.continue-plus
 v-test-publisher.vscode-azure-functions-remote-web-test
 v8tech.v8-code
 val-brlt.turbo-console-no-comma
+valentinbeaumont.youtrack-vscode
 vbtheory.gitlab-pipeline-monitor-advanced
 vce-brendan-studio-eich.js-debuger-vscode
 veldekov.csv-pro-suite

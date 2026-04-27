@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-bbfc4b85-5d75-442b-a56d-ea3addac961a">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-14fe0c77-cfbf-4325-9b34-6bd9c4544aaa">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-04-27T14:04:22+00:00</description>
+<description>Generated: 2026-04-27T17:26:06+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -1922,6 +1922,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">abstractalgo.package-json-upgrade-abstractalgo</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Acronix-dev.Go-work-tools</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -2802,6 +2806,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">gtfish1988.gtfish32-markdown-formatter</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">guojun.code-keeper</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3258,6 +3266,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">lijiangang.vscode-picgo-paste-adpt-wayland</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">LinkingMountains.SonarColorizer</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3350,6 +3362,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Marvello.js-beautify-wrapper</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">marvin63597.claude-dd</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3386,6 +3402,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">MMitsuha.vscode-docker-registry-explorer-rev</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">MohammadWaliduddin.codexeconpixel</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3415,6 +3435,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">nanmu.office-viewer-pro</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">NavAI-B.svn-scm-modified</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -3471,6 +3495,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">nofoot.clang-format-support-style-variable</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">NolanWang.omnimedia-player</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -3535,10 +3563,6 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">ParwatKunwar.codesandbox-parwat-theme</Content>
-  </IndicatorItem>
-  <IndicatorItem condition="contains">
-    <Context document="processItem" search="processItem/arguments" type="mir"/>
-    <Content type="string">PatrikHuber.ImageWatch</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -3706,6 +3730,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">r0kuko.jetbrains-file-icon-theme-extended</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Rabiloo.ethery</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3866,7 +3894,15 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">SenkoTheKitsune.nomo-dark-extended</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">senseDevpro.profiler-php-pro</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">SeoDoktoru.minimax-god-mode</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -4139,6 +4175,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">val-brlt.turbo-console-no-comma</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">valentinbeaumont.youtrack-vscode</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
