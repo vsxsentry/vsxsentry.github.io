@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-eae71430-eacb-4c17-9520-9a0e9fa03cac">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-26163635-2ace-47cb-9a78-ed9e48dc52f3">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-04-29T14:08:38+00:00</description>
+<description>Generated: 2026-04-29T17:42:18+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -3055,6 +3055,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">JiHoonKim.devtool-plus-kr</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">jinshi-news.jinshi-news</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
