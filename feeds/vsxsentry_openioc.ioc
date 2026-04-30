@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-d41facd3-4f80-4cc0-918d-f1fc91725315">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-6cf60d78-497f-48f1-856e-9b2e0ad6c525">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-04-30T03:35:32+00:00</description>
+<description>Generated: 2026-04-30T06:31:22+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4218,6 +4218,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">veraeva.RojoDB</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">verreauxblack.vscode-git-commands-helper</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5043,6 +5047,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">claudecodeassist.claudecodeassist</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">clint.rust-essentials-pack</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
