@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-2cd4b301-96bc-44f6-a61b-4c1a35e08e18">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-c3467b74-1104-4a3e-8ab2-1078b4e18f26">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-04-30T22:56:10+00:00</description>
+<description>Generated: 2026-05-01T03:47:08+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -3290,6 +3290,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">litou.transify</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">littensydev.charmed-icons-pro</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3778,6 +3782,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Realtek.realtek-ameba</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">RecoLive.lldb-dap-android</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4006,6 +4014,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">soshnikov.http-proxy-toggle-soshnikov</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">SoulFriends.change-case-for-vscode</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4147,6 +4159,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">tinbox.korofileheader-tinbox</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">tinysam.kanagawa-pro</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
