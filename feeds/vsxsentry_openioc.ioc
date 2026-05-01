@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-69b5e7b7-3161-43c9-be65-1e01b74c9a85">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-91d4ea3a-13b1-4a3d-994f-d536a18a7d38">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-05-01T15:00:06+00:00</description>
+<description>Generated: 2026-05-01T17:00:53+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -2050,6 +2050,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">ant5888.opencode-vscode-cn</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">anwar.papyrus-pdf</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3171,6 +3175,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">kingace2056.json-to-dart-fixed-kingace2056</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Klioai.Klioai</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
