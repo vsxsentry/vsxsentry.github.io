@@ -58,6 +58,7 @@ ceo.sammarco,ceo,critical,malware,Removed from VS Marketplace: Malware.,microsof
 CharlesHoskinson.lfamnw1,CharlesHoskinson,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 checkmarx.ast-results,checkmarx,critical,malware,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,static_list
 checkmarx.cx-dev-assist,checkmarx,critical,malware,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,static_list
+chvancooten.code-needle,chvancooten,critical,malware,offensive security tool - covert HTTP JSON-RPC code execution backdoor for VS Code with full Node.js privileges,static_list
 clacla100.claudemem,clacla100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 clacla100.cosave100,clacla100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 clawdbot.clawdbot-agent,clawdbot,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages

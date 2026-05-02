@@ -58,6 +58,7 @@ indicator,Text,ceo.sammarco,90,90,Removed from VS Marketplace: Malware.,malware;
 indicator,Text,CharlesHoskinson.lfamnw1,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,checkmarx.ast-results,90,90,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,malware;critical
 indicator,Text,checkmarx.cx-dev-assist,90,90,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,malware;critical
+indicator,Text,chvancooten.code-needle,90,90,offensive security tool - covert HTTP JSON-RPC code execution backdoor for VS Code with full Node.js privileges,malware;critical
 indicator,Text,clacla100.claudemem,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,clacla100.cosave100,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,clawdbot.clawdbot-agent,90,90,Removed from VS Marketplace: Malware.,malware;critical
