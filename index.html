@@ -119,6 +119,18 @@ function Section({title,children}){
   return React.createElement("div",{className:"vsx-card",style:{...S.card,marginBottom:16}},
     React.createElement("div",{className:"vsx-section-title",style:{fontSize:13,fontWeight:700,color:'#e6edf3',marginBottom:14,paddingBottom:12,borderBottom:'1px solid #1b1f27'}},title),children);
 }
+function GuardBtn({label,fill}){
+  // Distinct accent style for the VSXSentry Guard CTA. fill=true uses solid blue
+  // (used in the Enterprise Tools section); fill=false uses subtle accent border
+  // (used in the dense top-bar to not overpower the other links).
+  var style=fill
+    ? {display:'inline-flex',alignItems:'center',gap:6,padding:'5px 12px',background:'#1f6feb',border:'1px solid #388bfd',borderRadius:6,color:'#fff',fontSize:11,textDecoration:'none',fontFamily:mono,fontWeight:600}
+    : {display:'inline-flex',alignItems:'center',gap:6,padding:'5px 12px',background:'#0d2d5c',border:'1px solid #1f6feb88',borderRadius:6,color:'#79c0ff',fontSize:11,textDecoration:'none',fontFamily:mono,fontWeight:600};
+  return React.createElement("a",{href:"https://github.com/vsxsentry/vsxsentry-guard",target:"_blank",rel:"noopener noreferrer",className:"vsx-ghbtn",style:style},
+    React.createElement("svg",{width:"13",height:"13",viewBox:"0 0 16 16",fill:"none",stroke:"currentColor",strokeWidth:"1.6"},
+      React.createElement("path",{d:"M8 1.5L2.5 4v4.5c0 3.5 2.4 5.4 5.5 6 3.1-.6 5.5-2.5 5.5-6V4L8 1.5z"})),
+    label||"VSXSentry Guard");
+}
 function GhBtn({href,label}){
   return React.createElement("a",{href,target:"_blank",rel:"noopener noreferrer",className:"vsx-ghbtn",style:{display:'inline-flex',alignItems:'center',gap:6,padding:'5px 12px',background:'#161b22',border:'1px solid #30363d',borderRadius:6,color:'#c8ccd4',fontSize:11,textDecoration:'none',fontFamily:mono,fontWeight:500}},
     React.createElement("svg",{width:"14",height:"14",viewBox:"0 0 16 16",fill:"#c8ccd4"},
@@ -174,9 +186,11 @@ function DashboardTab({data}){
           React.createElement("code",{style:{color:'#a5d6ff'}},"extensions.allowed"),", ",
           React.createElement("code",{style:{color:'#a5d6ff'}},"extensions.blocked"),", and ",
           React.createElement("code",{style:{color:'#a5d6ff'}},"extensions.autoUpdate")," settings, deployable via GPO, MDM, or configuration profiles. ",
-          "Use the ",React.createElement("strong",null,"Policy Generator")," tab to create platform-specific snippets, and the ",
-          React.createElement("strong",null,"Feed")," tab to search installed extensions against this feed."),
+          "Use the ",React.createElement("strong",null,"Policy Generator")," tab to create platform-specific snippets, the ",
+          React.createElement("strong",null,"Feed")," tab to search installed extensions against this feed, or install ",
+          React.createElement("strong",null,"VSXSentry Guard"),", a VS Code extension that auto-blocks and removes feed entries on every developer machine."),
         React.createElement("div",{style:{marginTop:14,display:'flex',gap:8,flexWrap:'wrap'}},
+          React.createElement(GuardBtn,{label:"Install VSXSentry Guard",fill:true}),
           React.createElement(GhBtn,{href:"https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md",label:"MS Removed Packages"}),
           React.createElement(GhBtn,{href:"https://github.com/mthcht/awesome-lists/tree/main/Lists/VSCODE%20Extensions",label:"VSXSentry IOCs"}),
           React.createElement(ContributeBtn)))));
@@ -1685,7 +1699,8 @@ function App(){
           React.createElement("h1",{style:{fontSize:19,fontWeight:800,letterSpacing:'-0.5px',color:'#e6edf3',fontFamily:sans}},
             "VSX",React.createElement("span",{style:{color:'#58a6ff'}},"Sentry")),
           React.createElement("div",{className:"vsx-subtitle",style:{fontSize:10,color:'#484f58',letterSpacing:'2px',textTransform:'uppercase',fontFamily:mono}},"VS Code Extension Threat Intelligence")),
-        React.createElement("div",{style:{marginLeft:'auto',display:'flex',gap:8,alignItems:'center'}},
+        React.createElement("div",{style:{marginLeft:'auto',display:'flex',gap:8,alignItems:'center',flexWrap:'wrap',justifyContent:'flex-end'}},
+          React.createElement(GuardBtn,{label:"Guard",fill:false}),
           React.createElement(GhBtn,{href:"https://github.com/mthcht/awesome-lists/tree/main/Lists/VSCODE%20Extensions",label:"IOCs"}),
           React.createElement(GhBtn,{href:"https://github.com/vsxsentry",label:"VSXSentry"}))),
       React.createElement("div",{className:"vsx-tabs",style:{display:'flex',gap:4,flexWrap:'wrap'}},
