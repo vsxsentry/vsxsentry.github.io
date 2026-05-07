@@ -245,6 +245,7 @@ lavender-studio.theme-lavender-dreams,lavender-studio,critical,malware,compromis
 leonardomth.claudio-code,leonardomth,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 levicarlsson.shelly,levicarlsson,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 littensy-studio.magical-icons,littensy-studio,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
+LuaShield.lua-shield,LuaShield,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 luater.luatide,luater,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 lyu-wen-studio-web-han.better-formatter-vscode,lyu-wen-studio-web-han,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
 Malkolm.Theme-ArtSchool-remake,Malkolm,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -549,6 +550,7 @@ bobqianic.imperial-llm-dev,bobqianic,high,impersonation,Removed from VS Marketpl
 borgius.lm-proxy-responses,borgius,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 borgius.localrag,borgius,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 brainz-digital-com.brainz-digital-netbeans-keybindings,brainz-digital-com,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+brett-pappas.claude-in-editor,brett-pappas,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Brett-Wilson.markdown-shortcuts-chinese,Brett-Wilson,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 bryanlo22.vscode-rufo-fix,bryanlo22,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 btwiuse.flexport,btwiuse,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -764,6 +766,7 @@ jamesoncrate.universal-3d-preview,jamesoncrate,high,impersonation,Removed from V
 jameszhanga.even-prettier,jameszhanga,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 jangxyz.svelte-infile-component-vscode,jangxyz,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 JarodWright.strict-paredit-fennel,JarodWright,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+JaviGuarin.prompt-registry-ado-beta,JaviGuarin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 jaywoo0830a.modern-php-8-snippets,jaywoo0830a,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 jeronimodevex.color-picker-pro,jeronimodevex,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 jianguoyun.cline,jianguoyun,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -823,6 +826,7 @@ lakeFS.lakefs-dvc,lakeFS,high,impersonation,Removed from VS Marketplace: Imperso
 lang2hong.l2h-db-client,lang2hong,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 lang2hong.l2h-vscode-dashboard,lang2hong,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 leon-qiu.hexo-auto-updated,leon-qiu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+leonardomjq.goblin-mode,leonardomjq,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 LiamDrew.arm-assembly,LiamDrew,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 LiamWang.vscode-image-gallery-liamwang,LiamWang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 lijiangang.vscode-picgo-paste-adpt-wayland,lijiangang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -898,6 +902,7 @@ OmGawande.sonata,OmGawande,high,impersonation,Removed from VS Marketplace: Imper
 OPENEDAI.OPENEDAI,OPENEDAI,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 orca.vscode-armlite,orca,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 OrqentAi.orqentai-code,OrqentAi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+owenrossikeen.script-buttons-extended,owenrossikeen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 OxfordAbstracts.ide-purescript-oa-hybrid,OxfordAbstracts,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 PallasUI.panda-css-pallasui,PallasUI,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 parmentelat.vscode-jupytext-parmentelat,parmentelat,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -957,7 +962,6 @@ Realtek.realtek-ameba,Realtek,high,impersonation,Removed from VS Marketplace: Im
 RecoLive.lldb-dap-android,RecoLive,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 reflection.test-gl-workflow-fork,reflection,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 remimarsal.prettier-now,remimarsal,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
-Remotebase.snapdev,Remotebase,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 reorx.github-abs-vscode-theme,reorx,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 RevoData.vscode-for-just,RevoData,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 rfkhusnutdinov.pug-ecsstractor,rfkhusnutdinov,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1049,6 +1053,7 @@ thirst.cfxlua-types-intellisense,thirst,high,impersonation,Removed from VS Marke
 thirst.cfxlua-typings,thirst,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tinbox.korofileheader-tinbox,tinbox,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tinysam.kanagawa-pro,tinysam,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+tkafka.markdown-mermaid-updated,tkafka,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tmp-primes.wtinymist,tmp-primes,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 TobiasHochguertel.catalog-lens,TobiasHochguertel,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 TobiasHochguertel.pattern-links-fork,TobiasHochguertel,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1056,6 +1061,7 @@ tohuw.focus-lines,tohuw,high,impersonation,Removed from VS Marketplace: Imperson
 toommyliu.cursor-dark-no-italicse,toommyliu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 trandaison.trandaison-git-file-history,trandaison,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tria-technologies.simpleswitch-vscode,tria-technologies,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+tria-technologies.simpleswitch-vscode-tools,tria-technologies,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 trlanfeng.turbo-console-log,trlanfeng,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 TrueCrimeDev.tableau-lsp,TrueCrimeDev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tuur29.turbo-console-log,tuur29,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1221,6 +1227,8 @@ kanin-020.vscode-proxy-manager,kanin-020,medium,risky-tunnel,VSCode Proxy Manage
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.market,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledin,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+camsAI.camsAI,camsAI,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+DoPracticalAI.practical-ai-orchestrator-jarvis,DoPracticalAI,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 foba-language.foba-language,foba-language,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 gh555com.Dream-Radio,gh555com,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 gh555com.Export-Doc,gh555com,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1310,6 +1318,7 @@ LeiaBalan.luaulink,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: U
 LeiaBalan.roblox-sync,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 LeiaBalan.romanager,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 mastersam.faaaah-on-fail,mastersam,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+MoisessantosHernandez.go-live-pages,MoisessantosHernandez,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 neha-arikatla.terminal-fahhh,neha-arikatla,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 null-Island.your-new-favorite-extension,null-Island,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 quartz.quartz-markdown-editor,quartz,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1325,6 +1334,9 @@ tak-vibecoding.tak,tak-vibecoding,medium,untrustworthy,Removed from VS Marketpla
 takuanporipori.pixelpress,takuanporipori,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tanmoy-debnath.faaaaaahhh,tanmoy-debnath,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 VibeRaven.viberaven-station,VibeRaven,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+Vizards.copilot-chat-porter,Vizards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+Vizards.deepseek-v4-for-copilot,Vizards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+Vizards.localias,Vizards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 WhenSunset.chatgpt-china,WhenSunset,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 yasosubin.yasosubin-vscode,yasosubin,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 zhukunpeng.chat-moss,zhukunpeng,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
