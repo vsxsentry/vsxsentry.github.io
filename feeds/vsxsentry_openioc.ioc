@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-022f54bb-339a-4d3d-a202-a2c5e7c2ca88">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-e3120049-48e6-4073-bb77-6217073339e7">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-05-08T19:24:37+00:00</description>
+<description>Generated: 2026-05-08T21:06:33+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -5334,6 +5334,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">okystudio.sude-pets</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">quartz.quartz-markdown-editor</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5379,6 +5383,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">tanmoy-debnath.faaaaaahhh</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Tier2Paladin-waterfall.waterfall2</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
