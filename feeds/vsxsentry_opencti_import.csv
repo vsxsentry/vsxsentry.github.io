@@ -730,7 +730,6 @@ indicator,Text,havedifficultyinfindingnames.debug-leetcode-refined,75,75,Removed
 indicator,Text,hazi.hazi-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,heartacker.git-graph-ai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hetu.HetuGit,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
-indicator,Text,hhu-stups.prob,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hkalyane.csv-advanced-editor,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,HonzaPudil.vscode-theme-onedarker-custom,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hoOJluGun.ho-ojlugun-ai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -848,6 +847,7 @@ indicator,Text,lsq-xgydxdx.git-graph-tool-chinese,75,75,Removed from VS Marketpl
 indicator,Text,lucasheartcliff.dark-coder-dracula-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,LuizDoPc.luizdopc-turbo-console-log,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,lujstn.synthwave-fluoromachine-cursor,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,luxuia.anotheremmylua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,LWilhelmer.reflow-markdown-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,lxl66566.vim-lxl66566,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,lyqu.rest-client-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1096,6 +1096,7 @@ indicator,Text,vs-publisher-1489718.SQLinFormVS20222026,75,75,Removed from VS Ma
 indicator,Text,vue2-snippets-plus-least.vue2-snippets-plus-least,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,walteh.embedded-languages-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,walteh.protolsp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,wanxiong.thief-book-pro-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,WavesMan.tree-generator-defined,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,we125182.vue-volar,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,weiboplat.wecodergtfish1988.gtfish25-sql-formatter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1174,6 +1175,7 @@ indicator,Text,DevelopmentInc.kombai-vs,50,50,"Removed from VS Marketplace: Impe
 indicator,Text,DevelopmentInc.minecraftsnippets,50,50,"Removed from VS Marketplace: Impersonation, Malware.",impersonation-malware;medium
 indicator,Text,DevelopmentInc.pokemon,50,50,"Removed from VS Marketplace: Impersonation, Malware.",impersonation-malware;medium
 indicator,Text,DevelopmentInc.torizon-vs,50,50,"Removed from VS Marketplace: Impersonation, Malware.",impersonation-malware;medium
+indicator,Text,txtx20.new-txtx,50,50,Removed from VS Marketplace: Malicious.,malicious;medium
 indicator,Text,kingepic84.symphony-language,50,50,Removed from VS Marketplace: Owner Request.,owner-request;medium
 indicator,Text,matthewbill.hue-code,50,50,Removed from VS Marketplace: Owner Request.,owner-request;medium
 indicator,Text,MeaghanBass.quantum-developer-theme,50,50,Removed from VS Marketplace: Owner Request.,owner-request;medium
@@ -1239,6 +1241,7 @@ indicator,Text,kanin-020.vscode-proxy-manager,50,50,VSCode Proxy Manager: manage
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.market,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledin,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,atomgit.atomcode-vscode,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,camsAI.camsAI,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,chat-gimay-agent.chat-gimay-agent,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,DoPracticalAI.practical-ai-orchestrator-jarvis,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -1350,10 +1353,8 @@ indicator,Text,tak-vibecoding.tak,50,50,Removed from VS Marketplace: Untrustwort
 indicator,Text,takuanporipori.pixelpress,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,tanmoy-debnath.faaaaaahhh,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Tier2Paladin-waterfall.waterfall2,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,txtx20.sunrise-greeter-demo,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,VibeRaven.viberaven-station,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,Vizards.copilot-chat-porter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,Vizards.deepseek-v4-for-copilot,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,Vizards.localias,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,WhenSunset.chatgpt-china,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,yasosubin.yasosubin-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,zhukunpeng.chat-moss,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
