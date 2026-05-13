@@ -268,6 +268,7 @@ MarkH.rust-compiler-vs,MarkH,critical,malware,Removed from VS Marketplace: Malwa
 MarkHutchins.markdown-preview-vs,MarkHutchins,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 markvalid.vscode-mdvalidator-extension,markvalid,critical,malware,compromised - glassworm supply chain attack,static_list
 MarkWood.nonmalicious2,MarkWood,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+MasterByte.masterb-argo-kubernetes-utils,MasterByte,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 me80758262.piiithon-linter,me80758262,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 mecreation-studio.pyrefly-pro-extension,mecreation-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 MediaLLC.solidyy,MediaLLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -420,6 +421,7 @@ Trustworthy.mevscode,Trustworthy,critical,malware,Removed from VS Marketplace: M
 tucyzirille-studio.angular-pro-tools-extension,tucyzirille-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 turbobase.sql-turbo-tool,turbobase,critical,malware,compromised - glassworm supply chain attack,static_list
 twilkbilk.color-highlight-css,twilkbilk,critical,malware,compromised - glassworm supply chain attack,static_list
+txtx20.new-txtx,txtx20,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 uladluch.antigravity-mobile-connector,uladluch,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 uladluch.cursor-mobile-connector,uladluch,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Utilities.wowlanguage,Utilities,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -982,6 +984,7 @@ robna.wordcount-selection,robna,high,impersonation,Removed from VS Marketplace: 
 RogDeved.Night-moonlight-theme,RogDeved,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Rojo.rojo-roblox-vscode,Rojo,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 RooIncVeterinaryDev.roo-cline-pro,RooIncVeterinaryDev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+rubiin.nestjs-snippets-vscode,rubiin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Ruoqi.cf-cph,Ruoqi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Ruoqi.xplosion,Ruoqi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ryanolsonx.poimandres-contrast,ryanolsonx,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1175,7 +1178,6 @@ DevelopmentInc.kombai-vs,DevelopmentInc,medium,impersonation-malware,"Removed fr
 DevelopmentInc.minecraftsnippets,DevelopmentInc,medium,impersonation-malware,"Removed from VS Marketplace: Impersonation, Malware.",microsoft_removed_packages
 DevelopmentInc.pokemon,DevelopmentInc,medium,impersonation-malware,"Removed from VS Marketplace: Impersonation, Malware.",microsoft_removed_packages
 DevelopmentInc.torizon-vs,DevelopmentInc,medium,impersonation-malware,"Removed from VS Marketplace: Impersonation, Malware.",microsoft_removed_packages
-txtx20.new-txtx,txtx20,medium,malicious,Removed from VS Marketplace: Malicious.,microsoft_removed_packages
 kingepic84.symphony-language,kingepic84,medium,owner-request,Removed from VS Marketplace: Owner Request.,microsoft_removed_packages
 matthewbill.hue-code,matthewbill,medium,owner-request,Removed from VS Marketplace: Owner Request.,microsoft_removed_packages
 MeaghanBass.quantum-developer-theme,MeaghanBass,medium,owner-request,Removed from VS Marketplace: Owner Request.,microsoft_removed_packages
@@ -1304,6 +1306,7 @@ SlashMarkHub.global-notes-snippets-by-slashmark,SlashMarkHub,medium,spam,Removed
 SlashMarkITSolutionsOPCPvtLtd.slashmark-json-yaml-converter,SlashMarkITSolutionsOPCPvtLtd,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 toilamanh.claude-usage-pilot-v2,toilamanh,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 vox-studio.vox-language,vox-studio,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+ZeroGAIzerog-ai.zerog-vscode-bridge,ZeroGAIzerog-ai,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 sanchuan.glm-copilot,sanchuan,medium,spam-malware,Removed from VS Marketplace: Spam / Malware.,microsoft_removed_packages
 sanchuan.kimi-coding-copilot,sanchuan,medium,spam-malware,Removed from VS Marketplace: Spam / Malware.,microsoft_removed_packages
 sanchuan.kimi-copilot,sanchuan,medium,spam-malware,Removed from VS Marketplace: Spam / Malware.,microsoft_removed_packages
@@ -1324,11 +1327,14 @@ clint.rust-essentials-pack,clint,medium,untrustworthy,Removed from VS Marketplac
 colan100.antigravity100,colan100,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 colan100.ccbrasil,colan100,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 colan100.gemini100,colan100,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+deltalenz.deltalenz,deltalenz,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 devpiyushraj.faah-sound-effect,devpiyushraj,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Drake90.library-roblox-api,Drake90,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+GCIDCAIAmericasAndAsia.A11y-Agent,GCIDCAIAmericasAndAsia,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 hajoo.poisoned-extension,hajoo,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 haseeb-raza.terminal-faah,haseeb-raza,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+ironplc.ironplc,ironplc,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 IZOT-TE-3-FINAL.static-code-parser-FINAL,IZOT-TE-3-FINAL,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 IZOT-TE-3.static-code-parser,IZOT-TE-3,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 LeiaBalan.LeiaBalan,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -1336,11 +1342,13 @@ LeiaBalan.luaulink,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: U
 LeiaBalan.roblox-sync,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 LeiaBalan.romanager,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 mastersam.faaaah-on-fail,mastersam,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+mirrorflat.mirrorflatlog,mirrorflat,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 MoisessantosHernandez.go-live-pages,MoisessantosHernandez,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 neha-arikatla.terminal-fahhh,neha-arikatla,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 null-Island.your-new-favorite-extension,null-Island,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 okystudio.sude-pets,okystudio,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 quartz.quartz-markdown-editor,quartz,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+rpeter.python-code-lens,rpeter,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 RustygoonersandView.skidai,RustygoonersandView,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Sajjad19397.baburao-sound-track,Sajjad19397,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Sajjad19397.brother-ewww-sound,Sajjad19397,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -1353,10 +1361,12 @@ tak-vibecoding.tak,tak-vibecoding,medium,untrustworthy,Removed from VS Marketpla
 takuanporipori.pixelpress,takuanporipori,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 tanmoy-debnath.faaaaaahhh,tanmoy-debnath,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Tier2Paladin-waterfall.waterfall2,Tier2Paladin-waterfall,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+ToanNguyen.claude-remote,ToanNguyen,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 txtx20.sunrise-greeter-demo,txtx20,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 VibeRaven.viberaven-station,VibeRaven,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 WhenSunset.chatgpt-china,WhenSunset,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 yasosubin.yasosubin-vscode,yasosubin,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+zestones.octoclock,zestones,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 zhukunpeng.chat-moss,zhukunpeng,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 zhukunpeng.codemoss,zhukunpeng,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 zhukunpeng.vscode-tinypng-pro,zhukunpeng,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
