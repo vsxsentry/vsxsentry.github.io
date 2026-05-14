@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-0291404e-f5d4-48eb-a94f-7051d2045a41">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-fa8c05cd-6a4a-4adb-9432-7434358c8a48">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-05-14T14:24:07+00:00</description>
+<description>Generated: 2026-05-14T17:56:30+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -3946,6 +3946,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">RPinkau.al-object-id-samurai</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">rubiin.nestjs-snippets-vscode</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5078,6 +5082,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Hidden-Pixel.vscode-chippy</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">jarekw.Ric</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5330,6 +5338,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Dylan-Edwards.CodeTracker-Oracle</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Exile404.faaah-error-sound</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5402,6 +5414,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">qweqweqwe.test</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">rpeter.python-code-lens</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5471,6 +5487,14 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">yasosubin.yasosubin-vscode</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">yassinebougacha.state-diagram-editor-exe</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">yassinebougacha.state-diagram-editor-yassine-V10-exe</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
