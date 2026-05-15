@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-03906219-c8ad-4775-af6d-9aa4a417060b">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-9c8b1870-d8fb-446a-b3c9-bbaacc684ab9">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-05-15T17:43:44+00:00</description>
+<description>Generated: 2026-05-15T19:43:40+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -5399,6 +5399,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">IZOT-TE-3.static-code-parser</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">KeeleyLednergznl.ri7</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
