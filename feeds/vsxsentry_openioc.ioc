@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-a35d6554-936b-4a91-a808-2cbab1e2c068">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-e808faf5-6d61-4c9f-941f-452fcd194781">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-05-18T10:12:59+00:00</description>
+<description>Generated: 2026-05-18T15:41:14+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -2142,6 +2142,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Autolexia.testwise</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">avenableivytech.vscode-sqlite-av</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -3874,6 +3878,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">quantix.quantix-pro</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">qusic.easysass-ng</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5474,6 +5482,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">nubond.nubond-language-service</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">null-Island.your-new-favorite-extension</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5491,6 +5503,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">rpeter.python-code-lens</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">runsystemcopilot.runsystem-copilot-chat</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
