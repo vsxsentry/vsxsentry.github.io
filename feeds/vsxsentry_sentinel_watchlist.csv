@@ -360,6 +360,7 @@ redmat.vscode-quarkus-pro,redmat,critical,malware,Removed from VS Marketplace: M
 RileyMoore.stdrlabs-ext,RileyMoore,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 rubyideext.ruby-ide-extension,rubyideext,critical,malware,compromised - glassworm supply chain attack,static_list
 runnerpost.runner-your-code,runnerpost,critical,malware,compromised - glassworm supply chain attack,static_list
+rwl.angular-console,rwl,critical,malware,a specific version compromised by teampcp - responsible for github being pwned,static_list
 sahil92552.cbe-456,sahil92552,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sairus.sairustech,sairus,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 saoudrizvsce.claude-devsce,saoudrizvsce,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages

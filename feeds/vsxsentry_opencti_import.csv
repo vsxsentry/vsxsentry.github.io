@@ -360,6 +360,7 @@ indicator,Text,redmat.vscode-quarkus-pro,90,90,Removed from VS Marketplace: Malw
 indicator,Text,RileyMoore.stdrlabs-ext,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,rubyideext.ruby-ide-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,runnerpost.runner-your-code,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,rwl.angular-console,90,90,a specific version compromised by teampcp - responsible for github being pwned,malware;critical
 indicator,Text,sahil92552.cbe-456,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,sairus.sairustech,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,saoudrizvsce.claude-devsce,90,90,Removed from VS Marketplace: Malware.,malware;critical
