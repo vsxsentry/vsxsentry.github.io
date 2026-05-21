@@ -394,6 +394,7 @@ stelbavik.hledger-fast-tool,stelbavik,critical,malware,sleeper extension - glass
 studio-jjalaire-team.professional-quarto-extension,studio-jjalaire-team,critical,malware,compromised - glassworm supply chain attack,static_list
 studio-velte-distributor.pro-svelte-extension,studio-velte-distributor,critical,malware,compromised - glassworm supply chain attack,static_list
 sun-shine-studio.shiny-extension-for-vscode,sun-shine-studio,critical,malware,compromised - glassworm supply chain attack,static_list
+sunsetHightlight.sunset-highlight,sunsetHightlight,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 superneentrance.peacock-colors,superneentrance,critical,malware,sleeper extension - glassworm supply chain,static_list
 suspublisher18.susvsex,suspublisher18,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sxatvo.jinja-extension,sxatvo,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -736,6 +737,7 @@ Hakai.functional-purple-modified,Hakai,high,impersonation,Removed from VS Market
 HanazakiShiki.emmylua-cgame,HanazakiShiki,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hapTeam.hap-eslint,hapTeam,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 harrisonLin.fcbox-ai-code,harrisonLin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+HarshAgarwal1012.openclaude-vscode,HarshAgarwal1012,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 HarshChitaliya.harshchitaliya-ai-study-companion,HarshChitaliya,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 HarshChitaliya.harshchitaliya-wds-blog-search,HarshChitaliya,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hatsunemikulover.gutils,hatsunemikulover,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1057,6 +1059,7 @@ ss13.auto-comment-blocks-dm,ss13,high,impersonation,Removed from VS Marketplace:
 sseveur.vscode-bigquery-v2,sseveur,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 StackspotPlatform.StackSpot,StackspotPlatform,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 stan-stani.autolaunch-plus,stan-stani,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+stark.bgide,stark,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 sthudy.keil-assistant-Linux,sthudy,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 stratomercata.strato-mercata,stratomercata,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 streamax.claude-dev-streamax,streamax,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1069,6 +1072,7 @@ svltsweet.Svetle-for-Cursor,svltsweet,high,impersonation,Removed from VS Marketp
 SVO.continue-svo-test,SVO,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 SysheadLabs.kubernetes-safe-apply,SysheadLabs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 t1mt.vsc-go-imports-sorter,t1mt,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+taillaaa.codilore-ai,taillaaa,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 TailwindCSSIntelliSenseplus.vscode-tailwindcss-plus,TailwindCSSIntelliSenseplus,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tangxia.roo-code-ex,tangxia,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tanukii.autoversion,tanukii,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1115,6 +1119,7 @@ vibe-xyz.vibe-xyz,vibe-xyz,high,impersonation,Removed from VS Marketplace: Imper
 VibeKanban.vibe-kanban-vscode,VibeKanban,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Vikang.acnh-vscode-theme,Vikang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Vikang.vscode-acnh-icon-theme,Vikang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+VivekChoudhury.google-gui-support,VivekChoudhury,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 vjoker.legend-script-editor,vjoker,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 vroshupkin.plantuml-png-microfork,vroshupkin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 vs-browser-openUrl.vs-browser-openUrl,vs-browser-openUrl,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1402,6 +1407,7 @@ takuanporipori.pixelpress,takuanporipori,medium,untrustworthy,Removed from VS Ma
 tanmoy-debnath.faaaaaahhh,tanmoy-debnath,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Tier2Paladin-waterfall.waterfall2,Tier2Paladin-waterfall,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ToanNguyen.claude-remote,ToanNguyen,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+TONCoreLabs.func-syntax-tool,TONCoreLabs,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 txtx20.sunrise-greeter-demo,txtx20,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 VibeRaven.viberaven-station,VibeRaven,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 WhenSunset.chatgpt-china,WhenSunset,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
