@@ -374,6 +374,7 @@ shinypy.pycode-formatter,shinypy,critical,malware,sleeper extension - glassworm 
 shinypy.shiny-extension-for-vscode,shinypy,critical,malware,compromised - glassworm supply chain attack,static_list
 shiverov.open-smart-suite,shiverov,critical,malware,sleeper extension - glassworm supply chain,static_list
 ShowSnowcrypto.SnowShoNo,ShowSnowcrypto,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+Sm1lerrpasy.ton-func-syntax-highlighter,Sm1lerrpasy,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 SmartContractAI.solaibot,SmartContractAI,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sneakyloris.team-pulse,sneakyloris,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 SnippetsLabs.kendo-formatter,SnippetsLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -484,6 +485,7 @@ Zeron1337.Zeron-CySec,Zeron1337,critical,malware,Removed from VS Marketplace: Ma
 11011.ubuntutheme11011,11011,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 318182456.legado-reader3-vscode,318182456,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 617694668.cline-cn,617694668,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+64kramsystem.vscode-open-in-github-wiki-fixed,64kramsystem,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 723Studio.fta-ruleset-tools,723Studio,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 77qingliu.sas-syntax,77qingliu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 8bitZeta.Nand2Tetris-8bit,8bitZeta,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages

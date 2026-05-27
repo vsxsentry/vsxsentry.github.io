@@ -374,6 +374,7 @@ indicator,Text,shinypy.pycode-formatter,90,90,sleeper extension - glassworm supp
 indicator,Text,shinypy.shiny-extension-for-vscode,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,shiverov.open-smart-suite,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,ShowSnowcrypto.SnowShoNo,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,Sm1lerrpasy.ton-func-syntax-highlighter,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,SmartContractAI.solaibot,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,sneakyloris.team-pulse,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,SnippetsLabs.kendo-formatter,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -484,6 +485,7 @@ indicator,Text,11011.markdown-shortcuts-like-obsidian-ob,75,75,Removed from VS M
 indicator,Text,11011.ubuntutheme11011,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,318182456.legado-reader3-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,617694668.cline-cn,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,64kramsystem.vscode-open-in-github-wiki-fixed,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,723Studio.fta-ruleset-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,77qingliu.sas-syntax,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,8bitZeta.Nand2Tetris-8bit,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high

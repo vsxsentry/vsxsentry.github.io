@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-254ae2a8-a76f-488b-a9bf-800c00362d6f">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-4f91a59d-2be9-413e-930e-df2a13202a45">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-05-27T18:28:49+00:00</description>
+<description>Generated: 2026-05-27T21:59:47+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -1506,6 +1506,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Sm1lerrpasy.ton-func-syntax-highlighter</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">SmartContractAI.solaibot</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -1943,6 +1947,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">617694668.cline-cn</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">64kramsystem.vscode-open-in-github-wiki-fixed</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
