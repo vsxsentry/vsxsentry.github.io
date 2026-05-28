@@ -119,6 +119,7 @@ dingdao-opensource.pwa-kit-studio,dingdao-opensource,critical,malware,Removed fr
 discord-inc.discord-rich-presence-rpc,discord-inc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 dontdownloadthis.dontdownloadthis,dontdownloadthis,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 dopbop-studio.vscode-tailwindcss-extension-toolkit,dopbop-studio,critical,malware,compromised - glassworm supply chain attack,"microsoft_removed_packages,static_list"
+DorianN612.remote-text-fetcher,DorianN612,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 DotRush.dotrushV2-0,DotRush,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 draconzal.phpstan-easy-hub,draconzal,critical,malware,sleeper extension - glassworm supply chain,static_list
 dranaven.flask-live-craft,dranaven,critical,malware,sleeper extension - glassworm supply chain,static_list
@@ -539,6 +540,7 @@ atom8n.thor-client-atom8n,atom8n,high,impersonation,Removed from VS Marketplace:
 atom8n.vscode-extensionpack,atom8n,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 AtroxEGO.better-folding-plus,AtroxEGO,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 auguwu.opentofu-vscode,auguwu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+aurogon-as.unreal-angelscript-aurogon,aurogon-as,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 aurora-them-creator.theme-aurora-nocturne,aurora-them-creator,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Autolexia.testwise,Autolexia,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 avenableivytech.vscode-sqlite-av,avenableivytech,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -858,6 +860,7 @@ lang2hong.l2h-vscode-dashboard,lang2hong,high,impersonation,Removed from VS Mark
 LangNico.maxima-syntax-highlighting-new,LangNico,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 leon-qiu.hexo-auto-updated,leon-qiu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 leonardomjq.goblin-mode,leonardomjq,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+li-zheng-rong.vscode-clangd-modules-support,li-zheng-rong,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 LiamDrew.arm-assembly,LiamDrew,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 LiamWang.vscode-image-gallery-liamwang,LiamWang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 lijiangang.vscode-picgo-paste-adpt-wayland,lijiangang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1036,6 +1039,7 @@ SamuelPinto.prettier-vscode-pluss,SamuelPinto,high,impersonation,Removed from VS
 saurav-sinha.CodeClaude,saurav-sinha,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 schardosin.cline-for-sap-ai-core,schardosin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 secunit.caddyfile-syntax,secunit,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+seeker.super-change-case-fork,seeker,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 SenkoTheKitsune.nomo-dark-extended,SenkoTheKitsune,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 senseDevpro.profiler-php-pro,senseDevpro,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 SeoDoktoru.minimax-god-mode,SeoDoktoru,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1383,6 +1387,7 @@ colan100.gemini100,colan100,medium,untrustworthy,Removed from VS Marketplace: Un
 deltalenz.deltalenz,deltalenz,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 devpiyushraj.faah-sound-effect,devpiyushraj,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 dimitrius-cadimout.confluence-publisher,dimitrius-cadimout,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+DorianN612.wordcountertool,DorianN612,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Drake90.library-roblox-api,Drake90,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Dylan-Edwards.CodeTracker-Oracle,Dylan-Edwards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Embedder.embedder-infineon,Embedder,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
