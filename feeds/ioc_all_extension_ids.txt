@@ -170,6 +170,8 @@ FlyingsMarmot.vscode-clangd-ucpp
 FrancescoOrtu.slurm-dashboard-orfeo
 FrancoisLe.cmake-tools-with-post-configure-task
 Frankie.vscodium-change-case
+FreeIdom.cs-fluent-icons
+FreeIdom.cs-symbols
 GCIDCAIAmericasAndAsia.A11y-Agent
 GPTOnce.codepilot-vscode
 GSZN.cangjie-ai-code
@@ -255,6 +257,7 @@ KeeperSecurityDev.ks-vscode
 Kelvin.vscode-sshfs
 KevinYouu.tailwind-raw-reorder-tw4
 Kiki67.gambling-corner
+KirillKnize.test-extension-vscode
 Klioai.Klioai
 Knotron.treky-dev
 Kochan.vs-nord-theme
@@ -326,6 +329,7 @@ NavAI-B.svn-scm-modified
 NeoMain.Neo-Better-DevTracker
 Nibs.remote-cloud-shell
 Nice8888.cline-nice8888
+NikiTester.claude-commit-generator
 Noe.noe-tokyo-night-horizon
 NolanWang.omnimedia-player
 NotToTest.NotToTest
@@ -992,6 +996,7 @@ juanblancodevelopment.ether-solid
 juancryptoblanco.ether-solidt
 juanmaguitar.cursor-rules-downloader
 juanmaguitar.custom-cursor-rules-multirepo
+kaighe.esp-idf-light
 kaijialin.pvts
 kaiwu-probes.Probes-ai
 kanin-020.vscode-proxy-manager
@@ -1025,6 +1030,7 @@ krosarin.npm-fast-studio
 krosaven.dot-live-forge
 krosovik.laravel-quick-pilot
 krundoven.ironplc-fast-hub
+ktav-lang.ktav
 kuldaran.search-smart-forge
 kvoon.kvim
 kvoon.publish-test
