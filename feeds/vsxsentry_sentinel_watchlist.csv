@@ -199,6 +199,7 @@ InternetLK.username-poc,InternetLK,critical,malware,Removed from VS Marketplace:
 IoliteLabs.solidity-linux,IoliteLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 IoliteLabs.solidity-macos,IoliteLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 IoliteLabs.solidity-windows,IoliteLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+IsagiYoichi.Json-advanced-formatter-pro,IsagiYoichi,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ItalangMong.smile-editor,ItalangMong,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 itanshield.titanshield-vscode,itanshield,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 JackHerry.dark-ai,JackHerry,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -360,6 +361,7 @@ reactsnippetsai.es7-react-js-snippets-ai,reactsnippetsai,critical,malware,Remove
 redcapcollective.vscode-quarkus-elite-suite,redcapcollective,critical,malware,compromised - glassworm supply chain attack,static_list
 redmat.vscode-quarkus-pro,redmat,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RileyMoore.stdrlabs-ext,RileyMoore,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+RoyHtml.xampp-manager,RoyHtml,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 rubyideext.ruby-ide-extension,rubyideext,critical,malware,compromised - glassworm supply chain attack,static_list
 runnerpost.runner-your-code,runnerpost,critical,malware,compromised - glassworm supply chain attack,static_list
 rwl.angular-console,rwl,critical,malware,a specific version compromised by teampcp - responsible for github being pwned,static_list
@@ -899,6 +901,7 @@ MarketingThibs.ampscriptsnippets,MarketingThibs,high,impersonation,Removed from 
 marpo.gruvbox-material-marpo,marpo,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Marvello.js-beautify-wrapper,Marvello,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 marvin63597.claude-dd,marvin63597,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+mathieu42.monokai-dark-by-mathieu42,mathieu42,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Med-H.git-graph-revamped,Med-H,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 meetrice.mysql-blade,meetrice,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 meow-d.markless-meowd,meow-d,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1303,6 +1306,7 @@ kanin-020.vscode-proxy-manager,kanin-020,medium,risky-tunnel,VSCode Proxy Manage
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.market,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledin,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+AllHelperByDi.AllHelperByDi,AllHelperByDi,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 atomgit.atomcode-vscode,atomgit,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 camsAI.camsAI,camsAI,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 chat-gimay-agent.chat-gimay-agent,chat-gimay-agent,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
@@ -1331,6 +1335,7 @@ Hidden-Pixel.vscode-chippy,Hidden-Pixel,medium,spam,Removed from VS Marketplace:
 jarekw.Ric,jarekw,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 Kiki67.gambling-corner,Kiki67,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 lukasfull.protheus-app-generator,lukasfull,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+phpLens.phpLens,phpLens,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 qpluslang.qplusos,qpluslang,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 sentinelvs.sentinel-debug,sentinelvs,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 shahul-dev.internal,shahul-dev,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
@@ -1437,6 +1442,7 @@ ray2666.antigravity-proxy,ray2666,medium,untrustworthy,Removed from VS Marketpla
 roboard.roboard,roboard,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 romanage.romanage,romanage,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 romanager.ro-manager,romanager,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+RoyHtml.meta-lang,RoyHtml,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 rpeter.python-code-lens,rpeter,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 runsystemcopilot.runsystem-copilot-chat,runsystemcopilot,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 RustygoonersandView.skidai,RustygoonersandView,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

@@ -199,6 +199,7 @@ indicator,Text,InternetLK.username-poc,90,90,Removed from VS Marketplace: Malwar
 indicator,Text,IoliteLabs.solidity-linux,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,IoliteLabs.solidity-macos,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,IoliteLabs.solidity-windows,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,IsagiYoichi.Json-advanced-formatter-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ItalangMong.smile-editor,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,itanshield.titanshield-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JackHerry.dark-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -360,6 +361,7 @@ indicator,Text,reactsnippetsai.es7-react-js-snippets-ai,90,90,Removed from VS Ma
 indicator,Text,redcapcollective.vscode-quarkus-elite-suite,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,redmat.vscode-quarkus-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RileyMoore.stdrlabs-ext,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,RoyHtml.xampp-manager,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,rubyideext.ruby-ide-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,runnerpost.runner-your-code,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,rwl.angular-console,90,90,a specific version compromised by teampcp - responsible for github being pwned,malware;critical
@@ -899,6 +901,7 @@ indicator,Text,MarketingThibs.ampscriptsnippets,75,75,Removed from VS Marketplac
 indicator,Text,marpo.gruvbox-material-marpo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Marvello.js-beautify-wrapper,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,marvin63597.claude-dd,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,mathieu42.monokai-dark-by-mathieu42,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Med-H.git-graph-revamped,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,meetrice.mysql-blade,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,meow-d.markless-meowd,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1303,6 +1306,7 @@ indicator,Text,kanin-020.vscode-proxy-manager,50,50,VSCode Proxy Manager: manage
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.market,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledin,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,AllHelperByDi.AllHelperByDi,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,atomgit.atomcode-vscode,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,camsAI.camsAI,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,chat-gimay-agent.chat-gimay-agent,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -1331,6 +1335,7 @@ indicator,Text,Hidden-Pixel.vscode-chippy,50,50,Removed from VS Marketplace: Spa
 indicator,Text,jarekw.Ric,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,Kiki67.gambling-corner,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,lukasfull.protheus-app-generator,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,phpLens.phpLens,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,qpluslang.qplusos,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,sentinelvs.sentinel-debug,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,shahul-dev.internal,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -1437,6 +1442,7 @@ indicator,Text,ray2666.antigravity-proxy,50,50,Removed from VS Marketplace: Untr
 indicator,Text,roboard.roboard,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,romanage.romanage,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,romanager.ro-manager,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,RoyHtml.meta-lang,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,rpeter.python-code-lens,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,runsystemcopilot.runsystem-copilot-chat,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,RustygoonersandView.skidai,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
