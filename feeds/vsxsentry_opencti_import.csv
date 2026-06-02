@@ -464,6 +464,7 @@ indicator,Text,VSCodeDeveloper.sobidity-compiler,90,90,Removed from VS Marketpla
 indicator,Text,VSCodeExtensionDevelopment.project-restructure-typescript,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,VSDeveloper.theme-library-vs,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,VSDeveloper.universal-intellisense,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,vtkn.amazon-bedrock-copilot-chat,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,vuesnippetsai.vue-snippets-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,WEB3Foundation.cxzczxcxz,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,webctrl.live,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1163,6 +1164,7 @@ indicator,Text,wanxiong.thief-book-pro-plus,75,75,Removed from VS Marketplace: I
 indicator,Text,WavesMan.tree-generator-defined,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,we125182.vue-volar,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,weiboplat.wecodergtfish1988.gtfish25-sql-formatter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,wenwj.luaforqc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,whatnick.acp-client-whatnick,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,whoami730.cython-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,WillZhang.dracula-variants,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1388,6 +1390,7 @@ indicator,Text,Anujlabsv2.sound-on-file-event-v2,50,50,Removed from VS Marketpla
 indicator,Text,auraone.agent-studio-open,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,auraone.rubric-studio,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,avisharma.faaa,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,BloxTask.bloxtask,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BobCAD-CAM.bobcad-post,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BrennonR.File-Explorer-2026,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ByteBarn.bytebarnhello,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1458,6 +1461,8 @@ indicator,Text,solidhelium.codeforces-submitter,50,50,Removed from VS Marketplac
 indicator,Text,tak-vibecoding.tak,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,takuanporipori.pixelpress,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,tanmoy-debnath.faaaaaahhh,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,test-ui-harry.harry-test,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,test-ui-harry.preview-beta,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Tier2Paladin-waterfall.waterfall2,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ToanNguyen.claude-remote,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,TONCoreLabs.func-syntax-tool,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
