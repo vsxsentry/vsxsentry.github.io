@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-4b3c67c5-a46d-432b-9777-4fbe3c58c673">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-11e10edf-e990-4ed1-a0d2-db64fb53cdc4">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-06-03T16:57:19+00:00</description>
+<description>Generated: 2026-06-03T21:19:29+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -5658,6 +5658,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Involute.bs5-kit</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">ironplc.ironplc</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5763,6 +5767,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">openbase.openbase-vscode</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">pemhkakbh.theme-helper-utils</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
