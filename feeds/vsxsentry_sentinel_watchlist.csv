@@ -361,6 +361,9 @@ reactsnippetsai.es7-react-js-snippets-ai,reactsnippetsai,critical,malware,Remove
 redcapcollective.vscode-quarkus-elite-suite,redcapcollective,critical,malware,compromised - glassworm supply chain attack,static_list
 redmat.vscode-quarkus-pro,redmat,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RileyMoore.stdrlabs-ext,RileyMoore,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+RoPilot.ropilot,RoPilot,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+RoPlanner.roplanner,RoPlanner,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+RoTasker.rotasker,RoTasker,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RoyHtml.xampp-manager,RoyHtml,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 rubyideext.ruby-ide-extension,rubyideext,critical,malware,compromised - glassworm supply chain attack,static_list
 runnerpost.runner-your-code,runnerpost,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -1461,6 +1464,8 @@ Sajjad19397.brother-ewww-sound,Sajjad19397,medium,untrustworthy,Removed from VS 
 Sajjad19397.faah-error-sound,Sajjad19397,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 samkj.orchestrai,samkj,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Sawalhaa.sawalhaa,Sawalhaa,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+SchlafferBenjamin.terminal-compiler,SchlafferBenjamin,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+SchlafferBenjamin.tridev-development-hub,SchlafferBenjamin,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 shoaibkorai.faaah,shoaibkorai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 sla-guardian.static-sla-guardian,sla-guardian,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 solidhelium.codeforces-submitter,solidhelium,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -1474,6 +1479,7 @@ ToanNguyen.claude-remote,ToanNguyen,medium,untrustworthy,Removed from VS Marketp
 TONCoreLabs.func-syntax-tool,TONCoreLabs,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 txtx20.sunrise-greeter-demo,txtx20,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 VibeRaven.viberaven-station,VibeRaven,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+voanhnd.copilot-credit-counter,voanhnd,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 wenox.wenox,wenox,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 WhenSunset.chatgpt-china,WhenSunset,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 yasosubin.yasosubin-vscode,yasosubin,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

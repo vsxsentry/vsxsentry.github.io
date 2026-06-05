@@ -361,6 +361,9 @@ indicator,Text,reactsnippetsai.es7-react-js-snippets-ai,90,90,Removed from VS Ma
 indicator,Text,redcapcollective.vscode-quarkus-elite-suite,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,redmat.vscode-quarkus-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RileyMoore.stdrlabs-ext,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,RoPilot.ropilot,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,RoPlanner.roplanner,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,RoTasker.rotasker,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RoyHtml.xampp-manager,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,rubyideext.ruby-ide-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,runnerpost.runner-your-code,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -1461,6 +1464,8 @@ indicator,Text,Sajjad19397.brother-ewww-sound,50,50,Removed from VS Marketplace:
 indicator,Text,Sajjad19397.faah-error-sound,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,samkj.orchestrai,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Sawalhaa.sawalhaa,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,SchlafferBenjamin.terminal-compiler,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,SchlafferBenjamin.tridev-development-hub,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,shoaibkorai.faaah,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,sla-guardian.static-sla-guardian,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,solidhelium.codeforces-submitter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1474,6 +1479,7 @@ indicator,Text,ToanNguyen.claude-remote,50,50,Removed from VS Marketplace: Untru
 indicator,Text,TONCoreLabs.func-syntax-tool,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,txtx20.sunrise-greeter-demo,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,VibeRaven.viberaven-station,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,voanhnd.copilot-credit-counter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,wenox.wenox,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,WhenSunset.chatgpt-china,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,yasosubin.yasosubin-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
