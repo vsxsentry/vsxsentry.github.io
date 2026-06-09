@@ -190,6 +190,7 @@ grozdarov.jinjahtml-easy-studio,grozdarov,critical,malware,sleeper extension - g
 gvotcha.claude-code-extension,gvotcha,critical,malware,compromised - glassworm supply chain attack,static_list
 gvotcha.claude-code-extensions,gvotcha,critical,malware,compromised - glassworm supply chain attack,static_list
 haelthorn.fractal-fast-studio,haelthorn,critical,malware,sleeper extension - glassworm supply chain,static_list
+hakor-plugins.modux-tooling,hakor-plugins,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 HawnyJawny.LuauConnect,HawnyJawny,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 HTMLLanguage.html-css-support,HTMLLanguage,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Iconkieftwo.icon-theme-materiall,Iconkieftwo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -791,6 +792,7 @@ hqvjet.pixel-agents-remake,hqvjet,high,impersonation,Removed from VS Marketplace
 hsn8086.cph-hsn-edition,hsn8086,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 huangshiyu.sftp-uploader,huangshiyu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hwrn001.snakemake-lang-pre-release,hwrn001,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+hy6.favorites-panel-fork,hy6,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hyoban.file-icons-continue,hyoban,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hyperproof.vscode-ext-prettier-java,hyperproof,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 i18nflow.vscode-i18n-flow,i18nflow,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -826,6 +828,7 @@ jangxyz.svelte-infile-component-vscode,jangxyz,high,impersonation,Removed from V
 JarodWright.strict-paredit-fennel,JarodWright,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 JaviGuarin.prompt-registry-ado-beta,JaviGuarin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jaywoo0830a.modern-php-8-snippets,jaywoo0830a,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+JehanWeerasuriya.vscode-nestjs-snippets-backend-development,JehanWeerasuriya,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jeronimodevex.color-picker-pro,jeronimodevex,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Jial.claude-paper-theme,Jial,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jianguoyun.cline,jianguoyun,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -907,6 +910,7 @@ lsq-xgydxdx.git-graph-tool-chinese,lsq-xgydxdx,high,impersonation,Removed from V
 lucasheartcliff.dark-coder-dracula-theme,lucasheartcliff,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 LuizDoPc.luizdopc-turbo-console-log,LuizDoPc,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 lujstn.synthwave-fluoromachine-cursor,lujstn,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+luutuankiet.copy-to-llm-rtk,luutuankiet,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 luutuankiet.settings-on-fire-cloud,luutuankiet,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 luxuia.anotheremmylua,luxuia,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 LWilhelmer.reflow-markdown-plus,LWilhelmer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1426,6 +1430,7 @@ clint.rust-essentials-pack,clint,medium,untrustworthy,Removed from VS Marketplac
 colan100.antigravity100,colan100,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 colan100.ccbrasil,colan100,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 colan100.gemini100,colan100,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+contextflow.contextflow-vscode,contextflow,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 deltalenz.deltalenz,deltalenz,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 devpiyushraj.faah-sound-effect,devpiyushraj,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 dimitrius-cadimout.confluence-publisher,dimitrius-cadimout,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -1436,6 +1441,8 @@ Embedder.embedder-infineon,Embedder,medium,untrustworthy,Removed from VS Marketp
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 GCIDCAIAmericasAndAsia.A11y-Agent,GCIDCAIAmericasAndAsia,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 hajoo.poisoned-extension,hajoo,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+hakor-plugins.tabletype,hakor-plugins,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+hakor-plugins.tsmap-vscode,hakor-plugins,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 haseeb-raza.terminal-faah,haseeb-raza,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 HeleneSmith.rSW,HeleneSmith,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Involute.bs5-kit,Involute,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
