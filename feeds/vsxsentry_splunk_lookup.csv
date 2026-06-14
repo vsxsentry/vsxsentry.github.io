@@ -26,6 +26,7 @@ AnilAlapati.leancontext,AnilAlapati,critical,malware,Removed from VS Marketplace
 annacode.pt-lab-simproc,annacode,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ANZ-BANK.vscode-sysl,ANZ-BANK,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AppCreationLLP.boardwalkapp,AppCreationLLP,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+AppCreationLTD.dockyardapp,AppCreationLTD,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AppCreationPLC.boardwalk,AppCreationPLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 appcreationsplc.boardwalkdev,appcreationsplc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 archchainturn.twinny-ai-assist,archchainturn,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
@@ -79,6 +80,7 @@ cline-ai-main.cline-ai-agent,cline-ai-main,critical,malware,Removed from VS Mark
 closedtierenchant.vscode-awesome-icons,closedtierenchant,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 CloudianApp.CloudianCompanion-56d02aa8da72,CloudianApp,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 cmd-studio.pua,cmd-studio,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+CMSbrand.liquidfred,CMSbrand,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 cobot100.cosave101,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 cobot100.cursor100,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 cobot100.kilobrasil,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -891,6 +893,8 @@ johnlindquist.workspace-color-theme,johnlindquist,high,impersonation,Removed fro
 jonasxwebdev.sftp-dssCOMP.java-bazel-extension,jonasxwebdev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 jonxmack.liquid-snippets,jonxmack,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 jpcrs.vim-us-international,jpcrs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+jsjm.compress-download-extension-jsjm,jsjm,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+jsjm.latex-utilities-jsjm,jsjm,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 juanmaguitar.cursor-rules-downloader,juanmaguitar,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 juanmaguitar.custom-cursor-rules-multirepo,juanmaguitar,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 JustLookAtNow.gitlab-mr-ui,JustLookAtNow,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1146,6 +1150,7 @@ smarty1337.nixware-snippets,smarty1337,high,impersonation,Removed from VS Market
 smhc.agent-plugins-installer,smhc,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 SmileSB101.better-formate,SmileSB101,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 smnatale.tokyodark,smnatale,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+smooth-cat.bobe-cat,smooth-cat,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 snrico-moonlight.gruvbox-material-community,snrico-moonlight,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 solario.enhanced-favorites,solario,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 songyanglin.vscode-office-plus,songyanglin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1171,6 +1176,7 @@ sunamo-cz.specstory-autosave,sunamo-cz,high,impersonation,Removed from VS Market
 Superxin.ctags-c-cpp,Superxin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Superxin.ctagsc,Superxin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 SupporterREditor.r-vscode,SupporterREditor,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+suyb.u-sci-roo,suyb,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 suyb.v-sci-roo,suyb,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 svltsweet.Svetle-for-Cursor,svltsweet,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 SVO.continue-svo-test,SVO,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1558,6 +1564,7 @@ shoaibkorai.faaah,shoaibkorai,medium,untrustworthy,Removed from VS Marketplace: 
 shogo-ai.shogo-vscode,shogo-ai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 sla-guardian.static-sla-guardian,sla-guardian,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 solidhelium.codeforces-submitter,solidhelium,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+solvex-solutions.epm-lsp-server,solvex-solutions,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tak-vibecoding.tak,tak-vibecoding,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 takuanporipori.pixelpress,takuanporipori,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 tanmoy-debnath.faaaaaahhh,tanmoy-debnath,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
