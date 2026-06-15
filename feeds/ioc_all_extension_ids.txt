@@ -59,6 +59,7 @@ AppCreationLTD.dockyardapp
 AppCreationPLC.boardwalk
 AppCreationsPLC.boardwalkdevapp
 AppHelix.apphelix-blog-search
+AppLabs.boardstep
 ArcanicAI.cono
 ArchMedia.sp-isc-devtools
 ArthurNeuman.eslint-disable-typescript-snippets
@@ -196,6 +197,7 @@ GSZN.cangjie-ai-code
 GavinLWood.introai
 GavinLamWood.vs-blanket
 GavinWoodETH.solid-eth
+GitDEV.fredliquid
 GitHub.codespaces
 GitHub.copilot
 GitHub.copilot-chat
@@ -222,6 +224,7 @@ HawnyJawny.LuauConnect
 HeleneSmith.rSW
 Hidden-Pixel.vscode-chippy
 HonzaPudil.vscode-theme-onedarker-custom
+Horizon-Projects.Horizon-Collaboration-Tracker
 IZOT-TE-3-FINAL.static-code-parser-FINAL
 IZOT-TE-3.static-code-parser
 IamTheKaaZZ.valgrind-debug
@@ -239,6 +242,7 @@ ItalangMong.smile-editor
 Itchino.robloxlsp-for-exploit
 IteoluwakiishiDedeke.ite-agent
 IvanArjona.cloudflaretunnel
+JDCOM.coding-workflow
 JackHerry.copilotx-ai-assistant
 JackHerry.dark-ai
 JackHerry.gitlens-turbocharged
@@ -304,6 +308,24 @@ LeiaBalan.roblox-sync
 LeiaBalan.romanager
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
+LinJun.aws-s3-support
+LinJun.bigquery-support
+LinJun.cassandra-support
+LinJun.clickhouse-support
+LinJun.databricks-support
+LinJun.dbeaver-support
+LinJun.docker-support
+LinJun.ftp-support
+LinJun.hive-support
+LinJun.ibm-db2-support
+LinJun.kafka-support
+LinJun.mongodb-support
+LinJun.navicat-support
+LinJun.oracle-support
+LinJun.redshift-support
+LinJun.snowflake-support
+LinJun.sqlite-support
+LinJun.trino-support
 LinkingMountains.SonarColorizer
 LuaShield.lua-shield
 LuizDoPc.luizdopc-turbo-console-log
@@ -394,10 +416,12 @@ ParthRaninga.cursor-smart-rules-demo
 ParwatKunwar.codesandbox-parwat-theme
 PeterC.i18n-ally-fork-peter
 PhungXuanAnh.auto-run-command-with-condition
+PixelLabs.boardflow
 Postman.postman-for-vscode
 Price.automatic-printing-codem
 Price.automatic-recording-code
 Price.code-documentation-utilities
+Primer4128.rust-analyzer-fork
 Prisma-Inc.prisma-studio-assistance
 PriyanshuMallick.clipboard-history-manager
 ProjectStarboy.projectstarboy-vscode
@@ -412,6 +436,7 @@ Puglight.shadowcore
 Puglight.sysmotivate
 Puglight.vulnerabilitto
 Pulumi.pulumi-vscode
+Quant.Quantam-M
 Quantam.quantam
 QuantumCodeLabs.ai-code-explainer
 QuantumCodeLabs.ai-doc-generator
@@ -444,6 +469,7 @@ RoPlanner.roplanner
 RoTasker.rotasker
 RoTracker.rotracker
 RogDeved.Night-moonlight-theme
+Roger-Han.mimo-code
 Rojo.rojo-roblox-vscode
 RooIncVeterinaryDev.roo-cline-pro
 RooVeterinaryInc.roo-cline
@@ -1024,6 +1050,7 @@ infisical.infisical
 intellipro.extension-json-intelligence
 iridium.pinkcandy
 ironplc.ironplc
+ismael-ripoll.abaquspy-input-file-syntax-highlighter
 itanshield.titanshield-vscode
 ivanstepanovftwgaynottaken.camelhumps
 jRichardeau.vscode-vsproj
@@ -1177,6 +1204,7 @@ meltuven.graphql-pro-tool
 meow-d.markless-meowd
 mercerllc.mercer-onboarding-helper
 mg-lab.mb-lab
+mglab.mglab
 mikeljl.continue-ljl-fork
 minlabs.quiet-code
 mirrorflat.mirrorflatlog
@@ -1214,9 +1242,11 @@ msjsdreact.react-native-vsce
 mswincx.antigravity-cockpit
 mswincx.antigravity-cockpit-extension
 mtc2000.vscode-pdf-viewer
+mtglitch.claude-usage-bars
 mtxr.sqltools
 muhammadirfangorsi.api-stress-tester
 mycline.my-sibo-claude-dev
+namhhitvn.gitlens-support-symbolic-link
 namopins.prettier-pro-vscode-extension
 nanmu.office-viewer-pro
 naveenkunder.format-html
@@ -1357,6 +1387,7 @@ rubiin.nestjs-snippets-vscode
 rubyideext.ruby-ide-extension
 runnerpost.runner-your-code
 runsystemcopilot.runsystem-copilot-chat
+rustcc.rust-analyzer-cn
 rwbcy.trwbcy-poc
 rwl.angular-console
 ryanolsonx.poimandres-contrast

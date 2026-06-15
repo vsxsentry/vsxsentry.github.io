@@ -40,6 +40,7 @@ AppCreationLLP
 AppCreationLTD
 AppCreationPLC
 AppHelix
+AppLabs
 ArcanicAI
 ArchMedia
 ArthurNeuman
@@ -138,6 +139,7 @@ GSZN
 GavinLWood
 GavinLamWood
 GavinWoodETH
+GitDEV
 GitlensPro
 Glenn-marks1990
 GoDeveloper
@@ -151,6 +153,7 @@ HarshAgarwal1012
 HarshChitaliya
 HawnyJawny
 HonzaPudil
+Horizon-Projects
 IamTheKaaZZ
 Iconkieftwo
 Ilham-ahmedow
@@ -161,6 +164,7 @@ IoliteLabs
 IsagiYoichi
 ItalangMong
 Itchino
+JDCOM
 JackHerry
 JacobETH
 JahidLimon
@@ -208,6 +212,7 @@ LangNico
 Languages
 LiamDrew
 LiamWang
+LinJun
 LinkingMountains
 LuaShield
 LuizDoPc
@@ -266,11 +271,14 @@ ParthRaninga
 ParwatKunwar
 PeterC
 PhungXuanAnh
+PixelLabs
 Price
+Primer4128
 Prisma-Inc
 PriyanshuMallick
 ProjectStarboy
 Puglight
+Quant
 Quantam
 QuantumCodeLabs
 RPinkau
@@ -296,6 +304,7 @@ RoPlanner
 RoTasker
 RoTracker
 RogDeved
+Roger-Han
 Rojo
 RooIncVeterinaryDev
 RoyHtml
@@ -759,6 +768,7 @@ meltuven
 meow-d
 mercerllc
 mg-lab
+mglab
 mikeljl
 minlabs
 mishannn
@@ -770,7 +780,9 @@ mrekelid
 msjsdreact
 mswincx
 mtc2000
+mtglitch
 mycline
+namhhitvn
 namopins
 nanmu
 naveenkunder
@@ -854,6 +866,7 @@ robna
 rubiin
 rubyideext
 runnerpost
+rustcc
 rwbcy
 rwl
 ryanolsonx
