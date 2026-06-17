@@ -7,6 +7,7 @@
 11011.ubuntutheme11011
 1Password.op-vscode
 318182456.legado-reader3-vscode
+360-Geelib-Copilot-Code.geelibcopilotcode
 498-00.cppformat
 498-00.cppplayground
 498-00.pythonformat
@@ -28,6 +29,7 @@ ALT5.sqflint-cn-revised
 AMAARETS.hebrew-ui-translation-amaarets
 ANZ-BANK.vscode-sysl
 ASUS-AICS.aics-copilot
+ASUS-AICS.xhis-copilot
 Abhilash001.t-ex
 Acronix-dev.Go-work-tools
 AdamFortune.ezsqlite
@@ -110,6 +112,7 @@ CloudianApp.CloudianCompanion-56d02aa8da72
 CodeSecureDev.dependency-scan
 Codeium.codeium
 Cognitrace3.cognitrace3
+CompassLLMCode.autosail
 Continue.continue
 Crypto-Extensions.SnowShsoNo
 CryptoCurrencyExtensions.blehai
@@ -1024,6 +1027,7 @@ hajoo.poisoned-extension
 hakor-plugins.modux-tooling
 hakor-plugins.tabletype
 hakor-plugins.tsmap-vscode
+hanan.hanan-code
 hapTeam.hap-eslint
 harrisonLin.fcbox-ai-code
 haseeb-raza.terminal-faah
@@ -1391,6 +1395,7 @@ remimarsal.prettier-now
 reorx.github-abs-vscode-theme
 rfkhusnutdinov.pug-ecsstractor
 rg-ImTheDragonFly.ori-sucks
+rgcode.rgcode
 rgeraskin.vscode-commitizen-rg
 ritwickdey.LiveServer
 rizort.laravel-pack-109

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-5cb6de61-f772-4a5f-896f-cd148d9cff6b">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-75d9c1c0-ea5d-4efb-8f8b-579d2ec176ca">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-06-17T11:04:05+00:00</description>
+<description>Generated: 2026-06-17T15:42:57+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -2254,6 +2254,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">360-Geelib-Copilot-Code.geelibcopilotcode</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">617694668.cline-cn</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -2447,6 +2451,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">ASUS-AICS.aics-copilot</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">ASUS-AICS.xhis-copilot</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -2711,6 +2719,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">COMP.sqltools-enhanced</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">CompassLLMCode.autosail</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -3355,6 +3367,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Hakai.functional-purple-modified</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">hanan.hanan-code</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -4563,6 +4579,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">rfkhusnutdinov.pug-ecsstractor</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">rgcode.rgcode</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
