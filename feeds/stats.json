@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-06-18T15:34:17+00:00",
-  "total_records": 1694,
-  "total_malicious": 1622,
+  "generated_utc": "2026-06-18T18:27:48+00:00",
+  "total_records": 1720,
+  "total_malicious": 1648,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 555,
-    "high": 826,
+    "critical": 556,
+    "high": 850,
     "low": 22,
-    "medium": 291
+    "medium": 292
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 807,
+    "impersonation": 831,
     "impersonation-malware": 5,
-    "malware": 555,
+    "malware": 556,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -34,10 +34,14 @@
     "spam": 71,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 145
+    "untrustworthy": 146
   },
-  "total_publishers": 1303,
+  "total_publishers": 1309,
   "top_publishers": [
+    [
+      "pit00",
+      34
+    ],
     [
       "gtfish1988",
       26
@@ -52,10 +56,6 @@
     ],
     [
       "LinJun",
-      18
-    ],
-    [
-      "pit00",
       18
     ],
     [
