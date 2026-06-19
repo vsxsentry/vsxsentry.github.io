@@ -49,6 +49,7 @@ bhbpbarn.vsce-python-indent-extension,bhbpbarn,critical,malware,compromised - gl
 BigBlack.bitcoin-black,BigBlack,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 BigBlack.codo-ai,BigBlack,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 BigBlack.mrbigblacktheme,BigBlack,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+bismarkvargas.bkcode,bismarkvargas,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 blackforest.blackforest-1234,blackforest,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Blamely.blamely,Blamely,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 BlockchainIndustries.bitcoin-toolkit,BlockchainIndustries,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -190,6 +191,7 @@ gastholve.shell-pro-kit,gastholve,critical,malware,sleeper extension - glassworm
 GavinLamWood.vs-blanket,GavinLamWood,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 GavinLWood.introai,GavinLWood,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 GavinWoodETH.solid-eth,GavinWoodETH,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+GB0099.gb0099-liquid,GB0099,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 gh555.qqq,gh555,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 GitDEV.fredliquid,GitDEV,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 gitkraken-dev.gitlens-pro,gitkraken-dev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -705,6 +707,7 @@ cuijiudai.i18n-ally-vue,cuijiudai,high,impersonation,Removed from VS Marketplace
 cuitianze.turbo-console-log-with-emoji,cuitianze,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 CursorFree.cursor-free,CursorFree,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 cyrilproletuzi.angular-schematics-pro,cyrilproletuzi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+CyrusRune.codearts-cli-launcher,CyrusRune,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 d0whc3r.better-find-unused-exports,d0whc3r,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 daelmaak.next-error,daelmaak,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 DaMaoCloud.damao-aie,DaMaoCloud,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1145,6 +1148,7 @@ pit00.whitespace-counters,pit00,high,impersonation,Removed from VS Marketplace: 
 pk4uDMD.vscode-containers-forked,pk4uDMD,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 pksunkara.file-mod-templates,pksunkara,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 plugin-manager.vscode-notes-manager,plugin-manager,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+pogacic.vscode-proto3-upkeep,pogacic,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 politsin.cline-pached,politsin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Primer4128.polykai-pro,Primer4128,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Primer4128.rust-analyzer-fork,Primer4128,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1299,6 +1303,7 @@ tria.readonlywin,tria,high,impersonation,Removed from VS Marketplace: Impersonat
 trlanfeng.turbo-console-log,trlanfeng,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 TrueCrimeDev.tableau-lsp,TrueCrimeDev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tuur29.turbo-console-log,tuur29,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+TuyaOpen.TuyaOpenIDE,TuyaOpen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tylerdotrar.goodbyeworld,tylerdotrar,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tylerdotrar.goodbyeworldng,tylerdotrar,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ultimateBroK.symbols-enhance,ultimateBroK,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1585,6 +1590,7 @@ DorianN612.wordcountertool,DorianN612,medium,untrustworthy,Removed from VS Marke
 Drake90.library-roblox-api,Drake90,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Dylan-Edwards.CodeTracker-Oracle,Dylan-Edwards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Embedder.embedder-infineon,Embedder,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+everyapi-ai.everyapi-vscode,everyapi-ai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ext-lab.ftp-supports,ext-lab,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 GCIDCAIAmericasAndAsia.A11y-Agent,GCIDCAIAmericasAndAsia,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
