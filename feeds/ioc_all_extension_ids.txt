@@ -488,6 +488,7 @@ RoPilot.ropilot
 RoPlanner.roplanner
 RoTasker.rotasker
 RoTracker.rotracker
+RoamAI.roam-crew
 RogDeved.Night-moonlight-theme
 Roger-Han.mimo-code
 Roger-Han.mimo-code-ai
@@ -756,6 +757,7 @@ bobqianic.imperial-llm-dev
 bogigigigigity.etherefound
 borgius.lm-proxy-responses
 borgius.localrag
+bortolabs.claude-code-usage-bar
 boto3.vscode-boto3
 boulderzitunnel.vscode-buddies
 bphpburnsus.iconesvscode
@@ -1301,6 +1303,7 @@ nanmu.office-viewer-pro
 naveenkunder.format-html
 neha-arikatla.terminal-fahhh
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
+ng-jk.sftp-ng-jk
 nicobao.localtunnel
 nicovy.symbolsnicovy
 nikitakolesnikov.vscode-squirrel-extention
@@ -1444,6 +1447,7 @@ rfkhusnutdinov.pug-ecsstractor
 rg-ImTheDragonFly.ori-sucks
 rgcode.rgcode
 rgeraskin.vscode-commitizen-rg
+richardgubangxa.sf-buddy
 rishiishah.csegraph-vscode
 ritwickdey.LiveServer
 rizort.laravel-pack-109

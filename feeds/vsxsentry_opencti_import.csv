@@ -407,7 +407,9 @@ indicator,Text,RblxTasker.RblxTasker,90,90,Removed from VS Marketplace: Malware.
 indicator,Text,reactsnippetsai.es7-react-js-snippets-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,redcapcollective.vscode-quarkus-elite-suite,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,redmat.vscode-quarkus-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,richardgubangxa.sf-buddy,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RileyMoore.stdrlabs-ext,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,RoamAI.roam-crew,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RoDesk.rodesk,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RoOrganizer.rooranizer,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RoPilot.ropilot,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1066,6 +1068,7 @@ indicator,Text,nanmu.office-viewer-pro,75,75,Removed from VS Marketplace: Impers
 indicator,Text,NavAI-B.svn-scm-modified,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,naveenkunder.format-html,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,NeoMain.Neo-Better-DevTracker,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,ng-jk.sftp-ng-jk,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Nibs.remote-cloud-shell,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Nice8888.cline-nice8888,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,nicovy.symbolsnicovy,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1578,6 +1581,7 @@ indicator,Text,Aussie.FastTask,50,50,Removed from VS Marketplace: Untrustworthy.
 indicator,Text,avisharma.faaa,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BloxTask.bloxtask,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BobCAD-CAM.bobcad-post,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,bortolabs.claude-code-usage-bar,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BrennonR.File-Explorer-2026,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ByteBarn.bytebarnhello,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,carrycodeai.carrycode-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
