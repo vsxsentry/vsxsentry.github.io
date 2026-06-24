@@ -33,6 +33,7 @@ indicator,Text,AppCreationLTD.dockyardapp,90,90,Removed from VS Marketplace: Mal
 indicator,Text,AppCreationPLC.boardwalk,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,appcreationsplc.boardwalkdev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AppLabs.boardstep,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,AppPublishPLC.boardtrackappel,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,archchainturn.twinny-ai-assist,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,arclens.arc-lens,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AshleyHornja.prettierformattingplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -216,6 +217,7 @@ indicator,Text,gvotcha.claude-code-extensions,90,90,compromised - glassworm supp
 indicator,Text,haelthorn.fractal-fast-studio,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,hakor-plugins.modux-tooling,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,HawnyJawny.LuauConnect,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,hexlabs.boardtrackappe,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Horizon-Projects.Horizon-Collaboration-Tracker,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,HTMLLanguage.html-css-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,hunterdurbin.vscode-4d-callchain,90,90,Removed from VS Marketplace: Malware.,malware;critical

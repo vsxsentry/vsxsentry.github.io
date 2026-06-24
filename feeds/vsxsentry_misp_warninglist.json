@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20260623",
+  "version": "20260624",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -42,6 +42,7 @@
     "AppCreationPLC.boardwalk",
     "appcreationsplc.boardwalkdev",
     "AppLabs.boardstep",
+    "AppPublishPLC.boardtrackappel",
     "archchainturn.twinny-ai-assist",
     "arclens.arc-lens",
     "AshleyHornja.prettierformattingplus",
@@ -225,6 +226,7 @@
     "haelthorn.fractal-fast-studio",
     "hakor-plugins.modux-tooling",
     "HawnyJawny.LuauConnect",
+    "hexlabs.boardtrackappe",
     "Horizon-Projects.Horizon-Collaboration-Tracker",
     "HTMLLanguage.html-css-support",
     "hunterdurbin.vscode-4d-callchain",

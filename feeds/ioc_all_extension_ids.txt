@@ -66,6 +66,7 @@ AppCreationPLC.boardwalk
 AppCreationsPLC.boardwalkdevapp
 AppHelix.apphelix-blog-search
 AppLabs.boardstep
+AppPublishPLC.boardtrackappel
 ArcanicAI.cono
 ArchMedia.sp-isc-devtools
 ArthurNeuman.eslint-disable-typescript-snippets
@@ -1068,6 +1069,7 @@ hazi.hazi-theme
 heartacker.git-graph-ai
 heminei.pro-deployer
 hetu.HetuGit
+hexlabs.boardtrackappe
 hkalyane.csv-advanced-editor
 hoOJluGun.ho-ojlugun-ai
 hqvjet.pixel-agents-remake

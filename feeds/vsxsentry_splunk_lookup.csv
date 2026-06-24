@@ -33,6 +33,7 @@ AppCreationLTD.dockyardapp,AppCreationLTD,critical,malware,Removed from VS Marke
 AppCreationPLC.boardwalk,AppCreationPLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 appcreationsplc.boardwalkdev,appcreationsplc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AppLabs.boardstep,AppLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+AppPublishPLC.boardtrackappel,AppPublishPLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 archchainturn.twinny-ai-assist,archchainturn,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 arclens.arc-lens,arclens,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AshleyHornja.prettierformattingplus,AshleyHornja,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -216,6 +217,7 @@ gvotcha.claude-code-extensions,gvotcha,critical,malware,compromised - glassworm 
 haelthorn.fractal-fast-studio,haelthorn,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 hakor-plugins.modux-tooling,hakor-plugins,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 HawnyJawny.LuauConnect,HawnyJawny,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+hexlabs.boardtrackappe,hexlabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Horizon-Projects.Horizon-Collaboration-Tracker,Horizon-Projects,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 HTMLLanguage.html-css-support,HTMLLanguage,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 hunterdurbin.vscode-4d-callchain,hunterdurbin,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
