@@ -148,6 +148,7 @@ indicator,Text,dranaven.flask-live-craft,90,90,sleeper extension - glassworm sup
 indicator,Text,drovenko.data-live-suite,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,eamodas.shiny-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,EchelonStudios.blockchain-language-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,ecocode-sci-monitor.ecocode-sci-monitor,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,EfferSmart.code-studio-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,EfferSmart.qoodo-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,EffetMer.darkgpt,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1181,6 +1182,7 @@ indicator,Text,r0kuko.jetbrains-file-icon-theme-extended,75,75,Removed from VS M
 indicator,Text,Rabiloo.ethery,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RachmatKaligis.robotcode-gherkin-extended,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RahulSinha.bracketeer-personal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,rainbowflesh.moondusttheme-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ravaelles.search-anywhere,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RdbtCVS.chattriggers-latest,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ReadMeAI.readmeai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high

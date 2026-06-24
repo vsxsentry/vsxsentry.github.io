@@ -148,6 +148,7 @@ dranaven.flask-live-craft,dranaven,critical,malware,sleeper extension - glasswor
 drovenko.data-live-suite,drovenko,critical,malware,sleeper extension - glassworm supply chain,static_list
 eamodas.shiny-vscode,eamodas,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 EchelonStudios.blockchain-language-support,EchelonStudios,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+ecocode-sci-monitor.ecocode-sci-monitor,ecocode-sci-monitor,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 EfferSmart.code-studio-pro,EfferSmart,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 EfferSmart.qoodo-ai,EfferSmart,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 EffetMer.darkgpt,EffetMer,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1181,6 +1182,7 @@ r0kuko.jetbrains-file-icon-theme-extended,r0kuko,high,impersonation,Removed from
 Rabiloo.ethery,Rabiloo,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 RachmatKaligis.robotcode-gherkin-extended,RachmatKaligis,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 RahulSinha.bracketeer-personal,RahulSinha,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+rainbowflesh.moondusttheme-fork,rainbowflesh,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ravaelles.search-anywhere,ravaelles,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 RdbtCVS.chattriggers-latest,RdbtCVS,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ReadMeAI.readmeai,ReadMeAI,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
