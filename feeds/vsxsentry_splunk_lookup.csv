@@ -33,7 +33,9 @@ AppCreationLTD.dockyardapp,AppCreationLTD,critical,malware,Removed from VS Marke
 AppCreationPLC.boardwalk,AppCreationPLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 appcreationsplc.boardwalkdev,appcreationsplc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AppLabs.boardstep,AppLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+AppPublishersPLC.boardlinkapp,AppPublishersPLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AppPublishPLC.boardtrackappel,AppPublishPLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+AppReleasePLC.boardlinkapplication,AppReleasePLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 archchainturn.twinny-ai-assist,archchainturn,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 arclens.arc-lens,arclens,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 AshleyHornja.prettierformattingplus,AshleyHornja,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -78,6 +80,7 @@ CharlesHoskinson.lfamnw1,CharlesHoskinson,critical,malware,Removed from VS Marke
 checkmarx.ast-results,checkmarx,critical,malware,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,static_list,https://socket.dev/blog/checkmarx-supply-chain-compromise
 checkmarx.cx-dev-assist,checkmarx,critical,malware,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,static_list,https://socket.dev/blog/checkmarx-supply-chain-compromise
 chvancooten.code-needle,chvancooten,critical,malware,offensive security tool - covert HTTP JSON-RPC code execution backdoor for VS Code with full Node.js privileges,static_list,https://github.com/chvancooten/code-needle
+CipherLabs.CipherLabsApplication,CipherLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 clacla100.claudemem,clacla100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 clacla100.cosave100,clacla100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 clawdbot.clawdbot-agent,clawdbot,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -212,6 +215,7 @@ GregoryBoy.ropanel,GregoryBoy,critical,malware,Removed from VS Marketplace: Malw
 grisaven.markdown-live-kit,grisaven,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 gronarin.auto-super-kit,gronarin,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 grozdarov.jinjahtml-easy-studio,grozdarov,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
+guavadev.omnirouter,guavadev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 guavaduck.omnirouter-ai,guavaduck,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 gvotcha.claude-code-extension,gvotcha,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
 gvotcha.claude-code-extensions,gvotcha,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
@@ -1592,6 +1596,8 @@ auraone.agent-studio-open,auraone,medium,untrustworthy,Removed from VS Marketpla
 auraone.rubric-studio,auraone,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Aussie.FastTask,Aussie,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 avisharma.faaa,avisharma,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+benzoXdev.vscode-3abid-pets,benzoXdev,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+benzoXdev2.vscode-3abid-v1,benzoXdev2,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 BloxTask.bloxtask,BloxTask,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 BobCAD-CAM.bobcad-post,BobCAD-CAM,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 bortolabs.claude-code-usage-bar,bortolabs,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1625,6 +1631,7 @@ hakor-plugins.tabletype,hakor-plugins,medium,untrustworthy,Removed from VS Marke
 hakor-plugins.tsmap-vscode,hakor-plugins,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 haseeb-raza.terminal-faah,haseeb-raza,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 HeleneSmith.rSW,HeleneSmith,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+HuxLabs.huxlabsapp,HuxLabs,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Involute.bs5-kit,Involute,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ironplc.ironplc,ironplc,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ismael-ripoll.abaquspy-input-file-syntax-highlighter,ismael-ripoll,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md

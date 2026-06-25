@@ -33,7 +33,9 @@ indicator,Text,AppCreationLTD.dockyardapp,90,90,Removed from VS Marketplace: Mal
 indicator,Text,AppCreationPLC.boardwalk,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,appcreationsplc.boardwalkdev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AppLabs.boardstep,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,AppPublishersPLC.boardlinkapp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AppPublishPLC.boardtrackappel,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,AppReleasePLC.boardlinkapplication,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,archchainturn.twinny-ai-assist,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,arclens.arc-lens,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AshleyHornja.prettierformattingplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -78,6 +80,7 @@ indicator,Text,CharlesHoskinson.lfamnw1,90,90,Removed from VS Marketplace: Malwa
 indicator,Text,checkmarx.ast-results,90,90,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,malware;critical
 indicator,Text,checkmarx.cx-dev-assist,90,90,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,malware;critical
 indicator,Text,chvancooten.code-needle,90,90,offensive security tool - covert HTTP JSON-RPC code execution backdoor for VS Code with full Node.js privileges,malware;critical
+indicator,Text,CipherLabs.CipherLabsApplication,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,clacla100.claudemem,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,clacla100.cosave100,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,clawdbot.clawdbot-agent,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -212,6 +215,7 @@ indicator,Text,GregoryBoy.ropanel,90,90,Removed from VS Marketplace: Malware.,ma
 indicator,Text,grisaven.markdown-live-kit,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,gronarin.auto-super-kit,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,grozdarov.jinjahtml-easy-studio,90,90,sleeper extension - glassworm supply chain,malware;critical
+indicator,Text,guavadev.omnirouter,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,guavaduck.omnirouter-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,gvotcha.claude-code-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,gvotcha.claude-code-extensions,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -1592,6 +1596,8 @@ indicator,Text,auraone.agent-studio-open,50,50,Removed from VS Marketplace: Untr
 indicator,Text,auraone.rubric-studio,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Aussie.FastTask,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,avisharma.faaa,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,benzoXdev.vscode-3abid-pets,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,benzoXdev2.vscode-3abid-v1,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BloxTask.bloxtask,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BobCAD-CAM.bobcad-post,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,bortolabs.claude-code-usage-bar,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1625,6 +1631,7 @@ indicator,Text,hakor-plugins.tabletype,50,50,Removed from VS Marketplace: Untrus
 indicator,Text,hakor-plugins.tsmap-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,haseeb-raza.terminal-faah,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,HeleneSmith.rSW,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,HuxLabs.huxlabsapp,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Involute.bs5-kit,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ironplc.ironplc,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ismael-ripoll.abaquspy-input-file-syntax-highlighter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
