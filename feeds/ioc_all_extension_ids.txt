@@ -120,6 +120,7 @@ CloudianApp.CloudianCompanion-56d02aa8da72
 ClovisReyes.boardhub
 CodeSecureDev.dependency-scan
 Codeium.codeium
+Codivus.codivus-code
 Cognicio.sftp-deployment
 Cognitrace3.cognitrace3
 CompassLLMCode.autosail
