@@ -38,6 +38,7 @@ AppPublishPLC.boardtrackappel,AppPublishPLC,critical,malware,Removed from VS Mar
 AppReleasePLC.boardlinkapplication,AppReleasePLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 archchainturn.twinny-ai-assist,archchainturn,critical,malware,sleeper extension - glassworm supply chain,static_list
 arclens.arc-lens,arclens,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+Ares-Agent.ares-agent,Ares-Agent,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 AshleyHornja.prettierformattingplus,AshleyHornja,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 automated1ogic.automated1ogic,automated1ogic,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 automatedlogic.automatedlogic,automatedlogic,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -548,6 +549,7 @@ VSAnalysistest.mycodegpt-assistant,VSAnalysistest,critical,malware,Removed from 
 vsceue.volar-vscode,vsceue,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 VSCodeDeveloper.sobidity-compiler,VSCodeDeveloper,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 VSCodeExtensionDevelopment.project-restructure-typescript,VSCodeExtensionDevelopment,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+vscodemobile.vscodemobile,vscodemobile,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 VSDeveloper.theme-library-vs,VSDeveloper,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 VSDeveloper.universal-intellisense,VSDeveloper,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 vtkn.amazon-bedrock-copilot-chat,vtkn,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
