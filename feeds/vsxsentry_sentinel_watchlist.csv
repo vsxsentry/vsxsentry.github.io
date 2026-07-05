@@ -135,6 +135,7 @@ dep-labs-studio.dep-proffesinal-extension,dep-labs-studio,critical,malware,compr
 dev-studio-sense.php-comp-tools-vscode,dev-studio-sense,critical,malware,compromised - glassworm supply chain attack,static_list
 devcodaro.codaro-pro,devcodaro,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 DevCrew.devc-python-toolkit,DevCrew,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+DevFlowHub.devflowhub,DevFlowHub,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 devflowtools.projectflow,devflowtools,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 DevMatrix.devmatrix,DevMatrix,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 devmidu-studio.svg-better-extension,devmidu-studio,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -347,6 +348,7 @@ NordicMidnight.codesilence,NordicMidnight,critical,malware,Removed from VS Marke
 NotToTest.NotToTest,NotToTest,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 OfekBickel.wpp,OfekBickel,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 oigotm.my-command-palette-extension,oigotm,critical,malware,compromised - glassworm supply chain attack,static_list
+OIOXO.oioxo-vscode,OIOXO,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 OmniMind.node-ai,OmniMind,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Onaga08.vibecode,Onaga08,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 OryonTechnology.oryon,OryonTechnology,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1642,6 +1644,7 @@ carrycodeai.carrycode-vscode,carrycodeai,medium,untrustworthy,Removed from VS Ma
 charcoal141II.imu-view,charcoal141II,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 chenjianan.battle-city-for-vscode,chenjianan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 chery-brake-tools.chery-brake-tools,chery-brake-tools,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+ChristopherDengler.imagecomments,ChristopherDengler,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 claudecodeassist.claudecodeassist,claudecodeassist,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 clint.rust-essentials-pack,clint,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ClovisReyes.boardhub,ClovisReyes,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

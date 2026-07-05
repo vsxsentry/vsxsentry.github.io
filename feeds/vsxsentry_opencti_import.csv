@@ -135,6 +135,7 @@ indicator,Text,dep-labs-studio.dep-proffesinal-extension,90,90,compromised - gla
 indicator,Text,dev-studio-sense.php-comp-tools-vscode,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,devcodaro.codaro-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,DevCrew.devc-python-toolkit,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,DevFlowHub.devflowhub,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,devflowtools.projectflow,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,DevMatrix.devmatrix,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,devmidu-studio.svg-better-extension,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -347,6 +348,7 @@ indicator,Text,NordicMidnight.codesilence,90,90,Removed from VS Marketplace: Mal
 indicator,Text,NotToTest.NotToTest,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,OfekBickel.wpp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,oigotm.my-command-palette-extension,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,OIOXO.oioxo-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,OmniMind.node-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Onaga08.vibecode,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,OryonTechnology.oryon,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1642,6 +1644,7 @@ indicator,Text,carrycodeai.carrycode-vscode,50,50,Removed from VS Marketplace: U
 indicator,Text,charcoal141II.imu-view,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,chenjianan.battle-city-for-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,chery-brake-tools.chery-brake-tools,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,ChristopherDengler.imagecomments,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,claudecodeassist.claudecodeassist,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,clint.rust-essentials-pack,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ClovisReyes.boardhub,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
