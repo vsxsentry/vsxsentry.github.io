@@ -342,6 +342,7 @@ LeiaBalan.LeiaBalan
 LeiaBalan.luaulink
 LeiaBalan.roblox-sync
 LeiaBalan.romanager
+LesMiserablesMod.hoi4modutilities-maintained
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
 LinJun.aws-s3-support
@@ -807,6 +808,7 @@ bysabi.prettier-vscode-standard
 camork.fonted-plus
 camsAI.camsAI
 cancline.cancline-dev
+capplicorn.plaintextplus
 carrycodeai.carrycode-vscode
 carveltstone.chatbuddy-auto-suite
 ceo.sammarco
@@ -999,6 +1001,8 @@ federicanc.dotenv-syntax-highlighting
 felcadev.sweetdraculav2
 ferrymo.intellij-idea-new-ui-pretty-ferrymo
 fibanez.sftp-sync-maintained
+fiyqkrc.opencode-vscode-client
+fiyqkrc.vscode-acp-chat
 floktokbok.autoimport
 flutcode.flutter-extension
 flutxvs.vscode-kuberntes-extension
