@@ -716,6 +716,7 @@ indicator,Text,consistem-sistemas.consistem-vscode-objectscript,75,75,Removed fr
 indicator,Text,contextia.contextia-cline,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,continueautocommand.continue-auto-command,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,copilot-multi-provider.copilot-multi-provider,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,cot-eis-dev.cot-eis-dev-test-extension-pack,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cot-eis-team.cot-eis-team-bytestream-route-designer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cot-eis-team.cot-eis-team-extension-pack,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cot-eis-team.cot-eis-team-solution-development-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1436,7 +1437,14 @@ indicator,Text,ygqygq2.turbo-print-log,75,75,Removed from VS Marketplace: Impers
 indicator,Text,yishifuhua.highlight-line-new,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,yishifuhua.local-history-chinese,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ynqq.comment-anchors-ynqq,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yonbip.yds-copilot,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yonbip.yds-explorer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yonbip.yds-extension-pack,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,yonbip.yds-gitlab-workflow,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yonbip.yds-multilang-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yonbip.yds-script-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yonbip.yonbip-development-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yonbip.yonbip-development-studio-fe,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,YuTengjing.vscode-colorize-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,YuTengjing.vscode-github-actions-tj,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ZAMBAR.riscv-venus-cs110,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1623,6 +1631,7 @@ indicator,Text,sanchuan.mimo-copilot,50,50,Removed from VS Marketplace: Spam / M
 indicator,Text,sanchuan.minimax-copilot,50,50,Removed from VS Marketplace: Spam / Malware.,spam-malware;medium
 indicator,Text,0x7a69.whhid,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,4t-ia.4t-ia,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,AbhishekChakrabartti.localghostllmclientextension,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,adityasanwal.faa-sound,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AmirBenShimol3111824.amir-synapse-nexus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AnilAlapati.pqc-beta,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium

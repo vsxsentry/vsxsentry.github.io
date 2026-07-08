@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-08T14:22:57+00:00",
-  "total_records": 1824,
-  "total_malicious": 1752,
+  "generated_utc": "2026-07-08T17:40:29+00:00",
+  "total_records": 1833,
+  "total_malicious": 1761,
   "total_risky": 72,
   "severity_counts": {
     "critical": 582,
-    "high": 894,
+    "high": 902,
     "low": 22,
-    "medium": 326
+    "medium": 327
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 875,
+    "impersonation": 883,
     "impersonation-malware": 5,
     "malware": 582,
     "owner-request": 8,
@@ -34,9 +34,9 @@
     "spam": 71,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 180
+    "untrustworthy": 181
   },
-  "total_publishers": 1407,
+  "total_publishers": 1409,
   "top_publishers": [
     [
       "pit00",
@@ -69,6 +69,10 @@
     [
       "cryptninjaswap",
       10
+    ],
+    [
+      "yonbip",
+      8
     ],
     [
       "Extensions-Topic",
@@ -132,10 +136,6 @@
     ],
     [
       "ms-vscode",
-      5
-    ],
-    [
-      "DevelopmentInc",
       5
     ]
   ]
