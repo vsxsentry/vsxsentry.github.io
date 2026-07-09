@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-e68ef1e6-7d54-4b53-af18-8d9b61198b35">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-1db61585-02ae-4afe-9dbf-919634f311f0">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-07-09T15:18:11+00:00</description>
+<description>Generated: 2026-07-09T17:58:47+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -2874,6 +2874,14 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">cot-eis-dev.cot-eis-dev-bytestream-route-designer</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">cot-eis-dev.cot-eis-dev-solution-development-studio</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">cot-eis-dev.cot-eis-dev-test-extension-pack</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4010,6 +4018,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">kokoma.nvm-studio</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">KomaKamaki.vscode-api-client-lite</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4515,6 +4527,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">NPC1.unify-chat-provider-ui</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">numa-forge.sftp-enhanced</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
