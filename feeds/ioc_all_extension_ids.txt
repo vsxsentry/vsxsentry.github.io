@@ -1,5 +1,6 @@
 06a678fb-6fc1-623d-88d6-77ab9a4932cc.open-vs-embedded-browser
 0miles.vscode-git-graph-alter
+0x141c6.auto-open-previews
 0x7a69.whhid
 0xS1rx58D3V.ChatGPT-B0T
 11011.blenderPluginDevTool11011
@@ -1032,6 +1033,7 @@ fyltroven.gitchat-fast-tool
 fyzhu.git-pretty-graph
 gabrielbotan.gruvbox-vim
 gastholve.shell-pro-kit
+gdnwxf.search-like-intellij
 gea-embedded.vscode-clangd-gea-embedded
 genon.cline-for-genos
 gerson577.turbo-console-log-modify
@@ -1327,6 +1329,8 @@ mishannn.custom-turbo-console-log
 mkd-corp.keural-vscode
 mkloubert.vscode-deploy-reloaded
 mlhiter.sline
+mo-masoud.claude-code-rtl-arabic
+mo7ammedd.vscode-blur
 momomomowei.element-plus-mo
 mongodb.mongodb-vscode
 mpw.ccbscf-biz-snippets
@@ -1515,6 +1519,7 @@ redcapcollective.vscode-quarkus-elite-suite
 redhat.vscode-xml
 redmat.vscode-quarkus-pro
 reflection.test-gl-workflow-fork
+regina-prompt-spittingcode.regina-prompt-spittingcode
 remimarsal.prettier-now
 reorx.github-abs-vscode-theme
 responsivewebio.vscode-sftp-2026
@@ -1541,6 +1546,7 @@ rustcc.rust-analyzer-cn
 rwbcy.trwbcy-poc
 rwl.angular-console
 ryanolsonx.poimandres-contrast
+rzkyagngngr.kylo
 sachinsmc.turbo-rust-println
 sadan.insight-doc
 sahil92552.cbe-456
@@ -1699,6 +1705,7 @@ tria-technologies.simpleswitch-vscode-tools
 tria.readonlywin
 trikarin.database-super-tool
 trlanfeng.turbo-console-log
+ts-org.one-dark-remix
 tuanpham.tunas-graphql-explorer-pro
 tuanpham.tunas-ruby-call-flow
 tucyzirille-studio.angular-pro-tools-extension
@@ -1768,6 +1775,7 @@ wli273088.vscode-pets-for-courses-demo
 wlnxingdev.free-senltig
 worldline.aicodefix
 worldline.wlpfo-toolkit
+worma.worma-vscode
 wtklbm.code-debuger-fork
 wumo1016.i18n-pro
 wumo1016.vue-legacy-extension
