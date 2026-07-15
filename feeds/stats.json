@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-15T15:27:15+00:00",
-  "total_records": 1863,
-  "total_malicious": 1791,
+  "generated_utc": "2026-07-15T17:20:26+00:00",
+  "total_records": 1875,
+  "total_malicious": 1803,
   "total_risky": 72,
   "severity_counts": {
     "critical": 583,
-    "high": 919,
+    "high": 929,
     "low": 22,
-    "medium": 339
+    "medium": 341
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 900,
+    "impersonation": 910,
     "impersonation-malware": 5,
     "malware": 583,
     "owner-request": 8,
@@ -34,9 +34,9 @@
     "spam": 71,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 193
+    "untrustworthy": 195
   },
-  "total_publishers": 1435,
+  "total_publishers": 1441,
   "top_publishers": [
     [
       "pit00",
@@ -87,6 +87,10 @@
       7
     ],
     [
+      "justybase",
+      7
+    ],
+    [
       "PCODE-pl",
       7
     ],
@@ -132,10 +136,6 @@
     ],
     [
       "ms-vscode-remote",
-      5
-    ],
-    [
-      "ms-vscode",
       5
     ]
   ]

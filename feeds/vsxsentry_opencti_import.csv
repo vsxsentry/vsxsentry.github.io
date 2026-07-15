@@ -588,6 +588,7 @@ indicator,Text,11011.blenderPluginDevTool11011,75,75,Removed from VS Marketplace
 indicator,Text,11011.markdown-shortcuts-like-obsidian-merge,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,11011.markdown-shortcuts-like-obsidian-ob,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,11011.ubuntutheme11011,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,128BitStudios.codex-stats-updated,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,318182456.legado-reader3-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,360-Geelib-Copilot-Code.geelibcopilotcode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,617694668.cline-cn,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -795,6 +796,7 @@ indicator,Text,duailibe.miniprettier,75,75,Removed from VS Marketplace: Imperson
 indicator,Text,duanyll.image-gallery,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,DylanRampage.prettier-optimized,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,dywsy21.latex-previewer-minor-fixes,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,ebdonato.donato-ariake-dark,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ebextensions.active-clang-format,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ebextensions.clang-format-2025,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,eclipse-cdt.vscode-clangd-cdtcloud,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -986,6 +988,13 @@ indicator,Text,jsjm.latex-utilities-jsjm,75,75,Removed from VS Marketplace: Impe
 indicator,Text,juanmaguitar.cursor-rules-downloader,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,juanmaguitar.custom-cursor-rules-multirepo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,JustLookAtNow.gitlab-mr-ui,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,justybase.justybase-db2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,justybase.justybase-duckdb,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,justybase.justybase-mssql,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,justybase.justybase-mysql,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,justybase.justybase-netezza,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,justybase.justybase-oracle,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,justybase.justybase-postgresql,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kaighe.esp-idf-light,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Kanari-Network.kari-move,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Kanishk-B.mass-rename-extension5,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1082,6 +1091,7 @@ indicator,Text,mahdihajian.vscode-pull-request-azure-devops,75,75,Removed from V
 indicator,Text,mahdihajian.vscode-shelf,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MahendrakarPrateek.prettyxml-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MakinCo.luau-lsp-library,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,mantasmikaI.vscode-theme-pIuto,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ManuelMiethe.openhab-config-aligner-2026,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MarioLJFerreira.42header-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mark9804.zotero-latex-cite,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1725,6 +1735,7 @@ indicator,Text,IZOT-TE-3.static-code-parser,50,50,Removed from VS Marketplace: U
 indicator,Text,joshuadaniel8090.vscode-telegram-bridge,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,jsonbourne.jsonbourne,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Jumbo.JumboKey,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,JumboCore.Jumbos,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,jzeeed.jzeeed,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,KeeleyLednergznl.ri7,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,keeptrack.keeptrack-notes-manager,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1789,6 +1800,7 @@ indicator,Text,SchlafferBenjamin.tridev-development-hub,50,50,Removed from VS Ma
 indicator,Text,ScrambleCloudUG.lurus-code-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,SecretTea.project-tea,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,SerbByteDevelopment.gpt-code-generator,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,Ship-lab.markpad,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,shoaibkorai.faaah,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,shogo-ai.shogo-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,sla-guardian.static-sla-guardian,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
