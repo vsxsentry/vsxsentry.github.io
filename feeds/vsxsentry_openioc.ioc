@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-3379e314-9dd2-42e4-8380-0982d7b4896c">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-eae2ab23-4f44-4dfd-a3e4-863f22ae8628">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-07-17T15:16:07+00:00</description>
+<description>Generated: 2026-07-17T17:15:28+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4014,6 +4014,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">kauricre.vscode-styled-components-modern</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">kazi08.mcp-audit-pii-guard</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4494,6 +4498,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">ms-gmolveau.vscode-hadolint2</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">mtc2000.vscode-pdf-viewer</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4743,6 +4751,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">phantomgz.vscode-theme-onedark-c</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">phillip-merritt.vscode-beads-rust</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>

@@ -1244,6 +1244,7 @@ karnenko.cursorless-pro-pilot
 karnikov.better-rich-studio
 kast789.visual-studio-2022-theme
 kast789.vs-2019-theme
+kauricre.vscode-styled-components-modern
 kazan.myworldline
 kazi08.mcp-audit-pii-guard
 kd100100.kd100100-cline
@@ -1377,6 +1378,7 @@ ms-azuretools.vscode-azureresourcegroups
 ms-azuretools.vscode-azurestorage
 ms-azuretools.vscode-cosmosdb
 ms-azuretools.vscode-docker
+ms-gmolveau.vscode-hadolint2
 ms-kubernetes-tools.vscode-kubernetes-tools
 ms-mssql.mssql
 ms-ossdata.vscode-postgresql
@@ -1460,6 +1462,7 @@ peldravix.rpgiv2free-live-tool
 pemhkakbh.theme-helper-utils
 pessa07tm.my-js-ts-auto-commands
 phantomgz.vscode-theme-onedark-c
+phillip-merritt.vscode-beads-rust
 philnash.ngrok-for-vscode
 phpLens.phpLens
 phyrasaur.vscodian
