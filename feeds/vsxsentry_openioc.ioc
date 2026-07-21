@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-156b710e-bd9e-41f6-a3aa-56b07fe1c6a5">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-00a932e9-ff62-4c33-b81a-1f8f520be876">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-07-21T17:24:24+00:00</description>
+<description>Generated: 2026-07-21T19:36:14+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -2419,6 +2419,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">AdamFortune.ezsqlite</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">adi-trev.trev-flashing</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -6766,6 +6770,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">AviDev.pure-agent-rtl</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">avisharma.faaa</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -7062,10 +7070,6 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
-    <Content type="string">krzysztof-d.justybaselite-netezza</Content>
-  </IndicatorItem>
-  <IndicatorItem condition="contains">
-    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">ktav-lang.ktav</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -7095,6 +7099,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">LeiaBalan.romanager</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">LongNguyen2k.longnguyen-db</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -7207,6 +7215,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">regina-prompt-spittingcode.regina-prompt-spittingcode</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">riai-mkp.riai-marketplaceMcp</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -7375,6 +7387,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">uai-systems.uai-extension</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">UlfBissbort.zef</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
