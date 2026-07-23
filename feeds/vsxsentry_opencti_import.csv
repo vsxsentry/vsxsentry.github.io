@@ -429,6 +429,8 @@ indicator,Text,RblxTasker.RblxTasker,90,90,Removed from VS Marketplace: Malware.
 indicator,Text,reactsnippetsai.es7-react-js-snippets-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,redcapcollective.vscode-quarkus-elite-suite,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,redmat.vscode-quarkus-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,riai-marketplace.riai-marketplace-mcp-test,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,riai-mkp.riai-marketplaceMcp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,richardgubangxa.sf-buddy,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RileyMoore.stdrlabs-ext,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RoamAI.roam-crew,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1110,6 +1112,7 @@ indicator,Text,mark9804.zotero-latex-cite,75,75,Removed from VS Marketplace: Imp
 indicator,Text,markdown-office-viewer-new.markdown-office-viewer-new,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,markdown-office-viewer.markdown-office-viewer-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MarketingThibs.ampscriptsnippets,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,markovic.jetbrains-file-icon-theme-php,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,marpo.gruvbox-material-marpo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Marvello.js-beautify-wrapper,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,marvin63597.claude-dd,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1808,7 +1811,6 @@ indicator,Text,qweqweqwe.test,50,50,Removed from VS Marketplace: Untrustworthy.,
 indicator,Text,Raidfire.mes-reference-library,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ray2666.antigravity-proxy,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,regina-prompt-spittingcode.regina-prompt-spittingcode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,riai-mkp.riai-marketplaceMcp,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,rishiishah.csegraph-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,roboard.roboard,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,romanage.romanage,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium

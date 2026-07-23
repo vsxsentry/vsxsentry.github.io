@@ -429,6 +429,8 @@ RblxTasker.RblxTasker,RblxTasker,critical,malware,Removed from VS Marketplace: M
 reactsnippetsai.es7-react-js-snippets-ai,reactsnippetsai,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 redcapcollective.vscode-quarkus-elite-suite,redcapcollective,critical,malware,compromised - glassworm supply chain attack,static_list
 redmat.vscode-quarkus-pro,redmat,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+riai-marketplace.riai-marketplace-mcp-test,riai-marketplace,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+riai-mkp.riai-marketplaceMcp,riai-mkp,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 richardgubangxa.sf-buddy,richardgubangxa,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RileyMoore.stdrlabs-ext,RileyMoore,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RoamAI.roam-crew,RoamAI,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1110,6 +1112,7 @@ mark9804.zotero-latex-cite,mark9804,high,impersonation,Removed from VS Marketpla
 markdown-office-viewer-new.markdown-office-viewer-new,markdown-office-viewer-new,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 markdown-office-viewer.markdown-office-viewer-pro,markdown-office-viewer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 MarketingThibs.ampscriptsnippets,MarketingThibs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+markovic.jetbrains-file-icon-theme-php,markovic,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 marpo.gruvbox-material-marpo,marpo,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Marvello.js-beautify-wrapper,Marvello,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 marvin63597.claude-dd,marvin63597,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1808,7 +1811,6 @@ qweqweqwe.test,qweqweqwe,medium,untrustworthy,Removed from VS Marketplace: Untru
 Raidfire.mes-reference-library,Raidfire,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ray2666.antigravity-proxy,ray2666,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 regina-prompt-spittingcode.regina-prompt-spittingcode,regina-prompt-spittingcode,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
-riai-mkp.riai-marketplaceMcp,riai-mkp,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 rishiishah.csegraph-vscode,rishiishah,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 roboard.roboard,roboard,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 romanage.romanage,romanage,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
