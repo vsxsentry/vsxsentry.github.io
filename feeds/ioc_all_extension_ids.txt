@@ -117,6 +117,8 @@ CJL.todo-tree-enhanced
 CMSbrand.liquidfred
 COMP.sqltools-driver-postgres
 COMP.sqltools-enhanced
+CPLUSPLUS.cpp-compiler-provider
+CPLUSPLUS.java-compiler-provider
 CSF-RED.CSF-RED
 CalebBaird.leaderkey-configurable
 CartagoNova.turbo-console-log-forked-by-cartago
@@ -1385,6 +1387,7 @@ mkloubert.vscode-deploy-reloaded
 mlhiter.sline
 mo-masoud.claude-code-rtl-arabic
 mo7ammedd.vscode-blur
+model-selection.TerminalRun
 momomomowei.element-plus-mo
 mongodb.mongodb-vscode
 mpw.ccbscf-biz-snippets
