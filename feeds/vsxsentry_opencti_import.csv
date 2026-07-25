@@ -778,6 +778,11 @@ indicator,Text,devCHOUZZ.vscode-better-align-pro,75,75,Removed from VS Marketpla
 indicator,Text,devcoreAi-Coding-Agent.devcoreai-agent,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,devnazir.gosh-interpreter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,devolutionsinc.devolutions-powershell-universal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,devshub-ai.devshub-basedpyright,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,devshub-ai.devshub-dotenv,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,devshub-ai.devshub-file-icons,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,devshub-ai.devshub-go,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,devshub-ai.devshub-python,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,devSparkle.luau-lsp-overtur,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,devxlogan.jetbrains-rider-new-ui-theme-fixed,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,dg19.todo-atlas,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -870,6 +875,7 @@ indicator,Text,gglin001-vscode.vscode-mlir-custom,75,75,Removed from VS Marketpl
 indicator,Text,ghlandy.LiveServer-2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,gisonyeung.pika-svelte-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,git-ai-cli.git-ai-cli,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,GMSoftwares.trello-workspace,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,GoDeveloper.go-developer-support-extension,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,godot42.cmantic-forked,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,grovejt.open-folder-in-cursor,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1250,6 +1256,7 @@ indicator,Text,profezzional.package-json-upgrade-fork,75,75,Removed from VS Mark
 indicator,Text,ProjectStarboy.projectstarboy-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,przybylski.cursor-harpoon,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ps-aditya.redis-live,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Pstudio.pstudio-cph,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ptanmay143.vscode-gitignore,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,publishingsofficial.prettier-plus-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,publishingsofficial.prettier-vscode-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1499,6 +1506,7 @@ indicator,Text,YuTengjing.vscode-colorize-plus,75,75,Removed from VS Marketplace
 indicator,Text,YuTengjing.vscode-github-actions-tj,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ZAMBAR.riscv-venus-cs110,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ZaqueuRodrigues.vscode-eclipse-keymap-complete,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Zaur.zz-sftp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zenplusplus.sonaita,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zero-pzp.turbo-console-log-pzp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ZhangQuan.code-translate-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1728,6 +1736,7 @@ indicator,Text,d-led.commentray-vscode,50,50,Removed from VS Marketplace: Untrus
 indicator,Text,deepsweep-ai.deepsweep,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,deltalenz.deltalenz,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,DevLingo.devlingo-ia,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,DevMany.verde-sync,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,devpiyushraj.faah-sound-effect,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,devsessioncanvas.dev-session-canvas,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,devsessioncanvas.dev-session-canvas-notifier,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
