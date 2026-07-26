@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-ef3c2a63-5618-4f58-a544-3b232f8e5ab6">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-d0977c4d-d752-4878-9d2f-f704f418f804">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-07-26T17:05:39+00:00</description>
+<description>Generated: 2026-07-26T19:16:37+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -722,6 +722,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">everestsystems.lotse-language-vscode</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Expressjs.expressjs-session</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -1266,6 +1270,14 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">MarkdownLinks.markdown-links-pro</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">MarkdownLinks.tunnel-pro</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">marketplacer.marketplacer</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -1715,6 +1727,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">reactsnippetsai.es7-react-js-snippets-ai</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">RealismHub.trello-management</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -4534,6 +4550,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">mindandhand.vscode-zhihu-maintained</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">mishannn.custom-turbo-console-log</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4759,6 +4779,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">outstand.outstand-elixir-ls</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">ovolab-veritas.codesnap-lite</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -5511,6 +5535,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">sunamo-cz.specstory-autosave</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">sunstoneapps.opencode-selection</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -7002,10 +7030,6 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
-    <Content type="string">everestsystems.lotse-language-vscode</Content>
-  </IndicatorItem>
-  <IndicatorItem condition="contains">
-    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">everyapi-ai.everyapi-vscode</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -7190,14 +7214,6 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
-    <Content type="string">MarkdownLinks.markdown-links-pro</Content>
-  </IndicatorItem>
-  <IndicatorItem condition="contains">
-    <Context document="processItem" search="processItem/arguments" type="mir"/>
-    <Content type="string">MarkdownLinks.tunnel-pro</Content>
-  </IndicatorItem>
-  <IndicatorItem condition="contains">
-    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">mastersam.faaaah-on-fail</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -7275,6 +7291,18 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">prnx.synapsez-ext</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">PTIT.ptit-cpp-timeline</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">PTIT.ptit-java-timeline</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">qaqulya2.ai-autocomplete2</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>

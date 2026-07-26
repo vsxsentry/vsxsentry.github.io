@@ -178,6 +178,7 @@ ethers.ethersfoundry,ethers,critical,malware,Removed from VS Marketplace: Malwar
 EthersFoundation.bogitiy,EthersFoundation,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ETHFoundry.etherfoundrys,ETHFoundry,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 evaera-rbx.vscode-rojo-rbx,evaera-rbx,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+everestsystems.lotse-language-vscode,everestsystems,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Expressjs.expressjs-session,Expressjs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 exss-studio.yaml-professional-extension,exss-studio,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
 Extensions-A.wow1language,Extensions-A,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -314,6 +315,8 @@ marabenov.graphql-super-craft,marabenov,critical,malware,sleeper extension - gla
 MarcusHoffkin.mannequin,MarcusHoffkin,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 MarcusLockwood.wgbk,MarcusLockwood,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 markdown.markdown-all-pro,markdown,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+MarkdownLinks.markdown-links-pro,MarkdownLinks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+MarkdownLinks.tunnel-pro,MarkdownLinks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 marketplacer.marketplacer,marketplacer,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 MarkH.chatgpt-autocoder-vscode,MarkH,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 MarkH.claude-autocoder-vscode,MarkH,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -427,6 +430,7 @@ RachelFront.asdtif,RachelFront,critical,malware,Removed from VS Marketplace: Mal
 raidenshogun.javascript-null-sequence,raidenshogun,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 RblxTasker.RblxTasker,RblxTasker,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 reactsnippetsai.es7-react-js-snippets-ai,reactsnippetsai,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+RealismHub.trello-management,RealismHub,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 redcapcollective.vscode-quarkus-elite-suite,redcapcollective,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
 redmat.vscode-quarkus-pro,redmat,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 riai-marketplace.riai-marketplace-mcp-test,riai-marketplace,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1131,6 +1135,7 @@ metagogo.metagogo,metagogo,high,impersonation,Removed from VS Marketplace: Imper
 MichaelBanucu.vscode-mocha-test-adapter-update-to-nodejs-22,MichaelBanucu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 mikeljl.continue-ljl-fork,mikeljl,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Milynn.bongocat-sidebar,Milynn,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+mindandhand.vscode-zhihu-maintained,mindandhand,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 mishannn.custom-turbo-console-log,mishannn,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 mlhiter.sline,mlhiter,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 MMitsuha.vscode-docker-registry-explorer-rev,MMitsuha,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1188,6 +1193,7 @@ OrqentAi.orqentai-code,OrqentAi,high,impersonation,Removed from VS Marketplace: 
 oub.lucide-product-icon-theme-fork,oub,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 oub.theme-bluloco-light-oub-rmx,oub,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 outstand.outstand-elixir-ls,outstand,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+ovolab-veritas.codesnap-lite,ovolab-veritas,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ovolab-veritas.codesnap-neo,ovolab-veritas,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 owenrossikeen.script-buttons-extended,owenrossikeen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 OxfordAbstracts.ide-purescript-oa-hybrid,OxfordAbstracts,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1376,6 +1382,7 @@ streamax.claude-dev-streamax,streamax,high,impersonation,Removed from VS Marketp
 stunning-yunwu.code-debugger-plus,stunning-yunwu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 stx-emma.git-e-graph,stx-emma,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 sunamo-cz.specstory-autosave,sunamo-cz,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+sunstoneapps.opencode-selection,sunstoneapps,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Superxin.ctags-c-cpp,Superxin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Superxin.ctagsc,Superxin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 SupporterREditor.r-vscode,SupporterREditor,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1748,7 +1755,6 @@ DorianN612.wordcountertool,DorianN612,medium,untrustworthy,Removed from VS Marke
 Drake90.library-roblox-api,Drake90,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Dylan-Edwards.CodeTracker-Oracle,Dylan-Edwards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Embedder.embedder-infineon,Embedder,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
-everestsystems.lotse-language-vscode,everestsystems,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 everyapi-ai.everyapi-vscode,everyapi-ai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ext-lab.ftp-supports,ext-lab,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1795,8 +1801,6 @@ LeiaBalan.romanager,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: 
 LongNguyen2k.longnguyen-db,LongNguyen2k,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 MachineConfiguration-test.machine-configuration,MachineConfiguration-test,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 mariovalney.wordpress-readme-to-markdown,mariovalney,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
-MarkdownLinks.markdown-links-pro,MarkdownLinks,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
-MarkdownLinks.tunnel-pro,MarkdownLinks,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 mastersam.faaaah-on-fail,mastersam,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Men3emkhaled.agent-assistant,Men3emkhaled,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 mirrorflat.mirrorflatlog,mirrorflat,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1817,6 +1821,9 @@ OxCamlEnhanced.oxcaml-enhanced,OxCamlEnhanced,medium,untrustworthy,Removed from 
 pemhkakbh.theme-helper-utils,pemhkakbh,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 POCreations.worklane,POCreations,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 prnx.synapsez-ext,prnx,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+PTIT.ptit-cpp-timeline,PTIT,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+PTIT.ptit-java-timeline,PTIT,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+qaqulya2.ai-autocomplete2,qaqulya2,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 QiYijiazhen.glm-for-copilot,QiYijiazhen,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 quartz.quartz-markdown-editor,quartz,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 qweqweqwe.test,qweqweqwe,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
