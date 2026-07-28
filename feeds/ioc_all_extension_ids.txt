@@ -389,6 +389,7 @@ LongNguyen2k.longnguyen-db
 LuaShield.lua-shield
 LuizDoPc.luizdopc-turbo-console-log
 MMitsuha.vscode-docker-registry-explorer-rev
+MN34studio.cph-2077
 MS-vsliveshare.vsliveshare
 MachineConfiguration-test.machine-configuration
 MahendrakarPrateek.prettyxml-pro
