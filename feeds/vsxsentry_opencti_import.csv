@@ -667,6 +667,7 @@ indicator,Text,auguwu.opentofu-vscode,75,75,Removed from VS Marketplace: Imperso
 indicator,Text,aurogon-as.unreal-angelscript-aurogon,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,aurora-them-creator.theme-aurora-nocturne,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Autolexia.testwise,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Avan0203.wgsl-literal-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,avenableivytech.vscode-sqlite-av,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ax60.electricblackfelixdivallportvs2022,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,AzelSync.alk-icons,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1069,6 +1070,8 @@ indicator,Text,lang2hong.l2h-db-client,75,75,Removed from VS Marketplace: Impers
 indicator,Text,lang2hong.l2h-vscode-dashboard,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,LangNico.maxima-syntax-highlighting-new,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,LBGroup.lineputscript-formatter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,lce.lce-code,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,leapliu.mindmap-github-image-bed,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,leon-qiu.hexo-auto-updated,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,leonardomjq.goblin-mode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,LesMiserablesMod.hoi4modutilities-maintained,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1192,6 +1195,8 @@ indicator,Text,numso.vscode-tailwindcss-with-hex-colors,75,75,Removed from VS Ma
 indicator,Text,octohash.powermode-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okg21.bigquery-explorer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okok909090.csv-grid-editor-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,okok909090.fast-open-csv-and-xlsx-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,okok909090.fast-open-csv-viewer-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,OktayAydoan.smarty-formatter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,oleg-the-developer.sftp-sync-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,OmGawande.sonata,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1465,6 +1470,7 @@ indicator,Text,vroshupkin.plantuml-png-microfork,75,75,Removed from VS Marketpla
 indicator,Text,vs-browser-openUrl.vs-browser-openUrl,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,vs-publisher-1477920.better-json5-x,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,vs-publisher-1489718.SQLinFormVS20222026,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,vsit.vsit,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,vue2-snippets-plus-least.vue2-snippets-plus-least,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,walteh.embedded-languages-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,walteh.protolsp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1662,6 +1668,11 @@ indicator,Text,Hidden-Pixel.vscode-chippy,50,50,Removed from VS Marketplace: Spa
 indicator,Text,jarekw.Ric,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,Kiki67.gambling-corner,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,lukasfull.protheus-app-generator,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,okok909090.academic-paper-preview,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,okok909090.fixed-Partial-diff-clipboard,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,okok909090.latex-markdown-preview-see-quikly,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,okok909090.mathlive-sync,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,okok909090.matlab-section-runner,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,phpLens.phpLens,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,qpluslang.qplusos,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,rg-ImTheDragonFly.ori-sucks,50,50,Removed from VS Marketplace: Spam.,spam;medium
