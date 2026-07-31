@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-113a175c-2139-47a9-94d9-b982ace79394">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-87700fa5-8a5a-4022-928a-92813cbafa4f">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-07-31T14:16:00+00:00</description>
+<description>Generated: 2026-07-31T17:41:52+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4150,6 +4150,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">KhoaZero123.sftp-extension</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">kide.kide-csharp</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5762,6 +5766,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">tpill90.latex-utilities-fork2</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">trandaison.trandaison-git-file-history</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -6023,6 +6031,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">xilong88.stepfun-i18n</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">xinzhuang.sftp-fork</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
