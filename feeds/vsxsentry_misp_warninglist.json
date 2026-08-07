@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20260806",
+  "version": "20260807",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -1117,6 +1117,7 @@
     "littleCareless.svn-scm-ai",
     "liuhui.shadow-reader-pro",
     "liumeng1201.android-helper",
+    "liuweigl.comment-divider-next",
     "liuxy-CN.preview-everything",
     "live-servers.LiveeServer",
     "longguanghui.baiteda-vscode-i18n",

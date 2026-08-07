@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-48b437e3-910c-4d0b-8e11-0df4d510d82c">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-e0dbef3d-c3fa-4416-8093-bb2a7b877c86">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-08-06T14:20:26+00:00</description>
+<description>Generated: 2026-08-07T00:04:46+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4439,6 +4439,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">liumeng1201.android-helper</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">liuweigl.comment-divider-next</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
