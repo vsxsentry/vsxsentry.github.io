@@ -299,6 +299,7 @@ indicator,Text,Languages.hungarian,90,90,Removed from VS Marketplace: Malware.,m
 indicator,Text,lavender-studio.theme-lavender-dreams,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,leonardomth.claudio-code,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,levicarlsson.shelly,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,LihengLuo.proxy-bridge-extension-pack,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,littensy-studio.magical-icons,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,LuaShield.lua-shield,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,luater.luatide,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -523,6 +524,7 @@ indicator,Text,tormekov.htmlmustache-fast-craft,90,90,sleeper extension - glassw
 indicator,Text,tossbers.browser-open-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,tralarin.firefox-rich-lens,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,tralaven.c-easy-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
+indicator,Text,transitrix.transitrix-studio,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,treedotree.tree-do-todoextension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,trenarin.autodocstring-auto-studio,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,trikarin.database-super-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
@@ -878,8 +880,12 @@ indicator,Text,fsiovn.chat-provider,75,75,Removed from VS Marketplace: Impersona
 indicator,Text,fsiovn.coper-copilot,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,fsiovn.copilot-provider,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,funkyproject.vscode-phpunit-funky-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,funovus.dcei-trdb,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,funovus.dcei-vscode-teal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,funovus.dceilua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,funovus.funovus-trdb,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,funovus.funovus-vscode-teal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,funovus.funovuslua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,fyzhu.git-pretty-graph,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,gabrielbotan.gruvbox-vim,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,gea-embedded.vscode-clangd-gea-embedded,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
