@@ -288,6 +288,7 @@ indicator,Text,krosarin.npm-fast-studio,90,90,sleeper extension - glassworm supp
 indicator,Text,krosaven.dot-live-forge,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,krosovik.laravel-quick-pilot,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,krundoven.ironplc-fast-hub,90,90,confirmed malicious - glassworm supply chain,malware;critical
+indicator,Text,kruton.vscode-lambdamoo,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,kudsu.sober-ssh,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,kudsu.soberssh,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,kuldaran.search-smart-forge,90,90,sleeper extension - glassworm supply chain,malware;critical
@@ -492,6 +493,7 @@ indicator,Text,stelbavik.hledger-fast-tool,90,90,sleeper extension - glassworm s
 indicator,Text,studio-jjalaire-team.professional-quarto-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,studio-velte-distributor.pro-svelte-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,StudioBoard.studioboard,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,Studiooo.trelloboard,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,sun-shine-studio.shiny-extension-for-vscode,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,sun-xm.quick-action,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,sunsetHightlight.sunset-highlight,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -723,6 +725,7 @@ indicator,Text,cn00.sqltools-duckdb,75,75,Removed from VS Marketplace: Impersona
 indicator,Text,codelogix.catppuccin-darker-vsc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codeomnitrix.firestore-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codevsce.codelddb-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Cognitrace3.cognitrace-v2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Cognitrace3.cognitrace3,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cognivision.cogni-dev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,COMP.sqltools-driver-postgres,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1226,6 +1229,7 @@ indicator,Text,ParthRaninga.cursor-ai-rules,75,75,Removed from VS Marketplace: I
 indicator,Text,ParthRaninga.cursor-smart-rules,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ParthRaninga.cursor-smart-rules-demo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ParwatKunwar.codesandbox-parwat-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,pascalabcnet.pascalabc-net,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,paul0dev.deepseek-copilot-byok,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PCODE-pl.branch-breakpoints-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PCODE-pl.F5,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
