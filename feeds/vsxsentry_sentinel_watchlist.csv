@@ -40,6 +40,7 @@ AppReleasePLC.boardlinkapplication,AppReleasePLC,critical,malware,Removed from V
 archchainturn.twinny-ai-assist,archchainturn,critical,malware,sleeper extension - glassworm supply chain,static_list
 arclens.arc-lens,arclens,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Ares-Agent.ares-agent,Ares-Agent,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+ascii-fetcher.ascii-fetcher,ascii-fetcher,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 AshleyHornja.prettierformattingplus,AshleyHornja,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ashutosh-sanodia.riai-marketplace-mcp,ashutosh-sanodia,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ashutosh-sanodia.translator-plugin,ashutosh-sanodia,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -293,6 +294,7 @@ krosaven.dot-live-forge,krosaven,critical,malware,sleeper extension - glassworm 
 krosovik.laravel-quick-pilot,krosovik,critical,malware,sleeper extension - glassworm supply chain,static_list
 krundoven.ironplc-fast-hub,krundoven,critical,malware,confirmed malicious - glassworm supply chain,static_list
 kruton.vscode-lambdamoo,kruton,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+KsWpsClaude.wps-claude-vscode,KsWpsClaude,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 kudsu.sober-ssh,kudsu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 kudsu.soberssh,kudsu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 kuldaran.search-smart-forge,kuldaran,critical,malware,sleeper extension - glassworm supply chain,static_list
@@ -1580,6 +1582,7 @@ ziop.jetgit,ziop,high,impersonation,Removed from VS Marketplace: Impersonation.,
 zjt.zjt-onedark-modern,zjt,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Zoosewu.project-manager-zoo,Zoosewu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 zouguowei.krtc-filter-line,zouguowei,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+zpy-ai.clinez,zpy-ai,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 zqchen.vscode-dashboard-fork,zqchen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 zstings.claude-code-zh-cn,zstings,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 zwyyy456.mariana-st,zwyyy456,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
