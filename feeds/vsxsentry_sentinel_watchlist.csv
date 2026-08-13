@@ -535,6 +535,8 @@ tralarin.firefox-rich-lens,tralarin,critical,malware,sleeper extension - glasswo
 tralaven.c-easy-tool,tralaven,critical,malware,sleeper extension - glassworm supply chain,static_list
 transitrix.transitrix-studio,transitrix,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 treedotree.tree-do-todoextension,treedotree,critical,malware,compromised - glassworm supply chain attack,static_list
+TrelloSoftWorks.trello-deck,TrelloSoftWorks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+TrelloWorks.trello-board,TrelloWorks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 trenarin.autodocstring-auto-studio,trenarin,critical,malware,sleeper extension - glassworm supply chain,static_list
 trikarin.database-super-tool,trikarin,critical,malware,sleeper extension - glassworm supply chain,static_list
 Trustworthy.mevscode,Trustworthy,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages

@@ -535,6 +535,8 @@ indicator,Text,tralarin.firefox-rich-lens,90,90,sleeper extension - glassworm su
 indicator,Text,tralaven.c-easy-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,transitrix.transitrix-studio,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,treedotree.tree-do-todoextension,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,TrelloSoftWorks.trello-deck,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,TrelloWorks.trello-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,trenarin.autodocstring-auto-studio,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,trikarin.database-super-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,Trustworthy.mevscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
