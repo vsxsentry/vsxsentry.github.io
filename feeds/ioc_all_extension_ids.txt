@@ -226,6 +226,7 @@ Eyaa.vue-swift-i18n-plus
 FEYeh.ssc-ibs
 FRONT-END-AI.front-end-ai
 FaceCrypto.chocolatesnack
+FengXCs.best-novel-reader
 Floriani.mcp-hub
 FlowIndex.flowindex-cadence
 FlyingsMarmot.vscode-clangd-ucpp
@@ -447,6 +448,7 @@ Moushu.material-icon-theme-moushu
 MrMainframe.pitel-library
 MultiCortexDevCore202.MultiCortexDevCore202
 Murilo.headwind-haml-fork
+Muzammil.smart-attach
 NEVSTOP-LAB.csm-vsc-support
 NEVSTOP-LAB.vsc-open-in-integrated-browser
 NFoundation.terraform-ai
@@ -1043,6 +1045,7 @@ drovenko.data-live-suite
 drzorm.vscode-fast-folder-structure-custom
 duailibe.miniprettier
 duanyll.image-gallery
+dutu-mike.vim-cheatsheet-cn
 dywsy21.latex-previewer-minor-fixes
 eamodas.shiny-vscode
 eamodio.gitlens
@@ -1308,6 +1311,7 @@ justybase.justybase-netezza
 justybase.justybase-oracle
 justybase.justybase-postgresql
 jzeeed.jzeeed
+k-lani.k-lani-code-translator
 kaighe.esp-idf-light
 kaijialin.pvts
 kaiwu-probes.Probes-ai
@@ -1442,6 +1446,7 @@ mg-lab.mb-lab
 mglab.mglab
 mikeljl.continue-ljl-fork
 mindandhand.vscode-zhihu-maintained
+mingxi2077.dsh-harness-vscode
 minlabs.quiet-code
 mirrorflat.mirrorflatlog
 mishannn.custom-turbo-console-log
