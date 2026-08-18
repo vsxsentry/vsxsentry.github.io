@@ -191,6 +191,7 @@ DorianN612.wordcountertool
 Doro2.dart-flutter-export-no-comments
 DoroKPNC.dart-flutter-export-helper
 DoroKPNC.dart-flutter-exports-local
+DotPrivilegeLabs.prime-agent-RL-vscode
 DotRush.dotrushV2-0
 DoveAz.gitmojisense
 Drake90.library-roblox-api
@@ -414,6 +415,7 @@ MMitsuha.vscode-docker-registry-explorer-rev
 MN34studio.cph-2077
 MS-vsliveshare.vsliveshare
 MachineConfiguration-test.machine-configuration
+MagicTeatime.student-cline
 MahendrakarPrateek.prettyxml-pro
 MaikeyShrimp.vscode-pets-shrimp-bata
 MakinCo.luau-lsp-library
@@ -1115,6 +1117,7 @@ fibanez.sftp-sync-maintained
 fiyqkrc.opencode-vscode-client
 fiyqkrc.vscode-acp-chat
 flarre.flarre
+floatinghotpot.deepseek-harness-web-for-vscode
 floktokbok.autoimport
 flutcode.flutter-extension
 flutxvs.vscode-kuberntes-extension
@@ -1508,6 +1511,7 @@ mswincx.antigravity-cockpit-extension
 mtc2000.vscode-pdf-viewer
 mtglitch.claude-usage-bars
 mtglitch.claude-usage-monitor-mtg
+mttankkeo.vscode-flutter-widget-preview
 mtxr.sqltools
 muhammadirfangorsi.api-stress-tester
 mycline.my-sibo-claude-dev
@@ -2007,6 +2011,7 @@ yonbip.yonbip-development-studio
 yonbip.yonbip-development-studio-fe
 yujiitadori.demon-slayer-infinity-castle
 yujiitadori.the-undertaker-2
+yunhaoli24.leafrelay
 zenplusplus.sonaita
 zero-pzp.turbo-console-log-pzp
 zestones.octoclock

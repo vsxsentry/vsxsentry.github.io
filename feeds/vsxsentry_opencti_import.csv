@@ -891,6 +891,7 @@ indicator,Text,fibanez.sftp-sync-maintained,75,75,Removed from VS Marketplace: I
 indicator,Text,fiyqkrc.opencode-vscode-client,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,fiyqkrc.vscode-acp-chat,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,flarre.flarre,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,floatinghotpot.deepseek-harness-web-for-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,FlowIndex.flowindex-cadence,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,FlyingsMarmot.vscode-clangd-ucpp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,flywine.vscode-clangd,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1171,6 +1172,7 @@ indicator,Text,LWilhelmer.reflow-markdown-plus,75,75,Removed from VS Marketplace
 indicator,Text,lxl66566.vim-lxl66566,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,lyqu.rest-client-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,lyywemhan.code-formatter-and-minifier-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,MagicTeatime.student-cline,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mahdihajian.angular-files-creator,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mahdihajian.vscode-pull-request-azure-devops,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mahdihajian.vscode-shelf,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1216,6 +1218,7 @@ indicator,Text,ms-gmolveau.vscode-hadolint2,75,75,Removed from VS Marketplace: I
 indicator,Text,mtc2000.vscode-pdf-viewer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mtglitch.claude-usage-bars,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mtglitch.claude-usage-monitor-mtg,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,mttankkeo.vscode-flutter-widget-preview,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MultiCortexDevCore202.MultiCortexDevCore202,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Murilo.headwind-haml-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Muzammil.smart-attach,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1597,6 +1600,7 @@ indicator,Text,yonbip.yds-multilang-tools,75,75,Removed from VS Marketplace: Imp
 indicator,Text,yonbip.yds-script-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,yonbip.yonbip-development-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,yonbip.yonbip-development-studio-fe,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yunhaoli24.leafrelay,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,YuTengjing.vscode-colorize-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,YuTengjing.vscode-github-actions-tj,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ZAMBAR.riscv-venus-cs110,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1853,6 +1857,7 @@ indicator,Text,dimitrius-cadimout.confluence-publisher,50,50,Removed from VS Mar
 indicator,Text,dinesh112.hml-code-generator,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,dongtran.cds-debug,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,DorianN612.wordcountertool,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,DotPrivilegeLabs.prime-agent-RL-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Drake90.library-roblox-api,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Dylan-Edwards.CodeTracker-Oracle,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Embedder.embedder-infineon,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
