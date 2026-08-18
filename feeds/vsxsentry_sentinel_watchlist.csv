@@ -51,8 +51,10 @@ AutoMind.automindX,AutoMind,critical,malware,Removed from VS Marketplace: Malwar
 Aveva-Technology.forge-bridge,Aveva-Technology,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 awesome-codebase.codebase-dart-pro,awesome-codebase,critical,malware,compromised - glassworm supply chain attack,static_list
 awesomeco.wonder-for-vscode-icons,awesomeco,critical,malware,compromised - glassworm supply chain attack,static_list
+Azalea.editor-essentials-extensions,Azalea,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 barakolshe.forq,barakolshe,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Barkerbg001.xaml-lineup,Barkerbg001,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+Baue.update-fetcher,Baue,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 beisen.codecake,beisen,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 BenjaminFriedl.lexica-img-fix,BenjaminFriedl,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 better-sollidity.sollidity-plus,better-sollidity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -83,6 +85,7 @@ brixmundo.eca-easy-tool,brixmundo,critical,malware,sleeper extension - glassworm
 brixovik.es7-quick-hub,brixovik,critical,malware,sleeper extension - glassworm supply chain,static_list
 bug-author.shadure,bug-author,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ByteBarn.byte-barn-devkit,ByteBarn,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+Cairo.intelli-code-pair-pilot,Cairo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 carveltstone.chatbuddy-auto-suite,carveltstone,critical,malware,sleeper extension - glassworm supply chain,static_list
 Cencurity.cencurity-connector,Cencurity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ceo.sammarco,ceo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -138,6 +141,7 @@ DaveWeb3.choccie,DaveWeb3,critical,malware,Removed from VS Marketplace: Malware.
 DavidAsh.dcbox-vs,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 DavidAsh.gruvbox-vs,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 DavidAsh.tr-lang-pack,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+Dean.npmpkg,Dean,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 densy-little-studio.wonder-for-vscode-icons,densy-little-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 dep-labs-studio.dep-proffesinal-extension,dep-labs-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 dev-studio-sense.php-comp-tools-vscode,dev-studio-sense,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -229,6 +233,7 @@ GregoryBoy.ropanel,GregoryBoy,critical,malware,Removed from VS Marketplace: Malw
 grisaven.markdown-live-kit,grisaven,critical,malware,sleeper extension - glassworm supply chain,static_list
 gronarin.auto-super-kit,gronarin,critical,malware,sleeper extension - glassworm supply chain,static_list
 grozdarov.jinjahtml-easy-studio,grozdarov,critical,malware,sleeper extension - glassworm supply chain,static_list
+GRSoftworks.Brux-Board,GRSoftworks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 guavadev.omnirouter,guavadev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 guavaduck.omnirouter-ai,guavaduck,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 gvotcha.claude-code-extension,gvotcha,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -254,6 +259,7 @@ ItalangMong.smile-editor,ItalangMong,critical,malware,Removed from VS Marketplac
 itanshield.titanshield-vscode,itanshield,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 JackHerry.dark-ai,JackHerry,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 JacobETH.solidi,JacobETH,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+JessieAAA.jessie-pkg-tool,JessieAAA,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 jianbe-03.pesto-roblox-project-explorer,jianbe-03,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 JohnCrypto.whiteblankspace3,JohnCrypto,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 JohnGaffney.blankebesxstnion,JohnGaffney,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -462,6 +468,12 @@ rubyideext.ruby-ide-extension,rubyideext,critical,malware,compromised - glasswor
 runnerpost.runner-your-code,runnerpost,critical,malware,compromised - glassworm supply chain attack,static_list
 rwbcy.trwbcy-poc,rwbcy,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 rwl.angular-console,rwl,critical,malware,a specific version compromised by teampcp - responsible for github being pwned,static_list
+SadiqShuaibu.minimal-pastel-theme,SadiqShuaibu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+SadiqShuaibu.sadiq-dep-checker,SadiqShuaibu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+SadiqShuaibu.sadiq-dep-helper,SadiqShuaibu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+SadiqShuaibu.sadiq-dep-lens,SadiqShuaibu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+SadiqShuaibu.sadiq-dep-tool,SadiqShuaibu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+SadiqShuaibu.sadiq-npm-updater,SadiqShuaibu,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sahil92552.cbe-456,sahil92552,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sairus.sairustech,sairus,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 saoudrizvsce.claude-devsce,saoudrizvsce,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -591,6 +603,7 @@ weldforick.brightscript-pro-kit,weldforick,critical,malware,sleeper extension - 
 wildlightregain.oxc-lint-format,wildlightregain,critical,malware,sleeper extension - glassworm supply chain,static_list
 winnerdomain17.version-lens-tool,winnerdomain17,critical,malware,confirmed malicious - glassworm supply chain,static_list
 wli273088.vscode-pets-for-courses-demo,wli273088,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+workern.appblink,workern,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 worldline.aicodefix,worldline,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 worldline.wlpfo-toolkit,worldline,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Wumpus.bold-end,Wumpus,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1896,6 +1909,7 @@ MoisessantosHernandez.go-live-pages,MoisessantosHernandez,medium,untrustworthy,R
 muhammadirfangorsi.api-stress-tester,muhammadirfangorsi,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 n3tw4lk3r.tomorrow-night-rusty,n3tw4lk3r,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 neha-arikatla.terminal-fahhh,neha-arikatla,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+nevalang.vscode-nevalang,nevalang,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 NEVSTOP-LAB.vsc-open-in-integrated-browser,NEVSTOP-LAB,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 NexusCode.nexus-code,NexusCode,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Nhatsave.smart-snippets-vue,Nhatsave,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

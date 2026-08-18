@@ -87,6 +87,7 @@ AutomationStudio.automation-studio
 Avan0203.wgsl-literal-enhanced
 Aveva-Technology.forge-bridge
 AviDev.pure-agent-rtl
+Azalea.editor-essentials-extensions
 AzelSync.alk-icons
 Azir-11.azir-vscode-theme
 BFCollective.pulse-board
@@ -95,6 +96,7 @@ BITS2500.bits-codon
 BLSoftworks.FocusDeck
 Barkerbg001.xaml-lineup
 Batch.Docker-Vscode-V2
+Baue.update-fetcher
 Benachile-studio.protobuf-pro
 BenjaminFriedl.lexica-img-fix
 BeyondR34CH.theme-br-monokai
@@ -125,6 +127,7 @@ COMP.sqltools-enhanced
 CPLUSPLUS.cpp-compiler-provider
 CPLUSPLUS.java-compiler-provider
 CSF-RED.CSF-RED
+Cairo.intelli-code-pair-pilot
 CalebBaird.leaderkey-configurable
 CartagoNova.turbo-console-log-forked-by-cartago
 Cencurity.cencurity-connector
@@ -163,6 +166,7 @@ DaveWeb3.choccie
 DavidAsh.dcbox-vs
 DavidAsh.gruvbox-vs
 DavidAsh.tr-lang-pack
+Dean.npmpkg
 DevCatppuccinpro.catppuccin-pro-vsc
 DevCrew.devc-python-toolkit
 DevFlowHub.devflowhub
@@ -247,6 +251,7 @@ GHT.gpp
 GHT.java-compiler
 GMSoftwares.trello-workspace
 GPTOnce.codepilot-vscode
+GRSoftworks.Brux-Board
 GSZN.cangjie-ai-code
 GavinLWood.introai
 GavinLamWood.vs-blanket
@@ -315,6 +320,7 @@ JarodWright.strict-paredit-fennel
 JaviGuarin.prompt-registry-ado-beta
 JavvDev.one-candy-dark-vs
 JehanWeerasuriya.vscode-nestjs-snippets-backend-development
+JessieAAA.jessie-pkg-tool
 JiHoonKim.devtool-plus-kr
 Jial.claude-paper-theme
 Jianzhe.thief-book-plus
@@ -583,6 +589,12 @@ SEAFTeam.SEAF
 SERVER-G.sakura-ai-engine-for-vscode
 SFRA-FAKA.sfra-toolkit
 SVO.continue-svo-test
+SadiqShuaibu.minimal-pastel-theme
+SadiqShuaibu.sadiq-dep-checker
+SadiqShuaibu.sadiq-dep-helper
+SadiqShuaibu.sadiq-dep-lens
+SadiqShuaibu.sadiq-dep-tool
+SadiqShuaibu.sadiq-npm-updater
 SafeBreach.safebreach-visual-attack-studio
 Sajjad19397.baburao-sound-track
 Sajjad19397.brother-ewww-sound
@@ -1507,6 +1519,7 @@ natereprogle.php-namespace-resolver-v2
 naveenkunder.format-html
 nbreier.virtualworkspacesf
 neha-arikatla.terminal-fahhh
+nevalang.vscode-nevalang
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 ng-jk.sftp-ng-jk
 nicobao.localtunnel
@@ -1939,6 +1952,7 @@ windy.windy-minecraft-debugger
 winnerdomain17.version-lens-tool
 wli273088.vscode-pets-for-courses-demo
 wlnxingdev.free-senltig
+workern.appblink
 worldline.aicodefix
 worldline.wlpfo-toolkit
 worma.worma-vscode
