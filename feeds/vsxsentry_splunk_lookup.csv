@@ -320,6 +320,7 @@ levicarlsson.shelly,levicarlsson,critical,malware,Removed from VS Marketplace: M
 LihengLuo.proxy-bridge-extension-pack,LihengLuo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 LineInnovation.LineDeck,LineInnovation,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 littensy-studio.magical-icons,littensy-studio,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
+logicalrblx7.shareboard,logicalrblx7,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 LuaShield.lua-shield,LuaShield,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 luater.luatide,luater,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 lwleen.vs-blue-theme,lwleen,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -512,6 +513,7 @@ sremekov.javascriptsnippets-rich-craft,sremekov,critical,malware,sleeper extensi
 sremovik.dendron-deep-hub,sremovik,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 sremuven.beautify-super-lens,sremuven,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 ssgwysc.volar-vscode,ssgwysc,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
+StackStudios.swimlane,StackStudios,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 stadiumgripier.vscode-onedark-theme,stadiumgripier,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 state-diagram-yass-kpit.state-diagram-editor-yassinebougacha,state-diagram-yass-kpit,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 state-diagram-yass-kpit.state-diagram-editor-yassinebougachaaa,state-diagram-yass-kpit,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -820,6 +822,7 @@ day253.system-information-status-bar,day253,high,impersonation,Removed from VS M
 deadman.old-drkryz-theme,deadman,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 dechuen-lee.tailwindcss-intellisense-auto-space,dechuen-lee,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 deciosfernandes.git-auto-set-config,deciosfernandes,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+deepseek-harness-remote.deepseek-harness-remote-vscode,deepseek-harness-remote,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 dengfy3.dengfy3,dengfy3,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 DevCatppuccinpro.catppuccin-pro-vsc,DevCatppuccinpro,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 devCharles5277.git-commit-plugin-with-gitmoji,devCharles5277,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -883,6 +886,7 @@ EonaCat.AvaloniaFree,EonaCat,high,impersonation,Removed from VS Marketplace: Imp
 Eradani.eradani-assist,Eradani,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 esbenpp.pretier-vscodee,esbenpp,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ethancao.mathpix-markdown-studio,ethancao,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+EvaLiu.vscode-antimony-2,EvaLiu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 EvgeniiShapovalov.sftp-link,EvgeniiShapovalov,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ext-lab.git-history-plus,ext-lab,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 EXyang.cpp-project-config-ch,EXyang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -1760,6 +1764,7 @@ Hidden-Pixel.vscode-chippy,Hidden-Pixel,medium,spam,Removed from VS Marketplace:
 jarekw.Ric,jarekw,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Kiki67.gambling-corner,Kiki67,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 lukasfull.protheus-app-generator,lukasfull,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+NormB.kamailio-lsp,NormB,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 okok909090.academic-paper-preview,okok909090,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 okok909090.fixed-Partial-diff-clipboard,okok909090,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 okok909090.latex-markdown-preview-see-quikly,okok909090,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md

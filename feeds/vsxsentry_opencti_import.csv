@@ -320,6 +320,7 @@ indicator,Text,levicarlsson.shelly,90,90,Removed from VS Marketplace: Malware.,m
 indicator,Text,LihengLuo.proxy-bridge-extension-pack,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LineInnovation.LineDeck,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,littensy-studio.magical-icons,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,logicalrblx7.shareboard,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LuaShield.lua-shield,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,luater.luatide,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,lwleen.vs-blue-theme,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -512,6 +513,7 @@ indicator,Text,sremekov.javascriptsnippets-rich-craft,90,90,sleeper extension - 
 indicator,Text,sremovik.dendron-deep-hub,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,sremuven.beautify-super-lens,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,ssgwysc.volar-vscode,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,StackStudios.swimlane,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,stadiumgripier.vscode-onedark-theme,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,state-diagram-yass-kpit.state-diagram-editor-yassinebougacha,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,state-diagram-yass-kpit.state-diagram-editor-yassinebougachaaa,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -820,6 +822,7 @@ indicator,Text,day253.system-information-status-bar,75,75,Removed from VS Market
 indicator,Text,deadman.old-drkryz-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,dechuen-lee.tailwindcss-intellisense-auto-space,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,deciosfernandes.git-auto-set-config,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,deepseek-harness-remote.deepseek-harness-remote-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,dengfy3.dengfy3,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,DevCatppuccinpro.catppuccin-pro-vsc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,devCharles5277.git-commit-plugin-with-gitmoji,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -883,6 +886,7 @@ indicator,Text,EonaCat.AvaloniaFree,75,75,Removed from VS Marketplace: Impersona
 indicator,Text,Eradani.eradani-assist,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,esbenpp.pretier-vscodee,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ethancao.mathpix-markdown-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,EvaLiu.vscode-antimony-2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,EvgeniiShapovalov.sftp-link,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ext-lab.git-history-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,EXyang.cpp-project-config-ch,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1760,6 +1764,7 @@ indicator,Text,Hidden-Pixel.vscode-chippy,50,50,Removed from VS Marketplace: Spa
 indicator,Text,jarekw.Ric,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,Kiki67.gambling-corner,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,lukasfull.protheus-app-generator,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,NormB.kamailio-lsp,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,okok909090.academic-paper-preview,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,okok909090.fixed-Partial-diff-clipboard,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,okok909090.latex-markdown-preview-see-quikly,50,50,Removed from VS Marketplace: Spam.,spam;medium
