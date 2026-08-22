@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-c3935ac3-82ba-41f2-94a5-87fd990ff084">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-aae6ca79-6349-410b-88cc-bd410e58bd73">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-08-22T14:24:45+00:00</description>
+<description>Generated: 2026-08-22T16:28:05+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4726,6 +4726,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">luo2430.luo2430-npmx</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">luutuankiet.copy-to-llm-rtk</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -4971,6 +4975,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">nanmu.office-viewer-pro</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">naruse-love.google-antigravity-zh-cn</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
