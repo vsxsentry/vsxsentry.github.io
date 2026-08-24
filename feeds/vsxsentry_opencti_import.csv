@@ -653,6 +653,9 @@ indicator,Text,AdamFortune.ezsqlite,75,75,Removed from VS Marketplace: Impersona
 indicator,Text,adi-trev.trev-flashing,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,adr-org.adr-manager-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,agent.devdock,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,agentself.cc-switch-2026,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,agentself.claude-usage-gauge,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,agentself.codex-usage,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,agility6.go-sort-imports,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,agility6.gruvbox-concoctis-agility6,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,agtest.csbz,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -669,6 +672,7 @@ indicator,Text,Alex-130-130.vscode-ant-design-vue-1-helper-prop,75,75,Removed fr
 indicator,Text,Alex-Chen.vscode-m5stack-mpy-uiflow2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,alex-fitzgerald.neuromancer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,alexevanczuk.pks-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,alexhicks.csc201,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,algovscode.algoritmika-python,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,algovscode.algoritmika-python-beta,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,alien-fish-person.htmltoscss,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1370,6 +1374,8 @@ indicator,Text,Rabiloo.ethery,75,75,Removed from VS Marketplace: Impersonation.,
 indicator,Text,RachmatKaligis.robotcode-gherkin-extended,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RahulSinha.bracketeer-personal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,rainbowflesh.moondusttheme-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,RandomityGuy.torquescript-debug,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,RandomityGuy.torquescript-intellisense,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RandomityGuy.torquescript-support,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ravaelles.search-anywhere,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RdbtCVS.chattriggers-latest,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1855,6 +1861,7 @@ indicator,Text,ChristopherDengler.imagecomments,50,50,Removed from VS Marketplac
 indicator,Text,claudecodeassist.claudecodeassist,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,clint.rust-essentials-pack,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ClovisReyes.boardhub,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,code-colab.codecolab,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,codebuddy-znt.codebuddy-znt,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Codivus.codivus-code,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Cognicio.sftp-deployment,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
