@@ -937,6 +937,7 @@ indicator,Text,fsiovn.autocomplete-copilot,75,75,Removed from VS Marketplace: Im
 indicator,Text,fsiovn.chat-provider,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,fsiovn.coper-copilot,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,fsiovn.copilot-provider,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,funcdfs.lesser,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,funkyproject.vscode-phpunit-funky-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,funovus.dcei-trdb,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,funovus.dcei-vscode-teal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1237,6 +1238,7 @@ indicator,Text,mingxi2077.dsh-harness-vscode,75,75,Removed from VS Marketplace: 
 indicator,Text,mishannn.custom-turbo-console-log,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mlhiter.sline,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MMitsuha.vscode-docker-registry-explorer-rev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,mmxmxm.antigravity-cockpit-github-style,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MN34studio.cph-2077,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mnjit.mnjit-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mo-masoud.claude-code-rtl-arabic,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1460,6 +1462,7 @@ indicator,Text,Sewara.copy-fences-lang,75,75,Removed from VS Marketplace: Impers
 indicator,Text,sgds.uss,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shao.deepcode-fx,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shaokun.cangjie-code,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,ShaunsWork.tabletopsimulator-lua-community,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shellingye.jx3-emmylua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shellingye.xsj-emmylua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shenlin.i18n-ally-shenlin,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1475,6 +1478,7 @@ indicator,Text,smartflow.sf-stream,75,75,Removed from VS Marketplace: Impersonat
 indicator,Text,smarty1337.nixware-snippets,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,smhc.agent-plugins-installer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,SmileSB101.better-formate,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,SmileSB101.style-best-formate,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,smnatale.tokyodark,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,smonteros.pixel-agents-opencode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,smooth-cat.bobe-cat,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1617,6 +1621,7 @@ indicator,Text,WuZhiguo.callviz,75,75,Removed from VS Marketplace: Impersonation
 indicator,Text,wym.demo-wym001,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Wynncraft.wynnscript-lang,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xiaolvpuzi.vim-smart-input-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,XiaoShen.sol-intro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xiaym-gh.background-cover-simplified,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xicunyang.ts-space-prompt,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xikey.minimax-vscode-m27,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1893,6 +1898,7 @@ indicator,Text,BlocWeave.blocweave,50,50,Removed from VS Marketplace: Untrustwor
 indicator,Text,BloxTask.bloxtask,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BobCAD-CAM.bobcad-post,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,bortolabs.claude-code-usage-bar,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,BoxZero.puppet-x,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BrennonR.File-Explorer-2026,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BurstCode.burstcode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BurstCode.burstcode-local-alerts,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
