@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20260902",
+  "version": "20260903",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -1951,6 +1951,7 @@
     "DorianN612.wordcountertool",
     "DotPrivilegeLabs.prime-agent-RL-vscode",
     "Drake90.library-roblox-api",
+    "dsanms.dsanms",
     "Dylan-Edwards.CodeTracker-Oracle",
     "Embedder.embedder-infineon",
     "everyapi-ai.everyapi-vscode",
@@ -2002,6 +2003,7 @@
     "mariovalney.wordpress-readme-to-markdown",
     "mastersam.faaaah-on-fail",
     "Men3emkhaled.agent-assistant",
+    "MicroLLC.typewriter-keyin",
     "mirrorflat.mirrorflatlog",
     "MoisessantosHernandez.go-live-pages",
     "muhammadirfangorsi.api-stress-tester",
@@ -2026,6 +2028,7 @@
     "PetrosPanayi.ucy-cs-homework-editor",
     "POCreations.worklane",
     "prnx.synapsez-ext",
+    "Pstudio.search-code-ultra",
     "PTIT.ptit-cpp-timeline",
     "PTIT.ptit-java-timeline",
     "qaqulya2.ai-autocomplete2",
