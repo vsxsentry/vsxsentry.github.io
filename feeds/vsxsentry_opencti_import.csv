@@ -428,6 +428,7 @@ indicator,Text,prismapp.prisma-vs-code-extension,90,90,compromised - glassworm s
 indicator,Text,PriyanshuMallick.clipboard-history-manager,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,probes-team.probes,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,projmanager.your-project-manager-extension,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,PRSoftworks.vlux-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,pubruncode.ccoderunner,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,Puglight.discoverito,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Puglight.elevatio,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -570,6 +571,7 @@ indicator,Text,tucyzirille-studio.angular-pro-tools-extension,90,90,compromised 
 indicator,Text,turbobase.sql-turbo-tool,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,twilkbilk.color-highlight-css,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,txtx20.new-txtx,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,TypinKey.typewritin-keyal,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,u-agentix.data-explorer,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,uladluch.antigravity-mobile-connector,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,uladluch.cursor-mobile-connector,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -653,6 +655,7 @@ indicator,Text,723Studio.fta-ruleset-tools,75,75,Removed from VS Marketplace: Im
 indicator,Text,77qingliu.sas-syntax,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,8bitZeta.Nand2Tetris-8bit,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,abczyx2006.rust-coder,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,abersheeran.greet-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,abstractalgo.package-json-upgrade-abstractalgo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Acronix-dev.Go-work-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,AdamFortune.ezsqlite,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1944,6 +1947,7 @@ indicator,Text,DotPrivilegeLabs.prime-agent-RL-vscode,50,50,Removed from VS Mark
 indicator,Text,Drake90.library-roblox-api,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,dsanms.dsanms,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Dylan-Edwards.CodeTracker-Oracle,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,elodie.go-master,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Embedder.embedder-infineon,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,everyapi-ai.everyapi-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Exile404.faaah-error-sound,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium

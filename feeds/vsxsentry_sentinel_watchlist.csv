@@ -428,6 +428,7 @@ prismapp.prisma-vs-code-extension,prismapp,critical,malware,compromised - glassw
 PriyanshuMallick.clipboard-history-manager,PriyanshuMallick,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 probes-team.probes,probes-team,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 projmanager.your-project-manager-extension,projmanager,critical,malware,compromised - glassworm supply chain attack,static_list
+PRSoftworks.vlux-board,PRSoftworks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 pubruncode.ccoderunner,pubruncode,critical,malware,compromised - glassworm supply chain attack,static_list
 Puglight.discoverito,Puglight,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Puglight.elevatio,Puglight,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -570,6 +571,7 @@ tucyzirille-studio.angular-pro-tools-extension,tucyzirille-studio,critical,malwa
 turbobase.sql-turbo-tool,turbobase,critical,malware,compromised - glassworm supply chain attack,static_list
 twilkbilk.color-highlight-css,twilkbilk,critical,malware,compromised - glassworm supply chain attack,static_list
 txtx20.new-txtx,txtx20,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+TypinKey.typewritin-keyal,TypinKey,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 u-agentix.data-explorer,u-agentix,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 uladluch.antigravity-mobile-connector,uladluch,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 uladluch.cursor-mobile-connector,uladluch,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -653,6 +655,7 @@ Zlmiles.zlmiles-liquid,Zlmiles,critical,malware,Removed from VS Marketplace: Mal
 77qingliu.sas-syntax,77qingliu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 8bitZeta.Nand2Tetris-8bit,8bitZeta,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 abczyx2006.rust-coder,abczyx2006,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+abersheeran.greet-theme,abersheeran,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 abstractalgo.package-json-upgrade-abstractalgo,abstractalgo,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Acronix-dev.Go-work-tools,Acronix-dev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 AdamFortune.ezsqlite,AdamFortune,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1944,6 +1947,7 @@ DotPrivilegeLabs.prime-agent-RL-vscode,DotPrivilegeLabs,medium,untrustworthy,Rem
 Drake90.library-roblox-api,Drake90,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 dsanms.dsanms,dsanms,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Dylan-Edwards.CodeTracker-Oracle,Dylan-Edwards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+elodie.go-master,elodie,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Embedder.embedder-infineon,Embedder,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 everyapi-ai.everyapi-vscode,everyapi-ai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
