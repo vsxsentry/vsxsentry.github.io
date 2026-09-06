@@ -657,6 +657,7 @@ indicator,Text,64kramsystem.vscode-open-in-github-wiki-fixed,75,75,Removed from 
 indicator,Text,723Studio.fta-ruleset-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,77qingliu.sas-syntax,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,8bitZeta.Nand2Tetris-8bit,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,a7bz.svn-a7bz,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,abczyx2006.rust-coder,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,abersheeran.greet-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,abstractalgo.package-json-upgrade-abstractalgo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1149,6 +1150,7 @@ indicator,Text,KuCai.kucai-autojs6-vscode-ext,75,75,Removed from VS Marketplace:
 indicator,Text,kvoon.kvim,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kvoon.publish-test,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kvoon.vscode-vim-config,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Kxnrl.vsc-panorama-ext,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kyledunne.aios-icon-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kzhoa.sftp-x,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,LaineHallot.astrolize-plus-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1399,12 +1401,14 @@ indicator,Text,Rabiloo.ethery,75,75,Removed from VS Marketplace: Impersonation.,
 indicator,Text,RachmatKaligis.robotcode-gherkin-extended,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RahulSinha.bracketeer-personal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,rainbowflesh.moondusttheme-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,RamiAbughazaleh.RamiAbughazalehDiffFinderVS2026,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RandomityGuy.torquescript-debug,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RandomityGuy.torquescript-intellisense,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RandomityGuy.torquescript-support,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RandomityMB.torquescript-debugger,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RandomityMB.torquescript-language-support,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ravaelles.search-anywhere,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,RavidAmar.resources-monitor,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RdbtCVS.chattriggers-latest,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ReadMeAI.readmeai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Realtek.ameba,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1481,6 +1485,7 @@ indicator,Text,Shunqian.prettier-plus,75,75,Removed from VS Marketplace: Imperso
 indicator,Text,Shuzzy.dracula-shuzzyos,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,siehc.vscode-proto3-rebirth,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,siffat-ahmed.ai-autocomplete-siffat-ahmed,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,silvercastledigital.archclive,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,simplerjiang.oai-compatible-copilot-kong,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,smartflow.sf-stream,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,smarty1337.nixware-snippets,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1889,7 +1894,10 @@ indicator,Text,4t-ia.4t-ia,50,50,Removed from VS Marketplace: Untrustworthy.,unt
 indicator,Text,AbhishekChakrabartti.localghostllmclientextension,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,adityasanwal.faa-sound,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Aiiisaka.git-guardian,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,aixueEditor.aixue-mir-editor,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,alessandroraffa.arit-toolkit,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,Alioth.ms-devtools,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,Alioth.vscode-glui-helper,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AmirBenShimol3111824.amir-synapse-nexus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AnilAlapati.pqc-beta,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Ansicht.hyperspekt,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1914,6 +1922,7 @@ indicator,Text,BrennonR.File-Explorer-2026,50,50,Removed from VS Marketplace: Un
 indicator,Text,BurstCode.burstcode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,BurstCode.burstcode-local-alerts,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ByteBarn.bytebarnhello,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,CamelliaTse.pi-chat,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,capplicorn.plaintextplus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,carrycodeai.carrycode-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,charcoal141II.imu-view,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1923,6 +1932,7 @@ indicator,Text,chery-brake-tools.chery-brake-tools,50,50,Removed from VS Marketp
 indicator,Text,ChristopherDengler.imagecomments,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,claudecodeassist.claudecodeassist,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,clint.rust-essentials-pack,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,cloudfluent.terragraph-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ClovisReyes.boardhub,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,code-colab.codecolab,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,codebuddy-znt.codebuddy-znt,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1935,6 +1945,7 @@ indicator,Text,contextflow.contextflow-vscode,50,50,Removed from VS Marketplace:
 indicator,Text,Corvalon.lichen-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,CPLUSPLUS.cpp-compiler-provider,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,CPLUSPLUS.java-compiler-provider,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,cxy.serial-commander,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,d-led.commentray-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,deepsweep-ai.deepsweep,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,deltalenz.deltalenz,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1965,6 +1976,7 @@ indicator,Text,geecode.geecode-python,50,50,Removed from VS Marketplace: Untrust
 indicator,Text,GHT.gpp,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,GHT.java-compiler,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Gopherlume.colorloco,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,grikomsn.opencode-bridge-copilot-chat,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,hajoo.poisoned-extension,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,hakor-plugins.tabletype,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,hakor-plugins.tsmap-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -1999,6 +2011,8 @@ indicator,Text,LeiaBalan.LeiaBalan,50,50,Removed from VS Marketplace: Untrustwor
 indicator,Text,LeiaBalan.luaulink,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,LeiaBalan.roblox-sync,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,LeiaBalan.romanager,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,licc.htmlto-link-md,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,licc.htmlto-link-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,LongNguyen2k.longnguyen-db,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,MachineConfiguration-test.machine-configuration,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,mariovalney.wordpress-readme-to-markdown,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2012,6 +2026,7 @@ indicator,Text,n3tw4lk3r.tomorrow-night-rusty,50,50,Removed from VS Marketplace:
 indicator,Text,neha-arikatla.terminal-fahhh,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,nevalang.vscode-nevalang,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,NEVSTOP-LAB.vsc-open-in-integrated-browser,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,newdlops.git-simple-compare,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,NexusCode.nexus-code,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Nhatsave.smart-snippets-vue,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,nubond.nubond-language-service,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2041,6 +2056,7 @@ indicator,Text,ray2666.antigravity-proxy,50,50,Removed from VS Marketplace: Untr
 indicator,Text,regina-prompt-spittingcode.regina-prompt-spittingcode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,renovate12.renovate,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,rishiishah.csegraph-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,rladnwls122.blindspot,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,roboard.roboard,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,romanage.romanage,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,romanager.ro-manager,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2093,10 +2109,13 @@ indicator,Text,UlfBissbort.zef,50,50,Removed from VS Marketplace: Untrustworthy.
 indicator,Text,utkarsh-payal.dev-connect,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,vextlabs.theron-vext,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,VibeRaven.viberaven-station,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,VideCode.vide-code,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,VinvAI.VinvAI,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,voanhnd.copilot-credit-counter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,VSCodeIndustries.azure-devops-sync-helper-presso,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,wenox.wenox,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,WhenSunset.chatgpt-china,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,xavier-arosemena.roo-plus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,xdearboy.xdearboy-pack-s,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,xhastudio.SynthetixMyanmar,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,xiaoqixilihulu.lingxi-coder,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
