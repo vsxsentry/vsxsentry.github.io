@@ -497,6 +497,7 @@ Sayantan710.ollot,Sayantan710,critical,malware,Removed from VS Marketplace: Malw
 seHunt-20241016.seHunt-20241016,seHunt-20241016,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 seldovik.cmake-smart-pilot,seldovik,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 seolmuah.jupyter-live-share,seolmuah,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+serviceme.serviceme-devtools,serviceme,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 SFRA-FAKA.sfra-toolkit,SFRA-FAKA,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 shinypy.pycode-formatter,shinypy,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
 shinypy.shiny-extension-for-vscode,shinypy,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
@@ -553,6 +554,7 @@ Taskify.taskify,Taskify,critical,malware,Removed from VS Marketplace: Malware.,m
 TaskRblx.taskrblx,TaskRblx,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 TechSolutionsPro.bitcoin-cake-theme,TechSolutionsPro,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 testrl777.Solidity-Ethereum,testrl777,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+TestZeron-CySec.TestZeron-CySec,TestZeron-CySec,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 theme-cyberpunk.theme-neon-cyberpunk,theme-cyberpunk,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 thesashkin.krnl-execute-thesashkin,thesashkin,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 thing-mn.your-flow-extension-for-icons,thing-mn,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
@@ -2047,6 +2049,7 @@ openbase.openbase-vscode,openbase,medium,untrustworthy,Removed from VS Marketpla
 OxCamlEnhanced.oxcaml-enhanced,OxCamlEnhanced,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 pemhkakbh.theme-helper-utils,pemhkakbh,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 PetrosPanayi.ucy-cs-homework-editor,PetrosPanayi,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+PetrosPanayi.ucy-cs-lab-homework-editor,PetrosPanayi,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 POCreations.worklane,POCreations,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 prnx.synapsez-ext,prnx,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Pstudio.search-code-ultra,Pstudio,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md

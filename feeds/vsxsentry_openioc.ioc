@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-3d41208f-2ff9-4160-8795-a8f43c9b5d7c">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-c80a711d-8d32-4b76-a045-7f63be95f2aa">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-09-07T15:36:50+00:00</description>
+<description>Generated: 2026-09-07T19:41:59+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -1998,6 +1998,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">serviceme.serviceme-devtools</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">SFRA-FAKA.sfra-toolkit</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -2219,6 +2223,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">testrl777.Solidity-Ethereum</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">TestZeron-CySec.TestZeron-CySec</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -8195,6 +8203,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">PetrosPanayi.ucy-cs-homework-editor</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">PetrosPanayi.ucy-cs-lab-homework-editor</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>

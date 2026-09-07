@@ -497,6 +497,7 @@ Sayantan710.ollot,Sayantan710,critical,malware,Removed from VS Marketplace: Malw
 seHunt-20241016.seHunt-20241016,seHunt-20241016,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 seldovik.cmake-smart-pilot,seldovik,critical,malware,sleeper extension - glassworm supply chain,static_list
 seolmuah.jupyter-live-share,seolmuah,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+serviceme.serviceme-devtools,serviceme,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 SFRA-FAKA.sfra-toolkit,SFRA-FAKA,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 shinypy.pycode-formatter,shinypy,critical,malware,sleeper extension - glassworm supply chain,static_list
 shinypy.shiny-extension-for-vscode,shinypy,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -553,6 +554,7 @@ Taskify.taskify,Taskify,critical,malware,Removed from VS Marketplace: Malware.,m
 TaskRblx.taskrblx,TaskRblx,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 TechSolutionsPro.bitcoin-cake-theme,TechSolutionsPro,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 testrl777.Solidity-Ethereum,testrl777,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+TestZeron-CySec.TestZeron-CySec,TestZeron-CySec,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 theme-cyberpunk.theme-neon-cyberpunk,theme-cyberpunk,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 thesashkin.krnl-execute-thesashkin,thesashkin,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 thing-mn.your-flow-extension-for-icons,thing-mn,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -2047,6 +2049,7 @@ openbase.openbase-vscode,openbase,medium,untrustworthy,Removed from VS Marketpla
 OxCamlEnhanced.oxcaml-enhanced,OxCamlEnhanced,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 pemhkakbh.theme-helper-utils,pemhkakbh,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 PetrosPanayi.ucy-cs-homework-editor,PetrosPanayi,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+PetrosPanayi.ucy-cs-lab-homework-editor,PetrosPanayi,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 POCreations.worklane,POCreations,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 prnx.synapsez-ext,prnx,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Pstudio.search-code-ultra,Pstudio,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
