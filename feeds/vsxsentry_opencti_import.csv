@@ -14,6 +14,7 @@ indicator,Text,ab-498.pythonformat,90,90,Removed from VS Marketplace: Malware.,m
 indicator,Text,Abhilash001.t-ex,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,adwaitkeshari.lull,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Aelionyxe.cobnox-language-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,AgendaLLC.zlux-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AgendaStudios.frux-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ahban.cychelloworld,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ahban.shiba,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -289,6 +290,7 @@ indicator,Text,JuanCrypto.juancrypto,90,90,Removed from VS Marketplace: Malware.
 indicator,Text,juancryptoblanco.ether-solidt,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JuanFBlanco.awswhh,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JuanFlanco.Soquidity,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,JuanFra.sol-prac,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JuanFranBlanco.solidit-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JuanFranBlancoExtensions.AmitAssaraf,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JuanFrBlanco.outtro,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -380,6 +382,7 @@ indicator,Text,NEVSTOP-LAB.csm-vsc-support,90,90,Removed from VS Marketplace: Ma
 indicator,Text,newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NFoundation.terraform-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NordicMidnight.codesilence,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,NotePadExtra.notepadextraplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NotToTest.NotToTest,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,OfekBickel.wpp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,oigotm.my-command-palette-extension,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -407,6 +410,7 @@ indicator,Text,pandaexpress.Theme-Array-plugin,90,90,Removed from VS Marketplace
 indicator,Text,pandaexpress.Theme-arstotzka-plugin,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,pascal-lab.vide-ide,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,PatchLabs.boardtrack,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,pathvela.pathvela,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,peanutsplash.mcdev-tools-plus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,peldravix.rpgiv2free-live-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,pessa07tm.my-js-ts-auto-commands,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -1140,6 +1144,7 @@ indicator,Text,KomaKamaki.vscode-api-client-lite,75,75,Removed from VS Marketpla
 indicator,Text,kongdetuo.AxamlCraft,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,konyshevav.dbml-schema-visualizer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,KooCode.KooCode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,kototok903.vscode-harbor-bronze,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kova-lang.kova-material-iconse,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,krabt.krabt-extension-pack,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,krabt.krabt-proto,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high

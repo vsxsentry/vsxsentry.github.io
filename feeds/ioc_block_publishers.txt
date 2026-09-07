@@ -23,6 +23,7 @@ Abhilash001
 Acronix-dev
 AdamFortune
 Aelionyxe
+AgendaLLC
 AgendaStudios
 AgentChatBus
 AhmedCrypto
@@ -234,6 +235,7 @@ JuanCrypto
 JuanFBlanco
 JuanFlanco
 JuanFrBlanco
+JuanFra
 JuanFranBlanco
 JuanFranBlancoExtensions
 JuanRiseETH
@@ -317,6 +319,7 @@ Noe
 NolanWang
 NordicMidnight
 NotToTest
+NotePadExtra
 OIOXO
 OPENEDAI
 OfekBickel
@@ -886,6 +889,7 @@ kokoma
 kolling88
 kongdetuo
 konyshevav
+kototok903
 kova-lang
 krabt
 krosarin
@@ -1035,6 +1039,7 @@ pandaexpress
 parmentelat
 pascal-lab
 pascalabcnet
+pathvela
 paul0dev
 peanutsplash
 pedrocmota

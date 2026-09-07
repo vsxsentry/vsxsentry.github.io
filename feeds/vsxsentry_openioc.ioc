@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-dbb15a85-1cb4-4fb6-b998-26661978ea04">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-8c75efba-56cb-4876-9fcf-7ac879b4fcb3">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-09-06T23:36:40+00:00</description>
+<description>Generated: 2026-09-07T03:43:24+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -63,6 +63,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Aelionyxe.cobnox-language-support</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">AgendaLLC.zlux-board</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -1166,6 +1170,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">JuanFra.sol-prac</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">JuanFranBlanco.solidit-vscode</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -1530,6 +1538,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">NotePadExtra.notepadextraplus</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">NotToTest.NotToTest</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -1635,6 +1647,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">PatchLabs.boardtrack</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">pathvela.pathvela</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
@@ -4567,6 +4583,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">KooCode.KooCode</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">kototok903.vscode-harbor-bronze</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
