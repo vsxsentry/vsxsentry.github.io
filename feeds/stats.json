@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-09-08T03:48:13+00:00",
-  "total_records": 2175,
-  "total_malicious": 2103,
+  "generated_utc": "2026-09-08T08:43:51+00:00",
+  "total_records": 2177,
+  "total_malicious": 2105,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 650,
+    "critical": 652,
     "high": 1066,
     "low": 22,
     "medium": 437
@@ -15,7 +15,7 @@
     "expired-domain": 1,
     "impersonation": 1047,
     "impersonation-malware": 5,
-    "malware": 650,
+    "malware": 652,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -36,7 +36,7 @@
     "typo-squatting": 1,
     "untrustworthy": 257
   },
-  "total_publishers": 1659,
+  "total_publishers": 1661,
   "top_publishers": [
     [
       "pit00",

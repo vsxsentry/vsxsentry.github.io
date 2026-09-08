@@ -56,6 +56,7 @@ indicator,Text,Aveva-Technology.forge-bridge,90,90,Removed from VS Marketplace: 
 indicator,Text,awesome-codebase.codebase-dart-pro,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,awesomeco.wonder-for-vscode-icons,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,Azalea.editor-essentials-extensions,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,BadginLNN.badgerposts,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,barakolshe.forq,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Barkerbg001.xaml-lineup,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,baseballyama.rsvelte-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -571,6 +572,7 @@ indicator,Text,tralarin.firefox-rich-lens,90,90,sleeper extension - glassworm su
 indicator,Text,tralaven.c-easy-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,transitrix.transitrix-studio,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,treedotree.tree-do-todoextension,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,TrellKhan.devora,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,TrelloSoftWorks.trello-deck,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,TrelloWorks.trello-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,trenarin.autodocstring-auto-studio,90,90,sleeper extension - glassworm supply chain,malware;critical

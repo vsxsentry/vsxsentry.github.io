@@ -56,6 +56,7 @@ Aveva-Technology.forge-bridge,Aveva-Technology,critical,malware,Removed from VS 
 awesome-codebase.codebase-dart-pro,awesome-codebase,critical,malware,compromised - glassworm supply chain attack,static_list
 awesomeco.wonder-for-vscode-icons,awesomeco,critical,malware,compromised - glassworm supply chain attack,static_list
 Azalea.editor-essentials-extensions,Azalea,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+BadginLNN.badgerposts,BadginLNN,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 barakolshe.forq,barakolshe,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Barkerbg001.xaml-lineup,Barkerbg001,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 baseballyama.rsvelte-vscode,baseballyama,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -571,6 +572,7 @@ tralarin.firefox-rich-lens,tralarin,critical,malware,sleeper extension - glasswo
 tralaven.c-easy-tool,tralaven,critical,malware,sleeper extension - glassworm supply chain,static_list
 transitrix.transitrix-studio,transitrix,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 treedotree.tree-do-todoextension,treedotree,critical,malware,compromised - glassworm supply chain attack,static_list
+TrellKhan.devora,TrellKhan,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 TrelloSoftWorks.trello-deck,TrelloSoftWorks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 TrelloWorks.trello-board,TrelloWorks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 trenarin.autodocstring-auto-studio,trenarin,critical,malware,sleeper extension - glassworm supply chain,static_list
