@@ -113,6 +113,7 @@ CursorFree
 CyrusRune
 DATEx2
 DRAWNCODES
+DaChengZhou
 DaMaoCloud
 Damilola
 DanielBlockchain
@@ -590,6 +591,7 @@ camork
 cancline
 carveltstone
 cassandragargoyle
+ccimage
 ceo
 cfeltz
 checkmarx
@@ -729,6 +731,7 @@ fadizant
 faldenko
 famibee2
 fanrj
+faxes
 fecet
 federicanc
 felcadev
@@ -947,6 +950,7 @@ lyu-wen-studio-web-han
 lyywemhan
 madmansidea
 mahdihajian
+maizhuoying
 manageblox
 mangaba-ai
 mantasmikaI
@@ -1203,6 +1207,7 @@ sxatvo
 syndakove
 t1mt
 tabnine-dev
+tae-h-yang
 tagovich
 taillaaa
 tamokill12
