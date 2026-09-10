@@ -169,6 +169,7 @@ FengXCs
 Floriani
 FlowIndex
 FlyingsMarmot
+FontingFonts
 Forms
 FrancescoOrtu
 FrancoisLe
@@ -550,6 +551,7 @@ ashutosh-sanodia
 atharkes
 atman-dev
 atom8n
+augura-team
 auguwu
 aurogon-as
 aurora-them-creator

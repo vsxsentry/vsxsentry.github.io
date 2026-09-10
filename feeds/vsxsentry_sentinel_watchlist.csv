@@ -53,6 +53,7 @@ ascii-fetcher.ascii-fetcher,ascii-fetcher,critical,malware,Removed from VS Marke
 AshleyHornja.prettierformattingplus,AshleyHornja,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ashutosh-sanodia.riai-marketplace-mcp,ashutosh-sanodia,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ashutosh-sanodia.translator-plugin,ashutosh-sanodia,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+augura-team.augura-dev,augura-team,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 automated1ogic.automated1ogic,automated1ogic,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 automatedlogic.automatedlogic,automatedlogic,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 AutomationStudio.automation-studio,AutomationStudio,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -222,6 +223,7 @@ Floriani.mcp-hub,Floriani,critical,malware,Removed from VS Marketplace: Malware.
 flutcode.flutter-extension,flutcode,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 flutxvs.vscode-kuberntes-extension,flutxvs,critical,malware,compromised - glassworm supply chain attack,static_list
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai,fnweoifweiofewofwoeifjwefvsjceqk,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+FontingFonts.monkeyfont,FontingFonts,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 forkelbat.supersigil-rich-hub,forkelbat,critical,malware,sleeper extension - glassworm supply chain,static_list
 frelovin.gitpod-deep-helper,frelovin,critical,malware,sleeper extension - glassworm supply chain,static_list
 fyltroven.gitchat-fast-tool,fyltroven,critical,malware,sleeper extension - glassworm supply chain,static_list
@@ -2027,6 +2029,7 @@ jsonbourne.jsonbourne,jsonbourne,medium,untrustworthy,Removed from VS Marketplac
 Jumbo.JumboKey,Jumbo,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 JumboCore.Jumbos,JumboCore,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 jzeeed.jzeeed,jzeeed,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+kairo.kairo-designer,kairo,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 KeeleyLednergznl.ri7,KeeleyLednergznl,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 keeptrack.keeptrack-notes-manager,keeptrack,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Kickbacksai.kickbacks-ai,Kickbacksai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -2129,6 +2132,7 @@ ToanNguyen.claude-remote,ToanNguyen,medium,untrustworthy,Removed from VS Marketp
 TONCoreLabs.func-syntax-tool,TONCoreLabs,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 tuanpham.tunas-graphql-explorer-pro,tuanpham,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 tuanpham.tunas-ruby-call-flow,tuanpham,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+txefficiency.lct-code-review,txefficiency,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 txtx20.sunrise-greeter-demo,txtx20,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 u-agentix.agent-builder,u-agentix,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 u-agentix.community-hub,u-agentix,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

@@ -53,6 +53,7 @@ indicator,Text,ascii-fetcher.ascii-fetcher,90,90,Removed from VS Marketplace: Ma
 indicator,Text,AshleyHornja.prettierformattingplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ashutosh-sanodia.riai-marketplace-mcp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ashutosh-sanodia.translator-plugin,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,augura-team.augura-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,automated1ogic.automated1ogic,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,automatedlogic.automatedlogic,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AutomationStudio.automation-studio,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -222,6 +223,7 @@ indicator,Text,Floriani.mcp-hub,90,90,Removed from VS Marketplace: Malware.,malw
 indicator,Text,flutcode.flutter-extension,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,flutxvs.vscode-kuberntes-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,FontingFonts.monkeyfont,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,forkelbat.supersigil-rich-hub,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,frelovin.gitpod-deep-helper,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,fyltroven.gitchat-fast-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
@@ -2027,6 +2029,7 @@ indicator,Text,jsonbourne.jsonbourne,50,50,Removed from VS Marketplace: Untrustw
 indicator,Text,Jumbo.JumboKey,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,JumboCore.Jumbos,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,jzeeed.jzeeed,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,kairo.kairo-designer,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,KeeleyLednergznl.ri7,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,keeptrack.keeptrack-notes-manager,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Kickbacksai.kickbacks-ai,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2129,6 +2132,7 @@ indicator,Text,ToanNguyen.claude-remote,50,50,Removed from VS Marketplace: Untru
 indicator,Text,TONCoreLabs.func-syntax-tool,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,tuanpham.tunas-graphql-explorer-pro,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,tuanpham.tunas-ruby-call-flow,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,txefficiency.lct-code-review,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,txtx20.sunrise-greeter-demo,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,u-agentix.agent-builder,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,u-agentix.community-hub,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
