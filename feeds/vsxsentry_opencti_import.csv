@@ -4,6 +4,7 @@ indicator,Text,498-00.cppformat,90,90,Removed from VS Marketplace: Malware.,malw
 indicator,Text,498-00.cppplayground,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,498-00.pythonformat,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,7finney.ethcode,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,a1phaZ.mr-creator,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,aadarkcode.one-dark-material,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,AARCarti.darkai-ai-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AARCarti.fortex-ai-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -278,6 +279,7 @@ indicator,Text,ItalangMong.smile-editor,90,90,Removed from VS Marketplace: Malwa
 indicator,Text,itanshield.titanshield-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JackHerry.dark-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JacobETH.solidi,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,jasonbg-koi.koi-markt-bug1,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JessieAAA.jessie-pkg-tool,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,jianbe-03.pesto-roblox-project-explorer,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JohnCrypto.whiteblankspace3,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -341,6 +343,7 @@ indicator,Text,lavender-studio.theme-lavender-dreams,90,90,compromised - glasswo
 indicator,Text,leonardomth.claudio-code,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,levicarlsson.shelly,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LihengLuo.proxy-bridge-extension-pack,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,Lily-Pathvela.lily-pathvela,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LineInnovation.LineDeck,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,littensy-studio.magical-icons,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,logicalrblx7.shareboard,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -402,6 +405,7 @@ indicator,Text,NFoundation.terraform-ai,90,90,Removed from VS Marketplace: Malwa
 indicator,Text,NordicMidnight.codesilence,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NotePadExtra.notepadextraplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NotToTest.NotToTest,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,Nyisulya.bongocode-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,OfekBickel.wpp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,oigotm.my-command-palette-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,OIOXO.oioxo-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -649,6 +653,7 @@ indicator,Text,wildlightregain.oxc-lint-format,90,90,sleeper extension - glasswo
 indicator,Text,winnerdomain17.version-lens-tool,90,90,confirmed malicious - glassworm supply chain,malware;critical
 indicator,Text,wli273088.vscode-pets-for-courses-demo,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,workern.appblink,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,WorkoraNet.workora,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,worldline.aicodefix,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,worldline.wlpfo-toolkit,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Wumpus.bold-end,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -834,6 +839,7 @@ indicator,Text,cot-eis-team.cot-eis-team-bytestream-route-designer,75,75,Removed
 indicator,Text,cot-eis-team.cot-eis-team-extension-pack,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cot-eis-team.cot-eis-team-solution-development-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,crazypanda.git-commit-plugin-custom,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,creeperw.polyllm,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cryptninjaswap.cryptoninja-auto-accept,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cryptninjaswap.cryptoninja-code-review,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cryptninjaswap.cryptoninja-color-picker,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -904,6 +910,7 @@ indicator,Text,dorry.smart-json,75,75,Removed from VS Marketplace: Impersonation
 indicator,Text,dotatong.wt-prettier-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,DoveAz.gitmojisense,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,DRAWNCODES.sftp-sync-drawncodes,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,drmrStudio.opencode-scribe,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,drzorm.vscode-fast-folder-structure-custom,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,dsh-vscode-plugin.dsh-vscode-plugin,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,duailibe.miniprettier,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1268,6 +1275,7 @@ indicator,Text,MatthewEvans.click-board,75,75,Removed from VS Marketplace: Imper
 indicator,Text,MaximeKjaer.scala,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Med-H.git-graph-revamped,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,meetrice.mysql-blade,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,meijiahao.video-preview-fast,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,meow-d.markless-meowd,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,mervick.deepseek-peak-hours,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,metagogo.metagogo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1479,6 +1487,7 @@ indicator,Text,S4mu31.drawfolderstructure-s4mu31,75,75,Removed from VS Marketpla
 indicator,Text,S4mu31.s4mu31-tema-color,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,sachinsmc.turbo-rust-println,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,sadan.insight-doc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,SalHax.keil-helper-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,saltand.completions-tester,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,saltand.fork-forked,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,sameerrahman.cursor-theme-for-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1516,6 +1525,7 @@ indicator,Text,Shunqian.prettier-plus,75,75,Removed from VS Marketplace: Imperso
 indicator,Text,Shuzzy.dracula-shuzzyos,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,siehc.vscode-proto3-rebirth,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,siffat-ahmed.ai-autocomplete-siffat-ahmed,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,sighted2.sighted2-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,silvercastledigital.archclive,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,simplerjiang.oai-compatible-copilot-kong,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,smartflow.sf-stream,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -2117,6 +2127,7 @@ indicator,Text,sla-guardian.static-sla-guardian,50,50,Removed from VS Marketplac
 indicator,Text,solidhelium.codeforces-submitter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,solvex-solutions.epm-lsp-server,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,souhailaserbout.codelight,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,SuyuDiao.bios-build-assistant,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Synthetixfordebug.synthetix-debugger,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,tak-vibecoding.tak,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,takuanporipori.pixelpress,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium

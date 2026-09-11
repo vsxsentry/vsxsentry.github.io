@@ -275,6 +275,7 @@ LesMiserablesMod
 LiamDrew
 LiamWang
 LihengLuo
+Lily-Pathvela
 LinJun
 LineInnovation
 LinkingMountains
@@ -329,6 +330,7 @@ NolanWang
 NordicMidnight
 NotToTest
 NotePadExtra
+Nyisulya
 OIOXO
 OPENEDAI
 OfekBickel
@@ -400,6 +402,7 @@ SEAFTeam
 SFRA-FAKA
 SVO
 SadiqShuaibu
+SalHax
 Sammy
 SamuelPinto
 Sayantan710
@@ -484,6 +487,7 @@ WavesMan
 WellinWorks
 WillZhang
 Worklink-Copilot
+WorkoraNet
 WuZhiguo
 Wumpus
 Wundero
@@ -504,6 +508,7 @@ Zeron1337
 ZhangQuan
 Zlmiles
 Zoosewu
+a1phaZ
 a7bz
 aadarkcode
 ab-498
@@ -641,6 +646,7 @@ cot-eis-team
 countrepresent49
 craz2team
 crazypanda
+creeperw
 crotoapp
 cryptninjaswap
 csvmech
@@ -702,6 +708,7 @@ dorry
 dotatong
 draconzal
 dranaven
+drmrStudio
 drovenko
 drzorm
 dsh-vscode-plugin
@@ -846,6 +853,7 @@ jaeck-zj
 jamesoncrate
 jameszhanga
 jangxyz
+jasonbg-koi
 jaw3l
 jaywoo0830a
 jeronimodevex
@@ -977,6 +985,7 @@ mathieu42
 me80758262
 mecreation-studio
 meetrice
+meijiahao
 meldarin
 meltovik
 meltuven
@@ -1159,6 +1168,7 @@ shinypy
 shiverov
 siehc
 siffat-ahmed
+sighted2
 silvercastledigital
 simplerjiang
 smartflow

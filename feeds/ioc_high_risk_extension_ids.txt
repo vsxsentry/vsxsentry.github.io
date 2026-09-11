@@ -326,6 +326,7 @@ LesMiserablesMod.hoi4modutilities-maintained
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
 LihengLuo.proxy-bridge-extension-pack
+Lily-Pathvela.lily-pathvela
 LinJun.aws-s3-support
 LinJun.bigquery-support
 LinJun.cassandra-support
@@ -408,6 +409,7 @@ NolanWang.omnimedia-player
 NordicMidnight.codesilence
 NotToTest.NotToTest
 NotePadExtra.notepadextraplus
+Nyisulya.bongocode-ai
 OIOXO.oioxo-vscode
 OPENEDAI.OPENEDAI
 OfekBickel.wpp
@@ -521,6 +523,7 @@ SadiqShuaibu.sadiq-dep-helper
 SadiqShuaibu.sadiq-dep-lens
 SadiqShuaibu.sadiq-dep-tool
 SadiqShuaibu.sadiq-npm-updater
+SalHax.keil-helper-plus
 Sammy.clipboard-manager-with-cycling
 SamuelPinto.better-vscode-html-css
 SamuelPinto.better-vscode-html-css-support
@@ -627,6 +630,7 @@ WavesMan.tree-generator-defined
 WellinWorks.arux-board
 WillZhang.dracula-variants
 Worklink-Copilot.worklinkcopilot
+WorkoraNet.workora
 WuZhiguo.callgraph-viz
 WuZhiguo.callviz
 Wumpus.bold-end
@@ -650,6 +654,7 @@ Zeron1337.Zeron-CySec
 ZhangQuan.code-translate-enhanced
 Zlmiles.zlmiles-liquid
 Zoosewu.project-manager-zoo
+a1phaZ.mr-creator
 a7bz.svn-a7bz
 aadarkcode.one-dark-material
 ab-498.cppformat
@@ -824,6 +829,7 @@ cot-eis-team.cot-eis-team-solution-development-studio
 countrepresent49.code-image-preview
 craz2team.vscode-todo-extension
 crazypanda.git-commit-plugin-custom
+creeperw.polyllm
 crotoapp.vscode-xml-extension
 cryptninjaswap.cryptoninja-auto-accept
 cryptninjaswap.cryptoninja-code-review
@@ -902,6 +908,7 @@ dorry.smart-json
 dotatong.wt-prettier-vscode
 draconzal.phpstan-easy-hub
 dranaven.flask-live-craft
+drmrStudio.opencode-scribe
 drovenko.data-live-suite
 drzorm.vscode-fast-folder-structure-custom
 dsh-vscode-plugin.dsh-vscode-plugin
@@ -1093,6 +1100,7 @@ jaeck-zj.highlight-words-by-jack
 jamesoncrate.universal-3d-preview
 jameszhanga.even-prettier
 jangxyz.svelte-infile-component-vscode
+jasonbg-koi.koi-markt-bug1
 jaw3l.cisco-ng
 jaywoo0830a.modern-php-8-snippets
 jeronimodevex.color-picker-pro
@@ -1248,6 +1256,7 @@ mathieu42.monokai-dark-by-mathieu42
 me80758262.piiithon-linter
 mecreation-studio.pyrefly-pro-extension
 meetrice.mysql-blade
+meijiahao.video-preview-fast
 meldarin.biome-live-tool
 meltovik.bookmark-rich-tool
 meltuven.graphql-pro-tool
@@ -1486,6 +1495,7 @@ shinypy.shiny-extension-for-vscode
 shiverov.open-smart-suite
 siehc.vscode-proto3-rebirth
 siffat-ahmed.ai-autocomplete-siffat-ahmed
+sighted2.sighted2-vscode
 silvercastledigital.archclive
 simplerjiang.oai-compatible-copilot-kong
 smartflow.sf-stream
