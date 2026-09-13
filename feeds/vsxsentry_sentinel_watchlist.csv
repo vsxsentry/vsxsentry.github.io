@@ -399,6 +399,7 @@ mswincx.antigravity-cockpit,mswincx,critical,malware,compromised - glassworm sup
 mswincx.antigravity-cockpit-extension,mswincx,critical,malware,compromised - glassworm supply chain attack,static_list
 MusicCreates.musicicgen,MusicCreates,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 namopins.prettier-pro-vscode-extension,namopins,critical,malware,compromised - glassworm supply chain attack,static_list
+nerfine-dev.projectly-app,nerfine-dev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NEVSTOP-LAB.csm-vsc-support,NEVSTOP-LAB,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe,newsporcolec,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NFoundation.terraform-ai,NFoundation,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1353,6 +1354,7 @@ OrqentAi.orqentai-code,OrqentAi,high,impersonation,Removed from VS Marketplace: 
 oub.lucide-product-icon-theme-fork,oub,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 oub.theme-bluloco-light-oub-rmx,oub,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 outstand.outstand-elixir-ls,outstand,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+ovcharik.vscode-gitlab-codeowners,ovcharik,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ovolab-veritas.codesnap-lite,ovolab-veritas,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ovolab-veritas.codesnap-neo,ovolab-veritas,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 owenrossikeen.script-buttons-extended,owenrossikeen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages

@@ -399,6 +399,7 @@ indicator,Text,mswincx.antigravity-cockpit,90,90,compromised - glassworm supply 
 indicator,Text,mswincx.antigravity-cockpit-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,MusicCreates.musicicgen,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,namopins.prettier-pro-vscode-extension,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,nerfine-dev.projectly-app,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NEVSTOP-LAB.csm-vsc-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NFoundation.terraform-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1353,6 +1354,7 @@ indicator,Text,OrqentAi.orqentai-code,75,75,Removed from VS Marketplace: Imperso
 indicator,Text,oub.lucide-product-icon-theme-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,oub.theme-bluloco-light-oub-rmx,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,outstand.outstand-elixir-ls,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,ovcharik.vscode-gitlab-codeowners,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ovolab-veritas.codesnap-lite,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ovolab-veritas.codesnap-neo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,owenrossikeen.script-buttons-extended,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
