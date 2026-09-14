@@ -33,6 +33,7 @@ indicator,Text,angular-studio.ng-angular-extension,90,90,compromised - glassworm
 indicator,Text,AnilAlapati.leancontext,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,annacode.pt-lab-simproc,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ANZ-BANK.vscode-sysl,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,ApeFonting.apefonts,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AppCreatePLC.boardtrackapps,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AppCreationLLP.boardwalkapp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AppCreationLTD.dockyardapp,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -403,6 +404,9 @@ indicator,Text,nerfine-dev.projectly-app,90,90,Removed from VS Marketplace: Malw
 indicator,Text,NEVSTOP-LAB.csm-vsc-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NFoundation.terraform-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,nightgauge.nightgauge-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,NodePack.live-test-candidate,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,NodePack.live-test-hr,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NordicMidnight.codesilence,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NotePadExtra.notepadextraplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NotToTest.NotToTest,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -2060,6 +2064,7 @@ indicator,Text,LeiaBalan.roblox-sync,50,50,Removed from VS Marketplace: Untrustw
 indicator,Text,LeiaBalan.romanager,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,licc.htmlto-link-md,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,licc.htmlto-link-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,LingyuSoftware.open-canvas,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,LongNguyen2k.longnguyen-db,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,MachineConfiguration-test.machine-configuration,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,mariovalney.wordpress-readme-to-markdown,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
