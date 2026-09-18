@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-9397d99f-d3d3-4d70-a7cb-89e4a3cdca8a">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-ff97a767-4f11-44a7-9af8-00eee5b7c1d2">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-09-18T04:31:38+00:00</description>
+<description>Generated: 2026-09-18T10:50:30+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -8027,6 +8027,14 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">claudecodeassist.claudecodeassist</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">ClearFrame.canvaspro-app</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">ClearFrame.code-timemachine</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
