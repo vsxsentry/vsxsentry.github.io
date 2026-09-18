@@ -630,6 +630,8 @@ RealismHub.trello-management
 Realtek.ameba
 Realtek.realtek-ameba
 RecoLive.lldb-dap-android
+RenatoOliveira599.howsurluck
+RenatoOliveira599.howsurluck-hardcore
 RevoData.vscode-for-just
 RiderTran.nextg-code-review
 RileyMoore.stdrlabs-ext
@@ -833,6 +835,7 @@ VivekChoudhury.google-gui-support
 WEB3Foundation.cxzczxcxz
 WavesMan.tree-generator-defined
 WellinWorks.arux-board
+Whelmns.Brux-Boards
 WhenSunset.chatgpt-china
 WillZhang.dracula-variants
 Worklink-Copilot.worklinkcopilot
@@ -841,7 +844,6 @@ WuZhiguo.callgraph-viz
 WuZhiguo.callviz
 Wumpus.bold-end
 Wundero.wundero-package-json-upgrade
-Wynncraft.wynnscript-lang
 XLRIT.vscode-gears-by-xlrit
 XYIAN.dark-synth-theme-xys
 XiaoShen.sol-intro
@@ -926,6 +928,7 @@ angular-studio.ng-angular-extension
 annacode.pt-lab-simproc
 anovagroups.sas-data-explorer
 ant5888.opencode-vscode-cn
+antonm030481.svn-scm-modern
 anwar.papyrus-pdf
 appcreationsplc.boardwalkdev
 apzcode.apzcode-ai
@@ -1384,6 +1387,7 @@ hashicorp.vault
 hatsunemikulover.gutils
 havedifficultyinfindingnames.debug-leetcode-refined
 hazi.hazi-theme
+hbtghost.material-theme
 heartacker.git-graph-ai
 heminei.pro-deployer
 hetu.HetuGit
@@ -1689,6 +1693,7 @@ namhhitvn.gitlens-support-symbolic-link
 namopins.prettier-pro-vscode-extension
 nanmu.office-viewer-pro
 naruse-love.google-antigravity-zh-cn
+narutozxp.teroshdl-narutozxp
 natereprogle.php-namespace-resolver-v2
 naveenkunder.format-html
 nbreier.virtualworkspacesf
@@ -2079,6 +2084,7 @@ tuanpham.tunas-ruby-call-flow
 tucyzirille-studio.angular-pro-tools-extension
 turbobase.sql-turbo-tool
 tuur29.turbo-console-log
+tuvokyang.dline
 twilkbilk.color-highlight-css
 txefficiency.lct-code-review
 txtx20.new-txtx
