@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20260918",
+  "version": "20260919",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -587,6 +587,7 @@
     "sun-shine-studio.shiny-extension-for-vscode",
     "sun-xm.quick-action",
     "sunsetHightlight.sunset-highlight",
+    "SuperBoards.fluxboard",
     "superneentrance.peacock-colors",
     "suspublisher18.susvsex",
     "swarmiq-os.swarmiq-connect",
@@ -1705,6 +1706,7 @@
     "Worklink-Copilot.worklinkcopilot",
     "worma.worma-vscode",
     "wtklbm.code-debuger-fork",
+    "WuJunFeng.copilot-usage-dashboard-zh",
     "wumo1016.i18n-pro",
     "wumo1016.vue-legacy-extension",
     "wumo1016.vue-legacy-extension-1",

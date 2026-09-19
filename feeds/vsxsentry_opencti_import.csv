@@ -578,6 +578,7 @@ indicator,Text,Studiooo.trelloboard,90,90,Removed from VS Marketplace: Malware.,
 indicator,Text,sun-shine-studio.shiny-extension-for-vscode,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,sun-xm.quick-action,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,sunsetHightlight.sunset-highlight,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,SuperBoards.fluxboard,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,superneentrance.peacock-colors,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,suspublisher18.susvsex,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,swarmiq-os.swarmiq-connect,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1696,6 +1697,7 @@ indicator,Text,wlnxingdev.free-senltig,75,75,Removed from VS Marketplace: Impers
 indicator,Text,Worklink-Copilot.worklinkcopilot,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,worma.worma-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,wtklbm.code-debuger-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,WuJunFeng.copilot-usage-dashboard-zh,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,wumo1016.i18n-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,wumo1016.vue-legacy-extension,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,wumo1016.vue-legacy-extension-1,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
