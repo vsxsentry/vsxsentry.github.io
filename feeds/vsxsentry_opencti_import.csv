@@ -55,6 +55,8 @@ indicator,Text,ascii-fetcher.ascii-fetcher,90,90,Removed from VS Marketplace: Ma
 indicator,Text,AshleyHornja.prettierformattingplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ashutosh-sanodia.riai-marketplace-mcp,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ashutosh-sanodia.translator-plugin,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,AtIassianlm.Trello-Boarding,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,atIassiansum.Trello-Boards,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,augura-team.augura-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,automated1ogic.automated1ogic,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,automatedlogic.automatedlogic,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -386,6 +388,7 @@ indicator,Text,MarkH.rust-compiler-vs,90,90,Removed from VS Marketplace: Malware
 indicator,Text,MarkHutchins.markdown-preview-vs,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,markvalid.vscode-mdvalidator-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,MarkWood.nonmalicious2,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,masota.swahilipro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,MasterByte.masterb-argo-kubernetes-utils,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,me80758262.piiithon-linter,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,mecreation-studio.pyrefly-pro-extension,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -409,6 +412,7 @@ indicator,Text,mswincx.antigravity-cockpit-extension,90,90,compromised - glasswo
 indicator,Text,MusicCreates.musicicgen,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,namopins.prettier-pro-vscode-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,nerfine-dev.projectly-app,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,neural-llm.power-claude,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NEVSTOP-LAB.csm-vsc-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NFoundation.terraform-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1585,6 +1589,7 @@ indicator,Text,ss13.auto-comment-blocks-dm,75,75,Removed from VS Marketplace: Im
 indicator,Text,sseveur.vscode-bigquery-v2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,StackspotPlatform.StackSpot,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,stan-stani.autolaunch-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,starfall-contributor.remote-extended,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,stark.bgide,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,sthudy.keil-assistant-Linux,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,stratomercata.strato-mercata,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1860,6 +1865,7 @@ indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledi
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,AllHelperByDi.AllHelperByDi,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,atomgit.atomcode-vscode,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,buildwithlayer.plaid-integration-expert-CDnxo,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,camsAI.camsAI,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,chat-gimay-agent.chat-gimay-agent,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,DoPracticalAI.practical-ai-orchestrator-jarvis,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -2120,6 +2126,7 @@ indicator,Text,openbase.openbase-icons,50,50,Removed from VS Marketplace: Untrus
 indicator,Text,openbase.openbase-theme,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,openbase.openbase-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,OxCamlEnhanced.oxcaml-enhanced,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,P40-traveler.asoul-helper,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,pemhkakbh.theme-helper-utils,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,PetrosPanayi.ucy-cs-homework-editor,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,PetrosPanayi.ucy-cs-lab-homework-editor,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
