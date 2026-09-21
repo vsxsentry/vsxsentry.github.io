@@ -8,6 +8,7 @@ indicator,Text,a1phaZ.mr-creator,90,90,Removed from VS Marketplace: Malware.,mal
 indicator,Text,aadarkcode.one-dark-material,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,AARCarti.darkai-ai-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AARCarti.fortex-ai-pro,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,AaynaPatel.opencode-deepseek,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ab-498.cppformat,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ab-498.cppplayground,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ab-498.httpformat,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -853,6 +854,7 @@ indicator,Text,cognivision.cogni-dev,75,75,Removed from VS Marketplace: Imperson
 indicator,Text,COMP.sqltools-driver-postgres,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,COMP.sqltools-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,CompassLLMCode.autosail,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,compcon.comp-con-content-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,complete.prettier-vscode-community,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,congyang.atom-one-dark-theme-intellij-idea,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,consistem-sistemas.consistem-language-server,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1081,6 +1083,7 @@ indicator,Text,havedifficultyinfindingnames.debug-leetcode-refined,75,75,Removed
 indicator,Text,hazi.hazi-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hbtghost.material-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,heartacker.git-graph-ai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Heisenberg.rainbow-spaces,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,HernandoR.duck-viewer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hetu.HetuGit,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hikaoxx-tech.dsh-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
