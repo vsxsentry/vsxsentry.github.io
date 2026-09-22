@@ -461,6 +461,8 @@ indicator,Text,peanutsplash.mcdev-tools-plus,90,90,Removed from VS Marketplace: 
 indicator,Text,peldravix.rpgiv2free-live-tool,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,pessa07tm.my-js-ts-auto-commands,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,PetrosPanayiOutlook.ucy-cs-lab-and-homework-editor,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,PhanBanLLC.BoardlyUp,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,PhanBanLLC.Cannvanis,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,piithon.piiithon-linter,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,PixelLabs.boardflow,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,platformio-dev.platform-io,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -955,6 +957,7 @@ indicator,Text,duanyll.image-gallery,75,75,Removed from VS Marketplace: Imperson
 indicator,Text,dutu-mike.vim-cheatsheet-cn,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,DylanRampage.prettier-optimized,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,dywsy21.latex-previewer-minor-fixes,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,e1roy.favorites-f,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ebdonato.donato-ariake-dark,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ebdonato.donato-one-dark,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ebextensions.active-clang-format,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1118,6 +1121,7 @@ indicator,Text,ifplusor.semantic-lunaria,75,75,Removed from VS Marketplace: Impe
 indicator,Text,ihyajb.cfxlua-intellisense,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Ilham-ahmedow.sftp20,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,illusions-x.yeleee-faaaah,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,ImAlien.super-stock2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,inaiv.inaiv,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Infineon-technologies-ag.modus-toolbox-for-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,infinics.infinics-ai-assistant,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1378,6 +1382,7 @@ indicator,Text,nourgaser.google-tasks-json-fork,75,75,Removed from VS Marketplac
 indicator,Text,NPC1.unify-chat-provider-ui,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,numa-forge.sftp-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,numso.vscode-tailwindcss-with-hex-colors,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,nurav.ncodes,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,octohash.powermode-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okg21.bigquery-explorer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okok909090.csv-grid-editor-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1519,6 +1524,7 @@ indicator,Text,Rojo.rojo-roblox-vscode,75,75,Removed from VS Marketplace: Impers
 indicator,Text,ronakmaheshwari.purrfect-code,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ronakmaheshwari077.Cat-Code,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RooIncVeterinaryDev.roo-cline-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,roronoa-test-job.roronoa-test-job,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,RPinkau.al-object-id-samurai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,rubiin.nestjs-snippets-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Ruoqi.cf-cph,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1560,6 +1566,7 @@ indicator,Text,sgds.uss,75,75,Removed from VS Marketplace: Impersonation.,impers
 indicator,Text,shao.deepcode-fx,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shaokun.cangjie-code,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ShaunsWork.tabletopsimulator-lua-community,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,sheeptao.pixi-python,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shellingye.jx3-emmylua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shellingye.xsj-emmylua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shenlin.i18n-ally-shenlin,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
