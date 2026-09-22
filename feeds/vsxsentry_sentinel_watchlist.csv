@@ -132,6 +132,7 @@ CodeSecureDev.dependency-scan,CodeSecureDev,critical,malware,Removed from VS Mar
 codevunmis.csv-sql-tsv-rainbow,codevunmis,critical,malware,compromised - glassworm supply chain attack,static_list
 codivus.codivus,codivus,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 codwayexten.code-way-extension,codwayexten,critical,malware,compromised - glassworm supply chain attack,static_list
+Corebyte.canvasstudiodev,Corebyte,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 cosmic-themes.sql-formatter,cosmic-themes,critical,malware,compromised - glassworm supply chain attack,static_list
 cosmic-themes.theme-cosmic-nebula,cosmic-themes,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 countrepresent49.code-image-preview,countrepresent49,critical,malware,sleeper extension - glassworm supply chain,static_list
@@ -227,6 +228,8 @@ federicanc.dotenv-syntax-highlighting,federicanc,critical,malware,compromised - 
 FEYeh.ssc-ibs,FEYeh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 floktokbok.autoimport,floktokbok,critical,malware,compromised - New Zig dropper infects every IDE on your machine,static_list
 Floriani.mcp-hub,Floriani,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+flownalks.Flowridens,flownalks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+flownalks.NexoraBoard,flownalks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 flutcode.flutter-extension,flutcode,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 flutxvs.vscode-kuberntes-extension,flutxvs,critical,malware,compromised - glassworm supply chain attack,static_list
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai,fnweoifweiofewofwoeifjwefvsjceqk,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -360,6 +363,7 @@ LuaShield.lua-shield,LuaShield,critical,malware,Removed from VS Marketplace: Mal
 LuaStyle.kit-toolbox,LuaStyle,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 LuaStyle.luastyle,LuaStyle,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 luater.luatide,luater,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+LuminaryDevs.flow-gridprod,LuminaryDevs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Lunascape.lunascape-doc,Lunascape,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 lwleen.vs-blue-theme,lwleen,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 lyu-wen-studio-web-han.better-formatter-vscode,lyu-wen-studio-web-han,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -564,6 +568,7 @@ spacesalamanderhook.italian-language-pack,spacesalamanderhook,critical,malware,s
 sparrowcodes.sparrowcodes,sparrowcodes,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 spikearshock.csv-rainbow,spikearshock,critical,malware,sleeper extension - glassworm supply chain,static_list
 spinback.spinback,spinback,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+SprintlyLLC.Sprintly,SprintlyLLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sremekov.javascriptsnippets-rich-craft,sremekov,critical,malware,sleeper extension - glassworm supply chain,static_list
 sremovik.dendron-deep-hub,sremovik,critical,malware,sleeper extension - glassworm supply chain,static_list
 sremuven.beautify-super-lens,sremuven,critical,malware,sleeper extension - glassworm supply chain,static_list
@@ -1381,6 +1386,8 @@ okok909090.fast-open-csv-viewer-pro,okok909090,high,impersonation,Removed from V
 OktayAydoan.smarty-formatter,OktayAydoan,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 OldStarchy.petty-formatter,OldStarchy,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 oleg-the-developer.sftp-sync-fork,oleg-the-developer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+oluwasege.NightOwl,oluwasege,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+oluwasege.nightowl2026-reloaded,oluwasege,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 OmGawande.sonata,OmGawande,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 onreal-Elysia886.elysia-todo-tree,onreal-Elysia886,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 OPENEDAI.OPENEDAI,OPENEDAI,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages

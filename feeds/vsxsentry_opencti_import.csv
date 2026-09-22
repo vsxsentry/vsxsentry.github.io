@@ -132,6 +132,7 @@ indicator,Text,CodeSecureDev.dependency-scan,90,90,Removed from VS Marketplace: 
 indicator,Text,codevunmis.csv-sql-tsv-rainbow,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,codivus.codivus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,codwayexten.code-way-extension,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,Corebyte.canvasstudiodev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,cosmic-themes.sql-formatter,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,cosmic-themes.theme-cosmic-nebula,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,countrepresent49.code-image-preview,90,90,sleeper extension - glassworm supply chain,malware;critical
@@ -227,6 +228,8 @@ indicator,Text,federicanc.dotenv-syntax-highlighting,90,90,compromised - glasswo
 indicator,Text,FEYeh.ssc-ibs,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,floktokbok.autoimport,90,90,compromised - New Zig dropper infects every IDE on your machine,malware;critical
 indicator,Text,Floriani.mcp-hub,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,flownalks.Flowridens,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,flownalks.NexoraBoard,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,flutcode.flutter-extension,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,flutxvs.vscode-kuberntes-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -360,6 +363,7 @@ indicator,Text,LuaShield.lua-shield,90,90,Removed from VS Marketplace: Malware.,
 indicator,Text,LuaStyle.kit-toolbox,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LuaStyle.luastyle,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,luater.luatide,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,LuminaryDevs.flow-gridprod,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Lunascape.lunascape-doc,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,lwleen.vs-blue-theme,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,lyu-wen-studio-web-han.better-formatter-vscode,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -564,6 +568,7 @@ indicator,Text,spacesalamanderhook.italian-language-pack,90,90,sleeper extension
 indicator,Text,sparrowcodes.sparrowcodes,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,spikearshock.csv-rainbow,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,spinback.spinback,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,SprintlyLLC.Sprintly,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,sremekov.javascriptsnippets-rich-craft,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,sremovik.dendron-deep-hub,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,sremuven.beautify-super-lens,90,90,sleeper extension - glassworm supply chain,malware;critical
@@ -1381,6 +1386,8 @@ indicator,Text,okok909090.fast-open-csv-viewer-pro,75,75,Removed from VS Marketp
 indicator,Text,OktayAydoan.smarty-formatter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,OldStarchy.petty-formatter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,oleg-the-developer.sftp-sync-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,oluwasege.NightOwl,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,oluwasege.nightowl2026-reloaded,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,OmGawande.sonata,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,onreal-Elysia886.elysia-todo-tree,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,OPENEDAI.OPENEDAI,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
