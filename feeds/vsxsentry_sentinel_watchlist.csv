@@ -104,6 +104,7 @@ bug-author.shadure,bug-author,critical,malware,Removed from VS Marketplace: Malw
 ByteBarn.byte-barn-devkit,ByteBarn,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Cairo.intelli-code-pair-pilot,Cairo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 CanvasLLC.Canvas-Boards,CanvasLLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+CanvasSoftworks.Canvas-Board,CanvasSoftworks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 carveltstone.chatbuddy-auto-suite,carveltstone,critical,malware,sleeper extension - glassworm supply chain,static_list
 Cencurity.cencurity-connector,Cencurity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ceo.sammarco,ceo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -459,6 +460,7 @@ pascal-lab.vide-ide,pascal-lab,critical,malware,Removed from VS Marketplace: Mal
 PatchLabs.boardtrack,PatchLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 pathvela.pathvela,pathvela,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 peanutsplash.mcdev-tools-plus,peanutsplash,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+pedro-time-tracker-spike.time-tracker-naa-obo-spike,pedro-time-tracker-spike,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 peldravix.rpgiv2free-live-tool,peldravix,critical,malware,sleeper extension - glassworm supply chain,static_list
 pessa07tm.my-js-ts-auto-commands,pessa07tm,critical,malware,compromised - glassworm supply chain attack,static_list
 PetrosPanayiOutlook.ucy-cs-lab-and-homework-editor,PetrosPanayiOutlook,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -828,6 +830,15 @@ Brett-Wilson.markdown-shortcuts-chinese,Brett-Wilson,high,impersonation,Removed 
 bryanlo22.vscode-rufo-fix,bryanlo22,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 btwiuse.flexport,btwiuse,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 btwiuse.gopilot-chat,btwiuse,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.bento-integration-expert-DJi3L,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.django-integration-expert-Gus30,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.fastapi-integration-expert-rItxt,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.gavyn-test-mui,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.gluestack-ui-integration-expert-6aTmf,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.hasura-integration-expert-2CHkV,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.twilio-integration-expert-jBWVB,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.vite-integration-expert-p8NvA,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+buildwithlayer.vs-code-integration-expert-fP5Ll,buildwithlayer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 bysabi.prettier-vscode-semistandard,bysabi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 bysabi.prettier-vscode-standard,bysabi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 CalebBaird.leaderkey-configurable,CalebBaird,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1554,6 +1565,8 @@ sci-inc-publisher.sci-inc,sci-inc-publisher,high,impersonation,Removed from VS M
 SEAFTeam.SEAF,SEAFTeam,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 secunit.caddyfile-syntax,secunit,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 seeker.super-change-case-fork,seeker,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+SeeonesStudio.roo-code-2,SeeonesStudio,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+SeeonesStudio.roo-code-continue-nightly,SeeonesStudio,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Senforsce.tndr,Senforsce,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Senforsce.vscode-tndr,Senforsce,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 SenkoTheKitsune.nomo-dark-extended,SenkoTheKitsune,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
