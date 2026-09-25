@@ -414,6 +414,7 @@ mrcrispy.cpln,mrcrispy,critical,malware,Removed from VS Marketplace: Malware.,mi
 mrekelid.manpages-fast-kit,mrekelid,critical,malware,sleeper extension - glassworm supply chain,static_list
 MrMainframe.pitel-library,MrMainframe,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 msjsdreact.react-native-vsce,msjsdreact,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+msobb-research-aisha.msobb-xdm-poc-b7f3,msobb-research-aisha,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 mswincx.antigravity-cockpit,mswincx,critical,malware,compromised - glassworm supply chain attack,static_list
 mswincx.antigravity-cockpit-extension,mswincx,critical,malware,compromised - glassworm supply chain attack,static_list
 MusicCreates.musicicgen,MusicCreates,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -813,6 +814,7 @@ bbznop.open-in-external-app-pro,bbznop,high,impersonation,Removed from VS Market
 ben14.ayu-warm,ben14,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ben14.tailwind-fold-opinionated,ben14,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Benachile-studio.protobuf-pro,Benachile-studio,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+bendyaming.open-in-editor-vscode-atopos,bendyaming,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 benkeen.pnpm-catalog-lens-rush-fork,benkeen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 bennett.lcfc-project-manager,bennett,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 benpzhao.emmylua-aoe,benpzhao,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1370,6 +1372,7 @@ nanmu.office-viewer-pro,nanmu,high,impersonation,Removed from VS Marketplace: Im
 naruse-love.google-antigravity-zh-cn,naruse-love,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 narutozxp.teroshdl-narutozxp,narutozxp,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 natereprogle.php-namespace-resolver-v2,natereprogle,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+nathan-0910.ftl-dev,nathan-0910,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 NavAI-B.svn-scm-modified,NavAI-B,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 naveenkunder.format-html,naveenkunder,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 nbreier.virtualworkspacesf,nbreier,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1668,6 +1671,7 @@ Tone.wolfram-prettier-vscode,Tone,high,impersonation,Removed from VS Marketplace
 TONFoundation.func-language,TONFoundation,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 TONFoundation.ton-vscode,TONFoundation,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 toommyliu.cursor-dark-no-italicse,toommyliu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+Topsy2003Turvey.vscode-language-pack-af,Topsy2003Turvey,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tosslib-ai-tool.tosslib-ai-tool,tosslib-ai-tool,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tosslib-ai.tosslib-ai,tosslib-ai,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tosslib-tool.tosslibai,tosslib-tool,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1753,6 +1757,7 @@ xinzhuang.sftp-fork,xinzhuang,high,impersonation,Removed from VS Marketplace: Im
 xiupos.excalidraw-vscode-latex,xiupos,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 XLRIT.vscode-gears-by-xlrit,XLRIT,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 xsf0105.open-in-github-pr,xsf0105,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+xuezchuang.VSAI,xuezchuang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 xuhuanzy.emmylua-luals,xuhuanzy,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 xuli.qt-for-python,xuli,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 xvaldetaro.ai-prompt-compiler,xvaldetaro,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1896,6 +1901,7 @@ kanin-020.vscode-proxy-manager,kanin-020,medium,risky-tunnel,VSCode Proxy Manage
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 AllHelperByDi.AllHelperByDi,AllHelperByDi,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 atomgit.atomcode-vscode,atomgit,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+auton-changeguard.auton-changeguard,auton-changeguard,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 buildwithlayer.plaid-integration-expert-CDnxo,buildwithlayer,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 camsAI.camsAI,camsAI,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 chat-gimay-agent.chat-gimay-agent,chat-gimay-agent,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
@@ -2012,6 +2018,7 @@ alessandroraffa.arit-toolkit,alessandroraffa,medium,untrustworthy,Removed from V
 Alioth.ms-devtools,Alioth,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Alioth.vscode-glui-helper,Alioth,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 AmirBenShimol3111824.amir-synapse-nexus,AmirBenShimol3111824,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+AndrewAltair.claude-quota,AndrewAltair,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 AnilAlapati.pqc-beta,AnilAlapati,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Ansicht.hyperspekt,Ansicht,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 AnujLabs.sound-on-error,AnujLabs,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

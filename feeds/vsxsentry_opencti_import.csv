@@ -414,6 +414,7 @@ indicator,Text,mrcrispy.cpln,90,90,Removed from VS Marketplace: Malware.,malware
 indicator,Text,mrekelid.manpages-fast-kit,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,MrMainframe.pitel-library,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,msjsdreact.react-native-vsce,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,msobb-research-aisha.msobb-xdm-poc-b7f3,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,mswincx.antigravity-cockpit,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,mswincx.antigravity-cockpit-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,MusicCreates.musicicgen,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -813,6 +814,7 @@ indicator,Text,bbznop.open-in-external-app-pro,75,75,Removed from VS Marketplace
 indicator,Text,ben14.ayu-warm,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ben14.tailwind-fold-opinionated,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Benachile-studio.protobuf-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,bendyaming.open-in-editor-vscode-atopos,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,benkeen.pnpm-catalog-lens-rush-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,bennett.lcfc-project-manager,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,benpzhao.emmylua-aoe,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1370,6 +1372,7 @@ indicator,Text,nanmu.office-viewer-pro,75,75,Removed from VS Marketplace: Impers
 indicator,Text,naruse-love.google-antigravity-zh-cn,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,narutozxp.teroshdl-narutozxp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,natereprogle.php-namespace-resolver-v2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,nathan-0910.ftl-dev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,NavAI-B.svn-scm-modified,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,naveenkunder.format-html,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,nbreier.virtualworkspacesf,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1668,6 +1671,7 @@ indicator,Text,Tone.wolfram-prettier-vscode,75,75,Removed from VS Marketplace: I
 indicator,Text,TONFoundation.func-language,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,TONFoundation.ton-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,toommyliu.cursor-dark-no-italicse,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,Topsy2003Turvey.vscode-language-pack-af,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,tosslib-ai-tool.tosslib-ai-tool,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,tosslib-ai.tosslib-ai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,tosslib-tool.tosslibai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1753,6 +1757,7 @@ indicator,Text,xinzhuang.sftp-fork,75,75,Removed from VS Marketplace: Impersonat
 indicator,Text,xiupos.excalidraw-vscode-latex,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,XLRIT.vscode-gears-by-xlrit,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xsf0105.open-in-github-pr,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,xuezchuang.VSAI,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xuhuanzy.emmylua-luals,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xuli.qt-for-python,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xvaldetaro.ai-prompt-compiler,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1896,6 +1901,7 @@ indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledi
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,AllHelperByDi.AllHelperByDi,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,atomgit.atomcode-vscode,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,auton-changeguard.auton-changeguard,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,buildwithlayer.plaid-integration-expert-CDnxo,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,camsAI.camsAI,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,chat-gimay-agent.chat-gimay-agent,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -2012,6 +2018,7 @@ indicator,Text,alessandroraffa.arit-toolkit,50,50,Removed from VS Marketplace: U
 indicator,Text,Alioth.ms-devtools,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Alioth.vscode-glui-helper,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AmirBenShimol3111824.amir-synapse-nexus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,AndrewAltair.claude-quota,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AnilAlapati.pqc-beta,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Ansicht.hyperspekt,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AnujLabs.sound-on-error,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
