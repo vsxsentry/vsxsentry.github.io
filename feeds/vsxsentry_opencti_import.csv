@@ -14,6 +14,7 @@ indicator,Text,ab-498.cppplayground,90,90,Removed from VS Marketplace: Malware.,
 indicator,Text,ab-498.httpformat,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ab-498.pythonformat,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Abhilash001.t-ex,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,Adaex.vscode-agents-explorer,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,adwaitkeshari.lull,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Aelionyxe.cobnox-language-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AgendaLLC.zlux-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -271,6 +272,7 @@ indicator,Text,gvotcha.claude-code-extension,90,90,compromised - glassworm suppl
 indicator,Text,gvotcha.claude-code-extensions,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,haelthorn.fractal-fast-studio,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,hakor-plugins.modux-tooling,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,HaMa.zoniva-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,HawnyJawny.LuauConnect,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,helixinc.harborhub-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,hexlabs.boardtrackappe,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -662,6 +664,19 @@ indicator,Text,verified.pypi-deepseek,90,90,Removed from VS Marketplace: Malware
 indicator,Text,verified.pypi-keyBank,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,vialenliyu.Functionsandapplications11mcgrawhillryersonpdf13-sallole,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,vims-vsce.vscode-vim,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.code-screenshot-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.env-manager-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.excel-csv-editor-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.git-graph-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.html-preview-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.jira-worklog-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.kubernetes-dashboard-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.plantuml-preview-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.rest-client-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.sftp-sync-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.sqlite-viewer-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.time-tracker-viralin,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,viralinclive.todo-tree-viralinc,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,VisualStudioCodeStaffTeam.mannequin2,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,vitalik-Buterin.soli-extensio,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,VitalikB.solidit-lang,90,90,Removed from VS Marketplace: Malware.,malware;critical

@@ -22,6 +22,7 @@ ASUS-AICS
 AaynaPatel
 Abhilash001
 Acronix-dev
+Adaex
 AdamFortune
 Aelionyxe
 AgendaLLC
@@ -203,6 +204,7 @@ GumAAA
 GustavoMaia
 Guyutongxue
 HTMLLanguage
+HaMa
 Hakai
 HanazakiShiki
 HarshAgarwal1012
@@ -1363,6 +1365,7 @@ verreauxblack
 vialenliyu
 vibe-xyz
 vims-vsce
+viralinclive
 visomaGmbH
 vitalik-Buterin
 vix
