@@ -24,6 +24,7 @@ Abhilash001
 Acronix-dev
 Adaex
 AdamFortune
+AdityaNishad
 Aelionyxe
 AgendaLLC
 AgendaStudios
@@ -149,6 +150,7 @@ Doro2
 DoroKPNC
 DotRush
 DoveAz
+DriftHubs
 DylanRampage
 EHooley
 ETHFoundry
@@ -244,6 +246,7 @@ Jial
 Jianzhe
 Jinyuan
 JohnCrypto
+JohnFMerondic
 JohnGaffney
 JohnMcafee
 JosephDembele95
@@ -562,6 +565,7 @@ agility6
 agtest
 ahban
 ahbanC
+aitranslate
 aiwormcn
 akirakudo911
 alanas-is-testing

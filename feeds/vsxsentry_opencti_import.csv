@@ -15,6 +15,7 @@ indicator,Text,ab-498.httpformat,90,90,Removed from VS Marketplace: Malware.,mal
 indicator,Text,ab-498.pythonformat,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Abhilash001.t-ex,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Adaex.vscode-agents-explorer,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,AdityaNishad.compro,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,adwaitkeshari.lull,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Aelionyxe.cobnox-language-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AgendaLLC.zlux-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -189,6 +190,7 @@ indicator,Text,DorianN612.remote-text-fetcher,90,90,Removed from VS Marketplace:
 indicator,Text,DotRush.dotrushV2-0,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,draconzal.phpstan-easy-hub,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,dranaven.flask-live-craft,90,90,sleeper extension - glassworm supply chain,malware;critical
+indicator,Text,DriftHubs.drift-hubs,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,drovenko.data-live-suite,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,eamodas.shiny-vscode,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,easymath.easymath,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -300,6 +302,7 @@ indicator,Text,jasonbg-koi.koi-markt-bug1,90,90,Removed from VS Marketplace: Mal
 indicator,Text,JessieAAA.jessie-pkg-tool,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,jianbe-03.pesto-roblox-project-explorer,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JohnCrypto.whiteblankspace3,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,JohnFMerondic.drift-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JohnGaffney.blankebesxstnion,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,johnh.solibit22-lang,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,johnhtml.dasfasdsadasdf,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -767,6 +770,7 @@ indicator,Text,AiagentPro.pydebugpro,75,75,Removed from VS Marketplace: Imperson
 indicator,Text,AIClaude.claude-code-master,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,AIClub.aadb2c-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,AirCactus500.animal-crossing-file-icon-theme-with-flutter-support,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,aitranslate.ai-hover-translate,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,aiwormcn.everything-copilot-chat,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,AkhilTeotia.prettier-vscode-cfml,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,akirakudo911.kudosflow2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
