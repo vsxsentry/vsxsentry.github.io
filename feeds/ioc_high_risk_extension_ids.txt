@@ -811,6 +811,7 @@ brenaven.cursor-rich-helper
 brett-pappas.claude-in-editor
 brixmundo.eca-easy-tool
 brixovik.es7-quick-hub
+brunomueller.pixel-agents-cloud
 bryanlo22.vscode-rufo-fix
 btwiuse.flexport
 btwiuse.gopilot-chat
@@ -831,6 +832,7 @@ cancline.cancline-dev
 carveltstone.chatbuddy-auto-suite
 cassandragargoyle.portunix-pdf-viewer
 ccimage.ccimage-emoji-log
+cdaringe.vscode-jest-runner-dummy
 ceo.sammarco
 cfeltz.taskpanel
 checkmarx.ast-results
@@ -1179,6 +1181,7 @@ jinyang.copilot-mcp-zh-cn
 jishutuan.prettier-vscode
 jiyuzh.clang-format-renew
 jjackson.bazel-syntax
+jjackson08.bazel-syntax-highlighting
 joaosam.symbols-freedom
 joezhoujinjing.vscode-tmux-worktree-agent
 johanlaneau.bcompare-vscode-remote
@@ -1214,6 +1217,7 @@ kangaechu.open-in-github-kangaechu
 karlosasortico.Theme-Abyss-remastered
 karnenko.cursorless-pro-pilot
 karnikov.better-rich-studio
+katrine-jensen-next.vscode-language-pack-da-next
 katrine-jensen.vscode-language-pack-da
 kauricre.vscode-styled-components-modern
 kazan.myworldline
@@ -1289,6 +1293,7 @@ longguanghui.baiteda-vscode-i18n
 lsq-xgydxdx.git-graph-tool-chinese
 lualang.lualang
 luater.luatide
+lucapersichini.MultiMerge
 lucasheartcliff.dark-coder-dracula-theme
 lujstn.synthwave-fluoromachine-cursor
 luka223.OneDarkProDarker2026
@@ -1546,6 +1551,8 @@ rwbcy.trwbcy-poc
 rwl.angular-console
 ryanolsonx.poimandres-contrast
 rzkyagngngr.kylo
+s-h-a-d-o-w.devcontainer-open-containing-folder
+s-h-a-d-o-w.pnpm-catalog-lens-plus
 sachinsmc.turbo-rust-println
 sadan.insight-doc
 sahil92552.cbe-456
@@ -1571,7 +1578,6 @@ serviceme.serviceme-devtools
 sgds.uss
 shao.deepcode-fx
 shaokun.cangjie-code
-sheeptao.pixi-python
 shellingye.jx3-emmylua
 shellingye.xsj-emmylua
 shenlin.i18n-ally-shenlin
