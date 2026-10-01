@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20260930",
+  "version": "20261001",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -1181,6 +1181,7 @@
     "Itchino.robloxlsp-for-exploit",
     "itv3.kilo-code-plus",
     "ivanstepanovftwgaynottaken.camelhumps",
+    "j62268781-alt.pi-code-chat",
     "JackHerry.copilotx-ai-assistant",
     "JackHerry.gitlens-turbocharged",
     "JackHerry.neon-night-theme-ai",
@@ -1406,6 +1407,7 @@
     "MultiCortexDevCore202.MultiCortexDevCore202",
     "Murilo.headwind-haml-fork",
     "Muzammil.smart-attach",
+    "Muzyu.deepseek-usage-monitor",
     "mycline.my-sibo-claude-dev",
     "Naki.ariake2022",
     "namhhitvn.gitlens-support-symbolic-link",

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-2fce7705-aa31-45ca-85fe-6ffde3f9ff0c">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-ba047545-3ced-426b-8c20-27d9cc25a88a">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-09-30T23:34:20+00:00</description>
+<description>Generated: 2026-10-01T04:59:54+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4698,6 +4698,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">j62268781-alt.pi-code-chat</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">JackHerry.copilotx-ai-assistant</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5595,6 +5599,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Muzammil.smart-attach</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Muzyu.deepseek-usage-monitor</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
