@@ -278,6 +278,7 @@ indicator,Text,HaMa.zoniva-ai,90,90,Removed from VS Marketplace: Malware.,malwar
 indicator,Text,HawnyJawny.LuauConnect,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,helixinc.harborhub-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,hexlabs.boardtrackappe,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,holiday-themes.theme-coca-cola-christmas,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Horizon-Projects.Horizon-Collaboration-Tracker,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,HTMLLanguage.html-css-support,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,hunterdurbin.vscode-4d-callchain,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -367,6 +368,7 @@ indicator,Text,Lily-Pathvela.lily-pathvela,90,90,Removed from VS Marketplace: Ma
 indicator,Text,LineInnovation.LineDeck,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,littensy-studio.magical-icons,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,logicalrblx7.shareboard,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,lohsebhipolg2s.theme-aurora-borealis,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Lommin.workoran,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,lualang.lualang,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LuaShield.lua-shield,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -509,6 +511,7 @@ indicator,Text,Puglight.realmvvscode,90,90,Removed from VS Marketplace: Malware.
 indicator,Text,Puglight.shadowcore,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Puglight.sysmotivate,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Puglight.vulnerabilitto,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,pulsedigital.framemap-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,pyflowpyr.py-flowpyright-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,pyscopexte.pyscope-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,pythoner.Black-Molokai-Theme,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -757,6 +760,7 @@ indicator,Text,abstractalgo.package-json-upgrade-abstractalgo,75,75,Removed from
 indicator,Text,Acronix-dev.Go-work-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,AdamFortune.ezsqlite,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,adi-trev.trev-flashing,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,adityavarman-manjunath.roc-nightly,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,adr-org.adr-manager-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,agent.devdock,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,AgentChatBus.deepseek-gold-harness,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1842,6 +1846,7 @@ indicator,Text,zjqtzzc.make-git-great-again,75,75,Removed from VS Marketplace: I
 indicator,Text,zjt.zjt-onedark-modern,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Zoosewu.project-manager-zoo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zouguowei.krtc-filter-line,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,zpeterg.intellij-idea-keybindings-mac-to-pc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zpy-ai.clinez,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zqchen.vscode-dashboard-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,zstings.claude-code-zh-cn,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high

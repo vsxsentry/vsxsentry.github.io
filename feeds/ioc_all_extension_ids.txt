@@ -925,6 +925,7 @@ abhiagr.livs
 abstractalgo.package-json-upgrade-abstractalgo
 adi-trev.trev-flashing
 adityasanwal.faa-sound
+adityavarman-manjunath.roc-nightly
 adr-org.adr-manager-vscode
 adwaitkeshari.lull
 agent.devdock
@@ -1450,6 +1451,7 @@ hexlabs.boardtrackappe
 hikaoxx-tech.dsh-pro
 hkalyane.csv-advanced-editor
 hoOJluGun.ho-ojlugun-ai
+holiday-themes.theme-coca-cola-christmas
 hollykbuck.opengitea
 hqvjet.pixel-agents-remake
 hsn8086.cph-hsn-edition
@@ -1637,6 +1639,7 @@ live-servers.LiveeServer
 liximomo.sftp
 llej.git-graph-guseng
 logicalrblx7.shareboard
+lohsebhipolg2s.theme-aurora-borealis
 lone17.lone-vscode-pets
 longguanghui.baiteda-vscode-i18n
 lsq-xgydxdx.git-graph-tool-chinese
@@ -1917,6 +1920,7 @@ ptanmay143.vscode-gitignore
 publishingsofficial.prettier-plus-vscode
 publishingsofficial.prettier-vscode-plus
 pubruncode.ccoderunner
+pulsedigital.framemap-dev
 pvjagtap.arxml-workbench
 pvparuchuri.sas
 pyflowpyr.py-flowpyright-extension
@@ -2336,6 +2340,7 @@ ziop.jetgit
 zjqtzzc.make-git-great-again
 zjt.zjt-onedark-modern
 zouguowei.krtc-filter-line
+zpeterg.intellij-idea-keybindings-mac-to-pc
 zpy-ai.clinez
 zqchen.vscode-dashboard-fork
 zstings.claude-code-zh-cn
