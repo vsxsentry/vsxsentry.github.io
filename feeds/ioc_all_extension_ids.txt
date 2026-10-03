@@ -119,6 +119,7 @@ Baue.update-fetcher
 Benachile-studio.protobuf-pro
 BenjaminFriedl.lexica-img-fix
 BeyondR34CH.theme-br-monokai
+BhavyaJustChill.vscode-power-mode-reborn
 BigBlack.bitcoin-black
 BigBlack.codo-ai
 BigBlack.mrbigblacktheme
@@ -436,6 +437,7 @@ LaunchAppsLLC.desk-47747973
 LaunchAppsLLC.desk-59838605
 LaunchAppsLLC.desk-94262049
 LaunchAppsLLC.launchdesk-app
+Lavender-Studio.theme-lavender-dreams
 LeiaBalan.LeiaBalan
 LeiaBalan.luaulink
 LeiaBalan.roblox-sync
@@ -1066,6 +1068,7 @@ ccimage.ccimage-emoji-log
 cdaringe.vscode-jest-runner-dummy
 ceo.sammarco
 cfeltz.taskpanel
+charcoal-mint-studio.theme-charcoal-mint
 charcoal141II.imu-view
 chat-gimay-agent.chat-gimay-agent
 checkmarx.ast-results
@@ -1271,6 +1274,7 @@ epichipporedeem.prettier-eslint-formatter
 errlenscre.error-lens-finder-ex
 esbenpp.pretier-vscodee
 esonhugh.weaponized
+etairi.vscode-idris2
 ethancao.mathpix-markdown-studio
 ethanielliu.audit-helper
 ethcompiler.among-eth
@@ -1614,7 +1618,6 @@ lakshits11.fresh-material-theme
 lang2hong.l2h-db-client
 lang2hong.l2h-vscode-dashboard
 laurence06363.laurence-hello-world-5
-lavender-studio.theme-lavender-dreams
 lce.lce-code
 leapliu.mindmap-github-image-bed
 leon-qiu.hexo-auto-updated
@@ -1912,6 +1915,7 @@ prismapp.prisma-vs-code-extension
 priyankark.AirCodum-app
 prnx.synapsez-ext
 probes-team.probes
+production-sun-set.theme-sunset-gradient
 profezzional.package-json-upgrade-fork
 projmanager.your-project-manager-extension
 przybylski.cursor-harpoon

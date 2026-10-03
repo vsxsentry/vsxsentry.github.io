@@ -85,6 +85,7 @@ Baue
 Benachile-studio
 BenjaminFriedl
 BeyondR34CH
+BhavyaJustChill
 BigBlack
 Bihrys
 Blamely
@@ -289,6 +290,7 @@ LaineHallot
 LangNico
 Languages
 LaunchAppsLLC
+Lavender-Studio
 LesMiserablesMod
 LiamDrew
 LiamWang
@@ -659,6 +661,7 @@ ccimage
 cdaringe
 ceo
 cfeltz
+charcoal-mint-studio
 checkmarx
 chenjingqing
 chess-color-theme
@@ -787,6 +790,7 @@ epichipporedeem
 errlenscre
 esbenpp
 esonhugh
+etairi
 ethancao
 ethanielliu
 ethcompiler
@@ -992,7 +996,6 @@ labfile
 lairinspectortrek70
 lakeFS
 lang2hong
-lavender-studio
 lce
 leapliu
 leon-qiu
@@ -1172,6 +1175,7 @@ pretty-studio-advisor
 priskinski
 prismapp
 probes-team
+production-sun-set
 profezzional
 projmanager
 przybylski

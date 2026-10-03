@@ -111,6 +111,7 @@ indicator,Text,CanvasSoftworks.Canvas-Board,90,90,Removed from VS Marketplace: M
 indicator,Text,carveltstone.chatbuddy-auto-suite,90,90,sleeper extension - glassworm supply chain,malware;critical
 indicator,Text,Cencurity.cencurity-connector,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ceo.sammarco,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,charcoal-mint-studio.theme-charcoal-mint,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,CharlesHoskinson.lfamnw1,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,checkmarx.ast-results,90,90,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,malware;critical
 indicator,Text,checkmarx.cx-dev-assist,90,90,compromised - Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions,malware;critical
@@ -360,7 +361,7 @@ indicator,Text,LaunchAppsLLC.desk-47747973,90,90,Removed from VS Marketplace: Ma
 indicator,Text,LaunchAppsLLC.desk-59838605,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LaunchAppsLLC.desk-94262049,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LaunchAppsLLC.launchdesk-app,90,90,Removed from VS Marketplace: Malware.,malware;critical
-indicator,Text,lavender-studio.theme-lavender-dreams,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,Lavender-Studio.theme-lavender-dreams,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,leonardomth.claudio-code,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,levicarlsson.shelly,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,LihengLuo.proxy-bridge-extension-pack,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -498,6 +499,7 @@ indicator,Text,Prisma-Inc.prisma-studio-assistance,90,90,Removed from VS Marketp
 indicator,Text,prismapp.prisma-vs-code-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,PriyanshuMallick.clipboard-history-manager,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,probes-team.probes,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,production-sun-set.theme-sunset-gradient,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,projmanager.your-project-manager-extension,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,PRSoftworks.vlux-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,pubruncode.ccoderunner,90,90,compromised - glassworm supply chain attack,malware;critical
@@ -848,6 +850,7 @@ indicator,Text,bennett.lcfc-project-manager,75,75,Removed from VS Marketplace: I
 indicator,Text,benpzhao.emmylua-aoe,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,betterthanalltime.calva-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,BeyondR34CH.theme-br-monokai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,BhavyaJustChill.vscode-power-mode-reborn,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Bihrys.codebuddy-credits-radar,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,BITS2500.bits-codon,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,bl-vc-java.bl-tomcat,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1026,6 +1029,7 @@ indicator,Text,env.Javascript-snippets-plus,75,75,Removed from VS Marketplace: I
 indicator,Text,EonaCat.AvaloniaFree,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Eradani.eradani-assist,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,esbenpp.pretier-vscodee,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,etairi.vscode-idris2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ethancao.mathpix-markdown-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,EvaLiu.vscode-antimony-2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,EvgeniiShapovalov.sftp-link,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
