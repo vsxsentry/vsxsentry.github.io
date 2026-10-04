@@ -1611,6 +1611,7 @@ smooth-soft.assessme-flow
 sneakyloris.team-pulse
 snrico-moonlight.gruvbox-material-community
 soIidity.cryptoovertheweekend4
+sohang3112.pdf-fork
 sol-studio.solidity-extension
 solario.enhanced-favorites
 solblanco.svetle-vsce
@@ -1722,6 +1723,7 @@ uladluch.antigravity-mobile-connector
 uladluch.cursor-mobile-connector
 ultimateBroK.symbols-enhance
 unique123.continue-plus
+v4rm4n.roc-community
 v8tech.v8-code
 val-brlt.turbo-console-no-comma
 valentinbeaumont.youtrack-vscode

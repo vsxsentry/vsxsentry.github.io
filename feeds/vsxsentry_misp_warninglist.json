@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20261003",
+  "version": "20261004",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -1660,6 +1660,7 @@
     "smonteros.pixel-agents-opencode",
     "smooth-cat.bobe-cat",
     "snrico-moonlight.gruvbox-material-community",
+    "sohang3112.pdf-fork",
     "solario.enhanced-favorites",
     "songyanglin.office-viewer-vditor",
     "songyanglin.vscode-office-plus",
@@ -1749,6 +1750,7 @@
     "tylerdotrar.goodbyeworldng",
     "ultimateBroK.symbols-enhance",
     "unique123.continue-plus",
+    "v4rm4n.roc-community",
     "val-brlt.turbo-console-no-comma",
     "valentinbeaumont.youtrack-vscode",
     "vbtheory.gitlab-pipeline-monitor-advanced",
@@ -2213,6 +2215,7 @@
     "nevalang.vscode-nevalang",
     "NEVSTOP-LAB.vsc-open-in-integrated-browser",
     "newdlops.git-simple-compare",
+    "nexrallcode.nexrall-code-vscode",
     "NexusCode.nexus-code",
     "Nhatsave.smart-snippets-vue",
     "nubond.nubond-language-service",
