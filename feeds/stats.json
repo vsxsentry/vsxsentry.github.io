@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-05T14:02:25+00:00",
-  "total_records": 2355,
-  "total_malicious": 2283,
+  "generated_utc": "2026-10-05T22:22:45+00:00",
+  "total_records": 2356,
+  "total_malicious": 2284,
   "total_risky": 72,
   "severity_counts": {
     "critical": 742,
     "high": 1136,
     "low": 22,
-    "medium": 455
+    "medium": 456
   },
   "category_counts": {
     "copyright-violation": 15,
@@ -34,9 +34,9 @@
     "spam": 110,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 270
+    "untrustworthy": 271
   },
-  "total_publishers": 1796,
+  "total_publishers": 1797,
   "top_publishers": [
     [
       "pit00",
