@@ -726,6 +726,7 @@ danylobodnar
 dark-code-studio
 dark-matter7232
 dastan-prince
+dawngroup
 day253
 deadman
 dechuen-lee
@@ -862,6 +863,7 @@ gvotcha
 gyvscode
 haelthorn
 hakor-plugins
+haloinc
 hanan
 hapTeam
 harrisonLin
@@ -874,6 +876,7 @@ helixinc
 hetu
 hexlabs
 hikaoxx-tech
+hivedynamics
 hkalyane
 hoOJluGun
 holiday-themes
@@ -968,6 +971,7 @@ keyacrosslaud
 keyang
 kharizma
 kide
+kikyous
 kindly-robotics
 kingace2056
 kiracode
@@ -998,12 +1002,14 @@ lakeFS
 lang2hong
 lce
 leapliu
+legendaryredfox
 leon-qiu
 leonardomjq
 leonardomth
 levicarlsson
 li-zheng-rong
 lijiangang
+linglong
 linlinzhao
 litou
 littensy-studio
@@ -1035,6 +1041,7 @@ lyqu
 lyu-wen-studio-web-han
 lyywemhan
 madmansidea
+mafty43211
 mahdihajian
 maizhuoying
 manageblox
@@ -1100,12 +1107,15 @@ natereprogle
 nathan-0910
 naveenkunder
 nbreier
+nebulasecurity
 nerfine-dev
 neural-llm
 newsporcolec
 ng-jk
+nicenick
 nicovy
 nightgauge
+nikisalli
 nikitakolesnikov
 nilaykd
 nimashoghi
@@ -1197,6 +1207,7 @@ qutto
 r0kuko
 raidenshogun
 rainbowflesh
+raptorstone
 ravaelles
 reactsnippetsai
 redcapcollective
@@ -1321,6 +1332,7 @@ taillaaa
 tamokill12
 tangxia
 tanukii
+taoscope
 tapl-lang
 teakovva
 testrl777

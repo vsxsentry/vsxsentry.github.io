@@ -166,6 +166,7 @@ DaveWeb3.choccie,DaveWeb3,critical,malware,Removed from VS Marketplace: Malware.
 DavidAsh.dcbox-vs,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 DavidAsh.gruvbox-vs,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 DavidAsh.tr-lang-pack,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+dawngroup.studiodocs-app,dawngroup,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Dean.npmpkg,Dean,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 densy-little-studio.wonder-for-vscode-icons,densy-little-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 dep-labs-studio.dep-proffesinal-extension,dep-labs-studio,critical,malware,compromised - glassworm supply chain attack,static_list
@@ -275,10 +276,12 @@ gvotcha.claude-code-extension,gvotcha,critical,malware,compromised - glassworm s
 gvotcha.claude-code-extensions,gvotcha,critical,malware,compromised - glassworm supply chain attack,static_list
 haelthorn.fractal-fast-studio,haelthorn,critical,malware,sleeper extension - glassworm supply chain,static_list
 hakor-plugins.modux-tooling,hakor-plugins,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+haloinc.flowdeck-prod,haloinc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 HaMa.zoniva-ai,HaMa,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 HawnyJawny.LuauConnect,HawnyJawny,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 helixinc.harborhub-dev,helixinc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 hexlabs.boardtrackappe,hexlabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+hivedynamics.mesagrid-app,hivedynamics,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 holiday-themes.theme-coca-cola-christmas,holiday-themes,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Horizon-Projects.Horizon-Collaboration-Tracker,Horizon-Projects,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 HTMLLanguage.html-css-support,HTMLLanguage,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -367,6 +370,7 @@ levicarlsson.shelly,levicarlsson,critical,malware,Removed from VS Marketplace: M
 LihengLuo.proxy-bridge-extension-pack,LihengLuo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Lily-Pathvela.lily-pathvela,Lily-Pathvela,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 LineInnovation.LineDeck,LineInnovation,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+linglong.minimalext,linglong,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 littensy-studio.magical-icons,littensy-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 logicalrblx7.shareboard,logicalrblx7,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 lohsebhipolg2s.theme-aurora-borealis,lohsebhipolg2s,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -431,11 +435,13 @@ mswincx.antigravity-cockpit,mswincx,critical,malware,compromised - glassworm sup
 mswincx.antigravity-cockpit-extension,mswincx,critical,malware,compromised - glassworm supply chain attack,static_list
 MusicCreates.musicicgen,MusicCreates,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 namopins.prettier-pro-vscode-extension,namopins,critical,malware,compromised - glassworm supply chain attack,static_list
+nebulasecurity.canvasdocs-app,nebulasecurity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 nerfine-dev.projectly-app,nerfine-dev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 neural-llm.power-claude,neural-llm,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NEVSTOP-LAB.csm-vsc-support,NEVSTOP-LAB,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe,newsporcolec,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NFoundation.terraform-ai,NFoundation,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+nicenick.rawr-poc,nicenick,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 nightgauge.nightgauge-vscode,nightgauge,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NodeOnline.live-test-live-share,NodeOnline,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NodePack.live-test-candidate,NodePack,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -530,6 +536,7 @@ QuantumCodeLabs.qoodo-ai-assistant,QuantumCodeLabs,critical,malware,Removed from
 RabobankAI.rabobank-code-assistant,RabobankAI,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RachelFront.asdtif,RachelFront,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 raidenshogun.javascript-null-sequence,raidenshogun,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+raptorstone.pixeldeck-app,raptorstone,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RblxTasker.RblxTasker,RblxTasker,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 reactsnippetsai.es7-react-js-snippets-ai,reactsnippetsai,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RealismHub.trello-management,RealismHub,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -619,6 +626,7 @@ SyntaxDev.New-Christmas-Theme,SyntaxDev,critical,malware,Removed from VS Marketp
 tabnine-dev.tabnine-pro,tabnine-dev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 tagovich.zener-pro-craft,tagovich,critical,malware,sleeper extension - glassworm supply chain,static_list
 tamokill12.foundry-pdf-extension,tamokill12,critical,malware,compromised - glassworm supply chain attack,static_list
+taoscope.taoscope-coding-assessment,taoscope,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Taskify.taskify,Taskify,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 TaskRblx.taskrblx,TaskRblx,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 TechSolutionsPro.bitcoin-cake-theme,TechSolutionsPro,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1252,6 +1260,7 @@ KevinYouu.tailwind-raw-reorder-tw4,KevinYouu,high,impersonation,Removed from VS 
 keyang.vscode-leetcode-enhanced,keyang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 KhoaZero123.sftp-extension,KhoaZero123,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 kide.kide-csharp,kide,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+kikyous.vscode-git-history-x,kikyous,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 kindly-robotics.inferall-ai,kindly-robotics,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 kingace2056.json-to-dart-fixed-kingace2056,kingace2056,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 kiracode.kira-code,kiracode,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1294,6 +1303,7 @@ LangNico.maxima-syntax-highlighting-new,LangNico,high,impersonation,Removed from
 LBGroup.lineputscript-formatter,LBGroup,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 lce.lce-code,lce,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 leapliu.mindmap-github-image-bed,leapliu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+legendaryredfox.run-kotlin-vscode,legendaryredfox,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 leon-qiu.hexo-auto-updated,leon-qiu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 leonardomjq.goblin-mode,leonardomjq,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 LesMiserablesMod.hoi4modutilities-maintained,LesMiserablesMod,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1349,6 +1359,7 @@ LWilhelmer.reflow-markdown-plus,LWilhelmer,high,impersonation,Removed from VS Ma
 lxl66566.vim-lxl66566,lxl66566,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 lyqu.rest-client-fork,lyqu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 lyywemhan.code-formatter-and-minifier-vscode,lyywemhan,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+mafty43211.vscode-leetcode-study-plan,mafty43211,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 MagicTeatime.student-cline,MagicTeatime,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 mahdihajian.angular-files-creator,mahdihajian,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 mahdihajian.vscode-pull-request-azure-devops,mahdihajian,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1423,6 +1434,7 @@ ng-jk.sftp-ng-jk,ng-jk,high,impersonation,Removed from VS Marketplace: Impersona
 Nibs.remote-cloud-shell,Nibs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Nice8888.cline-nice8888,Nice8888,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 nicovy.symbolsnicovy,nicovy,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+nikisalli.git-graph-cumulative-additions-deletions,nikisalli,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 nikitakolesnikov.vscode-squirrel-extention,nikitakolesnikov,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 NikiTester.claude-commit-generator,NikiTester,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 nilaykd.arborist-notes,nilaykd,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -2142,6 +2154,7 @@ dsanms.dsanms,dsanms,medium,untrustworthy,Removed from VS Marketplace: Untrustwo
 Dylan-Edwards.CodeTracker-Oracle,Dylan-Edwards,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 elodie.go-master,elodie,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Embedder.embedder-infineon,Embedder,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+emberstudios.kitestudio-dev,emberstudios,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 everyapi-ai.everyapi-vscode,everyapi-ai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ext-lab.ftp-supports,ext-lab,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -2196,6 +2209,7 @@ MachineConfiguration-test.machine-configuration,MachineConfiguration-test,medium
 mariovalney.wordpress-readme-to-markdown,mariovalney,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 mastersam.faaaah-on-fail,mastersam,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 matheus-tupy.Tupy-Language,matheus-tupy,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+maxrall.nexrall-code-for-vscode,maxrall,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Men3emkhaled.agent-assistant,Men3emkhaled,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 MicroLLC.typewriter-keyin,MicroLLC,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 mirrorflat.mirrorflatlog,mirrorflat,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -2302,6 +2316,7 @@ VideCode.vide-code,VideCode,medium,untrustworthy,Removed from VS Marketplace: Un
 VinvAI.VinvAI,VinvAI,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 voanhnd.copilot-credit-counter,voanhnd,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 VSCodeIndustries.azure-devops-sync-helper-presso,VSCodeIndustries,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+wavepeak.slatecanvas-dev,wavepeak,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 wenox.wenox,wenox,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 WhenSunset.chatgpt-china,WhenSunset,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 xavier-arosemena.roo-plus,xavier-arosemena,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

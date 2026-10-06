@@ -931,6 +931,7 @@ danylobodnar.rose-pine-black
 dark-code-studio.flutter-extension
 dark-matter7232.stm32-for-vscode-community
 dastan-prince.cline-cn-ai
+dawngroup.studiodocs-app
 day253.data-scientist-development-pack
 day253.system-engineer-development-pack
 day253.system-information-status-bar
@@ -1120,6 +1121,7 @@ gvotcha.claude-code-extensions
 gyvscode.continue-vs
 haelthorn.fractal-fast-studio
 hakor-plugins.modux-tooling
+haloinc.flowdeck-prod
 hanan.hanan-code
 hapTeam.hap-eslint
 harrisonLin.fcbox-ai-code
@@ -1132,6 +1134,7 @@ helixinc.harborhub-dev
 hetu.HetuGit
 hexlabs.boardtrackappe
 hikaoxx-tech.dsh-pro
+hivedynamics.mesagrid-app
 hkalyane.csv-advanced-editor
 hoOJluGun.ho-ojlugun-ai
 holiday-themes.theme-coca-cola-christmas
@@ -1238,6 +1241,7 @@ keyacrosslaud.auto-loop-for-antigravity
 keyang.vscode-leetcode-enhanced
 kharizma.vscode-extension-wakatime
 kide.kide-csharp
+kikyous.vscode-git-history-x
 kindly-robotics.inferall-ai
 kingace2056.json-to-dart-fixed-kingace2056
 kiracode.kira-code
@@ -1277,12 +1281,14 @@ lang2hong.l2h-db-client
 lang2hong.l2h-vscode-dashboard
 lce.lce-code
 leapliu.mindmap-github-image-bed
+legendaryredfox.run-kotlin-vscode
 leon-qiu.hexo-auto-updated
 leonardomjq.goblin-mode
 leonardomth.claudio-code
 levicarlsson.shelly
 li-zheng-rong.vscode-clangd-modules-support
 lijiangang.vscode-picgo-paste-adpt-wayland
+linglong.minimalext
 linlinzhao.turbo-console-log-enhance
 litou.transify
 littensy-studio.magical-icons
@@ -1318,6 +1324,7 @@ lyqu.rest-client-fork
 lyu-wen-studio-web-han.better-formatter-vscode
 lyywemhan.code-formatter-and-minifier-vscode
 madmansidea.sidetrack-music
+mafty43211.vscode-leetcode-study-plan
 mahdihajian.angular-files-creator
 mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
@@ -1387,12 +1394,15 @@ natereprogle.php-namespace-resolver-v2
 nathan-0910.ftl-dev
 naveenkunder.format-html
 nbreier.virtualworkspacesf
+nebulasecurity.canvasdocs-app
 nerfine-dev.projectly-app
 neural-llm.power-claude
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 ng-jk.sftp-ng-jk
+nicenick.rawr-poc
 nicovy.symbolsnicovy
 nightgauge.nightgauge-vscode
+nikisalli.git-graph-cumulative-additions-deletions
 nikitakolesnikov.vscode-squirrel-extention
 nilaykd.arborist-notes
 nimashoghi.gistfs-updated-main-nsh
@@ -1532,6 +1542,7 @@ qutto.markdown-navigation-new
 r0kuko.jetbrains-file-icon-theme-extended
 raidenshogun.javascript-null-sequence
 rainbowflesh.moondusttheme-fork
+raptorstone.pixeldeck-app
 ravaelles.search-anywhere
 reactsnippetsai.es7-react-js-snippets-ai
 redcapcollective.vscode-quarkus-elite-suite
@@ -1668,6 +1679,7 @@ taillaaa.codilore-ai
 tamokill12.foundry-pdf-extension
 tangxia.roo-code-ex
 tanukii.autoversion
+taoscope.taoscope-coding-assessment
 tapl-lang.material-icon-theme-tapl
 teakovva.overpy-bastion
 testrl777.Solidity-Ethereum
