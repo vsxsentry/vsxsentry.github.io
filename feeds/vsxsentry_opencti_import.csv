@@ -864,6 +864,7 @@ indicator,Text,BITS2500.bits-codon,75,75,Removed from VS Marketplace: Impersonat
 indicator,Text,bl-vc-java.bl-tomcat,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,blaz.vim-with-visual-mode-fixed,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,bobqianic.imperial-llm-dev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,bone-ni.vscode-language-pack-lo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,borgius.lm-proxy-responses,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,borgius.localrag,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,brainz-digital-com.brainz-digital-netbeans-keybindings,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -2282,6 +2283,8 @@ indicator,Text,sla-guardian.static-sla-guardian,50,50,Removed from VS Marketplac
 indicator,Text,solidhelium.codeforces-submitter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,solvex-solutions.epm-lsp-server,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,souhailaserbout.codelight,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,SrijanSiddharth.terminal-profile-tools,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,SrijanSiddharth.vscode-testing-extension,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,SuyuDiao.bios-build-assistant,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Synthetixfordebug.synthetix-debugger,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,tak-vibecoding.tak,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium

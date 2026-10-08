@@ -804,6 +804,7 @@ blaz.vim-with-visual-mode-fixed
 blockstoks.easily-gitignore-manage
 bobqianic.imperial-llm-dev
 bogigigigigity.etherefound
+bone-ni.vscode-language-pack-lo
 borgius.lm-proxy-responses
 borgius.localrag
 boulderzitunnel.vscode-buddies

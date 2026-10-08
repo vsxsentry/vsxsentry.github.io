@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20261007",
+  "version": "20261008",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -873,6 +873,7 @@
     "bl-vc-java.bl-tomcat",
     "blaz.vim-with-visual-mode-fixed",
     "bobqianic.imperial-llm-dev",
+    "bone-ni.vscode-language-pack-lo",
     "borgius.lm-proxy-responses",
     "borgius.localrag",
     "brainz-digital-com.brainz-digital-netbeans-keybindings",
@@ -2291,6 +2292,8 @@
     "solidhelium.codeforces-submitter",
     "solvex-solutions.epm-lsp-server",
     "souhailaserbout.codelight",
+    "SrijanSiddharth.terminal-profile-tools",
+    "SrijanSiddharth.vscode-testing-extension",
     "SuyuDiao.bios-build-assistant",
     "Synthetixfordebug.synthetix-debugger",
     "tak-vibecoding.tak",

@@ -771,6 +771,8 @@ SoulFriends.pretty-ts-errors-Chinese
 SoumyadeepDas.gemini-code-converter
 SpecStoryInc.specstory-vscode-pro
 SprintlyLLC.Sprintly
+SrijanSiddharth.terminal-profile-tools
+SrijanSiddharth.vscode-testing-extension
 StackStudios.swimlane
 StackspotPlatform.StackSpot
 StefanYosif.axion-ai
@@ -1027,6 +1029,7 @@ blaz.vim-with-visual-mode-fixed
 blockstoks.easily-gitignore-manage
 bobqianic.imperial-llm-dev
 bogigigigigity.etherefound
+bone-ni.vscode-language-pack-lo
 borgius.lm-proxy-responses
 borgius.localrag
 bortolabs.claude-code-usage-bar
