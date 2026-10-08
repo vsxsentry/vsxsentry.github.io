@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-07de4321-9f31-4d63-a556-92aebaf1950f">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-0322fdc5-f09e-4a85-82a6-111d53dc70be">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-10-08T17:16:31+00:00</description>
+<description>Generated: 2026-10-08T23:05:55+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -5054,6 +5054,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">kikyous.i18n-allyc</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">kikyous.vscode-git-history-x</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -7419,6 +7423,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">zero-pzp.turbo-console-log-pzp</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">ZeroWiggliness.vscode-httpyac-zw</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
