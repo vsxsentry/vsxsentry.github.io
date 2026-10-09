@@ -65,6 +65,7 @@ Ares-Agent
 ArthurNeuman
 AshleyHornja
 AtIassianlm
+AtlassianLLC
 AtroxEGO
 AutoMind
 Autolexia
@@ -667,6 +668,7 @@ charcoal-mint-studio
 checkmarx
 chenjingqing
 chess-color-theme
+chihang03
 chirayuk
 christian237
 chrp
@@ -999,6 +1001,7 @@ kwitch-studio
 kyledunne
 kzhoa
 labfile
+lagoonmedia
 lairinspectortrek70
 lakeFS
 lang2hong
@@ -1472,6 +1475,7 @@ ynqq
 yonbip
 yujiitadori
 yunhaoli24
+zenithfoundry
 zenplusplus
 zero-pzp
 zeug-zz
