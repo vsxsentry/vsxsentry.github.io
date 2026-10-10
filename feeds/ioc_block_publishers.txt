@@ -62,6 +62,7 @@ AppReleasePLC
 ArcanicAI
 ArchMedia
 Ares-Agent
+ArnavNKamat
 ArthurNeuman
 AshleyHornja
 AtIassianlm
@@ -114,6 +115,7 @@ CipherLabs
 ClockZinc
 CloudianApp
 CodeSecureDev
+CodyOunora
 Cognitrace3
 CompassLLMCode
 Corebyte
@@ -911,6 +913,7 @@ inaiv
 infinics
 intellipro
 iridium
+irodev
 itanshield
 itv3
 ivanstepanovftwgaynottaken
@@ -985,6 +988,7 @@ kokoma
 kolling88
 kongdetuo
 konyshevav
+kosama685
 kototok903
 kova-lang
 kr-ilya
