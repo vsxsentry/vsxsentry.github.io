@@ -428,6 +428,7 @@ Mid-Autumn.agent-task-manager,Mid-Autumn,critical,malware,Removed from VS Market
 minlabs.quiet-code,minlabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 MisterAAR.codex-ai-pro,MisterAAR,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 mkd-corp.keural-vscode,mkd-corp,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+MohamedSelim.br-coder,MohamedSelim,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 mrcrispy.cpln,mrcrispy,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 mrekelid.manpages-fast-kit,mrekelid,critical,malware,sleeper extension - glassworm supply chain,static_list
 MrMainframe.pitel-library,MrMainframe,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1093,6 +1094,7 @@ funovus.dceilua,funovus,high,impersonation,Removed from VS Marketplace: Imperson
 funovus.funovus-trdb,funovus,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 funovus.funovus-vscode-teal,funovus,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 funovus.funovuslua,funovus,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+FXEdison.leekfund-fxedison,FXEdison,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 fyzhu.git-pretty-graph,fyzhu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 gabrielbotan.gruvbox-vim,gabrielbotan,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 gea-embedded.vscode-clangd-gea-embedded,gea-embedded,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1698,6 +1700,7 @@ stratomercata.strato-mercata,stratomercata,high,impersonation,Removed from VS Ma
 streamax.claude-dev-streamax,streamax,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 stunning-yunwu.code-debugger-plus,stunning-yunwu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 stx-emma.git-e-graph,stx-emma,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+sumangalkaran.code-runner-plus,sumangalkaran,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 sunamo-cz.specstory-autosave,sunamo-cz,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 sunstoneapps.opencode-selection,sunstoneapps,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Superxin.ctags-c-cpp,Superxin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -2171,6 +2174,7 @@ everyapi-ai.everyapi-vscode,everyapi-ai,medium,untrustworthy,Removed from VS Mar
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ext-lab.ftp-supports,ext-lab,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 farhadggu.commitpilotify,farhadggu,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+galedynamics.sketchdesk-prod,galedynamics,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 GCIDCAIAmericasAndAsia.A11y-Agent,GCIDCAIAmericasAndAsia,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 gdnwxf.search-like-intellij,gdnwxf,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 geecode.geecode-python,geecode,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -2263,6 +2267,7 @@ quartz.quartz-markdown-editor,quartz,medium,untrustworthy,Removed from VS Market
 qweqweqwe.test,qweqweqwe,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Raidfire.mes-reference-library,Raidfire,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ray2666.antigravity-proxy,ray2666,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+RbxForge.rbxforge,RbxForge,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 regina-prompt-spittingcode.regina-prompt-spittingcode,regina-prompt-spittingcode,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 RenatoOliveira599.howsurluck,RenatoOliveira599,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 RenatoOliveira599.howsurluck-hardcore,RenatoOliveira599,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -2297,6 +2302,8 @@ solvex-solutions.epm-lsp-server,solvex-solutions,medium,untrustworthy,Removed fr
 souhailaserbout.codelight,souhailaserbout,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 SrijanSiddharth.terminal-profile-tools,SrijanSiddharth,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 SrijanSiddharth.vscode-testing-extension,SrijanSiddharth,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+styleui.styleartist,styleui,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+summitforge.flowcanvas-dev,summitforge,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 SuyuDiao.bios-build-assistant,SuyuDiao,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Synthetixfordebug.synthetix-debugger,Synthetixfordebug,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 tak-vibecoding.tak,tak-vibecoding,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
