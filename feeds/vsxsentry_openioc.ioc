@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-6b87fb97-d01e-4aee-b55d-9ab5612a0d1f">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-f641b56c-6842-4a2c-b5d8-99575de49b94">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-10-12T14:51:30+00:00</description>
+<description>Generated: 2026-10-12T22:48:01+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -8915,6 +8915,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">Men3emkhaled.agent-assistant</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">meridianbyte.boardhub-dev</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>

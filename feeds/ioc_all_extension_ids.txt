@@ -1727,6 +1727,7 @@ meltovik.bookmark-rich-tool
 meltuven.graphql-pro-tool
 meow-d.markless-meowd
 mercerllc.mercer-onboarding-helper
+meridianbyte.boardhub-dev
 mervick.deepseek-peak-hours
 metagogo.metagogo
 mg-lab.mb-lab
