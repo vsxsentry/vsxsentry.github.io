@@ -280,6 +280,7 @@ hakor-plugins.modux-tooling,hakor-plugins,critical,malware,Removed from VS Marke
 haloinc.flowdeck-prod,haloinc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 HaMa.zoniva-ai,HaMa,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 HawnyJawny.LuauConnect,HawnyJawny,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+HazemBasha.azure-shell-theme,HazemBasha,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 helixinc.harborhub-dev,helixinc,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 hexlabs.boardtrackappe,hexlabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 hivedynamics.mesagrid-app,hivedynamics,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1196,6 +1197,7 @@ inaiv.inaiv,inaiv,high,impersonation,Removed from VS Marketplace: Impersonation.
 Infineon-technologies-ag.modus-toolbox-for-vscode,Infineon-technologies-ag,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 infinics.infinics-ai-assistant,infinics,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 InnuendoPi.vscode-espfs,InnuendoPi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+involvex.involvexs-opencode-gui,involvex,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 iridium.pinkcandy,iridium,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 irodev.php-blade-livewire-formatter,irodev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 iSayme.vscode-prettier-standard,iSayme,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1724,7 +1726,6 @@ tae-h-yang.vscode-3d-preview-true-origin,tae-h-yang,high,impersonation,Removed f
 taillaaa.codilore-ai,taillaaa,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 TailwindCSSIntelliSenseplus.vscode-tailwindcss-plus,TailwindCSSIntelliSenseplus,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tangxia.roo-code-ex,tangxia,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
-TanishqKancharla.opencode-vscode,TanishqKancharla,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tanukii.autoversion,tanukii,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 tapl-lang.material-icon-theme-tapl,tapl-lang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Taro-Native.taro-native-language-support,Taro-Native,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1869,6 +1870,7 @@ YummyGroup.Fristaylo-sessions,YummyGroup,high,impersonation,Removed from VS Mark
 yunhaoli24.leafrelay,yunhaoli24,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 YuTengjing.vscode-colorize-plus,YuTengjing,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 YuTengjing.vscode-github-actions-tj,YuTengjing,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+z-riley.helix-emulation,z-riley,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ZAMBAR.riscv-venus-cs110,ZAMBAR,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ZaqueuRodrigues.vscode-eclipse-keymap-complete,ZaqueuRodrigues,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Zaur.zz-sftp,Zaur,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
