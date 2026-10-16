@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-9be6ebb8-7274-416d-8742-cc02ba3a3654">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-704d5d36-a1d9-4d55-b371-4365813349a5">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-10-16T14:39:28+00:00</description>
+<description>Generated: 2026-10-16T19:26:22+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4906,6 +4906,14 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">jalexiscv.sftp-forge</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">jalexiscv.vscode-language-pack-es-co</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">jamesoncrate.universal-3d-preview</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5827,6 +5835,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">nbreier.virtualworkspacesf</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">neko233-com.jenkinsfile-free</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
