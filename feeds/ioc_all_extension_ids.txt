@@ -386,6 +386,7 @@ JohnAaronNelson.visualforce
 JohnCrypto.whiteblankspace3
 JohnFMerondic.drift-board
 JohnGaffney.blankebesxstnion
+JohnLimnas.trixtrox
 JohnMcafee.JohnMcafeeSolid
 JosephDembele95.email-grabber
 JosephLubin.solib
@@ -982,6 +983,7 @@ amazonwebservices.aws-toolkit-vscode
 amkig.i18n-ally-po
 amr-elzoghby.opencode-native
 anaer.a-git-log
+andrediogo92.nu-busted-test-explore
 angular-studio.ng-angular-extension
 anishqKancharla.opencode-vscode
 annacode.pt-lab-simproc
@@ -1494,6 +1496,8 @@ humao.rest-client
 humy2833.ftp-simple
 hunterdurbin.vscode-4d-callchain
 hwrn001.snakemake-lang-pre-release
+hxyou.commit-assist
+hxyou.make-it
 hy6.favorites-panel-fork
 hyoban.file-icons-continue
 hyperproof.vscode-ext-prettier-java
@@ -1589,6 +1593,7 @@ jzeeed.jzeeed
 k-lani.k-lani-code-translator
 kaighe.esp-idf-light
 kaijialin.pvts
+kairbros-dev.bomberman-procedural
 kairo.kairo-designer
 kaiwu-probes.Probes-ai
 kangaechu.open-in-github-kangaechu
