@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-19T12:36:08+00:00",
-  "total_records": 2431,
-  "total_malicious": 2359,
+  "generated_utc": "2026-10-19T19:42:25+00:00",
+  "total_records": 2450,
+  "total_malicious": 2378,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 758,
+    "critical": 759,
     "high": 1173,
     "low": 22,
-    "medium": 478
+    "medium": 496
   },
   "category_counts": {
     "copyright-violation": 15,
@@ -15,7 +15,7 @@
     "expired-domain": 1,
     "impersonation": 1154,
     "impersonation-malware": 5,
-    "malware": 758,
+    "malware": 759,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -31,12 +31,12 @@
     "risky-infrastructure": 4,
     "risky-remote-access": 15,
     "risky-tunnel": 5,
-    "spam": 110,
+    "spam": 127,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 293
+    "untrustworthy": 294
   },
-  "total_publishers": 1860,
+  "total_publishers": 1863,
   "top_publishers": [
     [
       "pit00",
@@ -61,6 +61,10 @@
     [
       "LinJun",
       18
+    ],
+    [
+      "LazowskiAnton",
+      17
     ],
     [
       "viralinclive",
@@ -132,10 +136,6 @@
     ],
     [
       "atom8n",
-      6
-    ],
-    [
-      "funovus",
       6
     ]
   ]
