@@ -588,6 +588,7 @@ indicator,Text,ShopifySTORES.liquidpeptide,90,90,Removed from VS Marketplace: Ma
 indicator,Text,ShowSnowcrypto.SnowShoNo,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Sm1lerrpasy.ton-func-syntax-highlighter,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,SmartContractAI.solaibot,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,smiletime.pandatask,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,smooth-soft.assessme-flow,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,sneakyloris.team-pulse,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,SnippetsLabs.kendo-formatter,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -2290,10 +2291,6 @@ indicator,Text,newdlops.git-simple-compare,50,50,Removed from VS Marketplace: Un
 indicator,Text,nexrallcode.nexrall-code-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,NexusCode.nexus-code,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Nhatsave.smart-snippets-vue,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,nimblescape.comment-markdown-links,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,nimblescape.nimblescape-comment-markdown-links,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,nimblescape.nimblescape-devspaces,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
-indicator,Text,nimblescape.nimblescape-markdown-comment-links,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,nubond.nubond-language-service,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,null-Island.your-new-favorite-extension,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,okystudio.sude-pets,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
