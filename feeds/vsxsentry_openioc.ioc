@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-659d8bf5-54af-4b2f-814a-1dd6ef258895">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-82e6a412-8bc0-48c0-af2a-4a1e9d6d72e2">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-10-24T00:22:58+00:00</description>
+<description>Generated: 2026-10-24T07:00:35+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -3378,6 +3378,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">arm-debug.mock-debug-test</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">ArnavNKamat.poke-code</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -5347,6 +5351,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">kongdetuo.AxamlCraft</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">konstantyn-ganenkov.deepseek-pilot</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
