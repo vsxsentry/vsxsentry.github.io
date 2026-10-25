@@ -169,6 +169,7 @@ DavidAsh.dcbox-vs,DavidAsh,critical,malware,Removed from VS Marketplace: Malware
 DavidAsh.gruvbox-vs,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 DavidAsh.tr-lang-pack,DavidAsh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 dawngroup.studiodocs-app,dawngroup,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+DawnTask.dawntask,DawnTask,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Dean.npmpkg,Dean,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 densy-little-studio.wonder-for-vscode-icons,densy-little-studio,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
 dep-labs-studio.dep-proffesinal-extension,dep-labs-studio,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
@@ -254,6 +255,7 @@ GavinLWood.introai,GavinLWood,critical,malware,Removed from VS Marketplace: Malw
 GavinWoodETH.solid-eth,GavinWoodETH,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 GB0099.gb0099-liquid,GB0099,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 gh555.qqq,gh555,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+GiantManage.giantmanage,GiantManage,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 GitDEV.fredliquid,GitDEV,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 gitkraken-dev.gitlens-pro,gitkraken-dev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 GitlensPro.aicode-companion,GitlensPro,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -466,6 +468,7 @@ oigotm.my-command-palette-extension,oigotm,critical,malware,compromised - glassw
 OIOXO.oioxo-vscode,OIOXO,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 OmniMind.node-ai,OmniMind,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 Onaga08.vibecode,Onaga08,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+opentask.opentask,opentask,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 OryonTechnology.oryon,OryonTechnology,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ost-fh.micropython-for-arduino,ost-fh,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 otimiza.local-agent-screen-viewer,otimiza,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -485,6 +488,7 @@ pandaexpress.Theme-AnarchistEighties-plugin,pandaexpress,critical,malware,Remove
 pandaexpress.Theme-ant-plugin,pandaexpress,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 pandaexpress.Theme-Array-plugin,pandaexpress,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 pandaexpress.Theme-arstotzka-plugin,pandaexpress,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+parsley.parsley,parsley,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 pascal-lab.vide-ide,pascal-lab,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 PatchLabs.boardtrack,PatchLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 pathvela.pathvela,pathvela,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -615,6 +619,7 @@ sremuven.beautify-super-lens,sremuven,critical,malware,sleeper extension - glass
 ssgwysc.volar-vscode,ssgwysc,critical,malware,compromised - glassworm supply chain attack,static_list,https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
 StackStudios.swimlane,StackStudios,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 stadiumgripier.vscode-onedark-theme,stadiumgripier,critical,malware,sleeper extension - glassworm supply chain,static_list,https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm
+starktask.starktask,starktask,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 state-diagram-yass-kpit.state-diagram-editor-yassinebougacha,state-diagram-yass-kpit,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 state-diagram-yass-kpit.state-diagram-editor-yassinebougachaaa,state-diagram-yass-kpit,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 state-diagram-yass-kpit.state-diagram-editor-yassinebougachaaaa,state-diagram-yass-kpit,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
@@ -2267,6 +2272,7 @@ everyapi-ai.everyapi-vscode,everyapi-ai,medium,untrustworthy,Removed from VS Mar
 Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 ext-lab.ftp-supports,ext-lab,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 farhadggu.commitpilotify,farhadggu,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
+flowstate.luaslope,flowstate,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 galedynamics.sketchdesk-prod,galedynamics,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 GCIDCAIAmericasAndAsia.A11y-Agent,GCIDCAIAmericasAndAsia,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md
 gdnwxf.search-like-intellij,gdnwxf,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages,https://github.com/microsoft/vsmarketplace/blob/main/RemovedPackages.md

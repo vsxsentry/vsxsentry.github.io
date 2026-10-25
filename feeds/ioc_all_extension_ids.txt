@@ -208,6 +208,7 @@ DaveWeb3.choccie
 DavidAsh.dcbox-vs
 DavidAsh.gruvbox-vs
 DavidAsh.tr-lang-pack
+DawnTask.dawntask
 Dean.npmpkg
 DevCatppuccinpro.catppuccin-pro-vsc
 DevCrew.devc-python-toolkit
@@ -307,6 +308,7 @@ GSZN.cangjie-ai-code
 GavinLWood.introai
 GavinLamWood.vs-blanket
 GavinWoodETH.solid-eth
+GiantManage.giantmanage
 GitDEV.fredliquid
 GitHub.codespaces
 GitHub.copilot
@@ -1407,6 +1409,7 @@ floatinghotpot.deepseek-harness-web-for-vscode
 floktokbok.autoimport
 flownalks.Flowridens
 flownalks.NexoraBoard
+flowstate.luaslope
 flutcode.flutter-extension
 flutxvs.vscode-kuberntes-extension
 flywine.vscode-clangd
@@ -1932,6 +1935,7 @@ oorzc.ssh-tools
 openbase.openbase-icons
 openbase.openbase-theme
 openbase.openbase-vscode
+opentask.opentask
 orca.vscode-armlite
 ost-fh.micropython-for-arduino
 otimiza.local-agent-screen-viewer
@@ -1956,6 +1960,7 @@ pandaexpress.Theme-Array-plugin
 pandaexpress.Theme-ant-plugin
 pandaexpress.Theme-arstotzka-plugin
 parmentelat.vscode-jupytext-parmentelat
+parsley.parsley
 pascal-lab.vide-ide
 pascalabcnet.pascalabc-net
 pathvela.pathvela
@@ -2205,6 +2210,7 @@ stadiumgripier.vscode-onedark-theme
 stan-stani.autolaunch-plus
 starfall-contributor.remote-extended
 stark.bgide
+starktask.starktask
 state-diagram-yass-kpit.state-diagram-editor-yassinebougacha
 state-diagram-yass-kpit.state-diagram-editor-yassinebougachaaa
 state-diagram-yass-kpit.state-diagram-editor-yassinebougachaaaa
