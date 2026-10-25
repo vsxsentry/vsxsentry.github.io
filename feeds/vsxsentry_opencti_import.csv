@@ -309,6 +309,7 @@ indicator,Text,JackHerry.dark-ai,90,90,Removed from VS Marketplace: Malware.,mal
 indicator,Text,JacobETH.solidi,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JasielDelarosa.jira-board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,jasonbg-koi.koi-markt-bug1,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,jaunblanco.ethtools,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JessieAAA.jessie-pkg-tool,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,jianbe-03.pesto-roblox-project-explorer,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,JohnCrypto.whiteblankspace3,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -378,6 +379,8 @@ indicator,Text,Lily-Pathvela.lily-pathvela,90,90,Removed from VS Marketplace: Ma
 indicator,Text,LineInnovation.LineDeck,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,linglong.minimalext,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,littensy-studio.magical-icons,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,LKKStuner.linkintree,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,LKKStuner.linkintrees,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,logicalrblx7.shareboard,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,lohsebhipolg2s.theme-aurora-borealis,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Lommin.workoran,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -587,6 +590,7 @@ indicator,Text,shiverov.open-smart-suite,90,90,sleeper extension - glassworm sup
 indicator,Text,ShopifySTORES.builderliquid,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ShopifySTORES.liquidpeptide,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ShowSnowcrypto.SnowShoNo,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,ShuheiNishikawa.mdmark,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Sm1lerrpasy.ton-func-syntax-highlighter,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,SmartContractAI.solaibot,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,smiletime.pandatask,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1287,6 +1291,7 @@ indicator,Text,jonxmack.liquid-snippets,75,75,Removed from VS Marketplace: Imper
 indicator,Text,jpcrs.vim-us-international,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jsjm.compress-download-extension-jsjm,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jsjm.latex-utilities-jsjm,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,juanbanco.web3-tools,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,juanmaguitar.cursor-rules-downloader,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,juanmaguitar.custom-cursor-rules-multirepo,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jupyterv-snippet.jupyter-v-snippets,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high

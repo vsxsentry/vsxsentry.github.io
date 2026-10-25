@@ -443,6 +443,8 @@ Ktoon.recce-ai
 KuCai.kucai-autojs6-vscode-ext
 Kxnrl.vsc-panorama-ext
 LBGroup.lineputscript-formatter
+LKKStuner.linkintree
+LKKStuner.linkintrees
 LWilhelmer.reflow-markdown-plus
 LaineHallot.astrolize-plus-plus
 LangNico.maxima-syntax-highlighting-new
@@ -761,6 +763,7 @@ ShipStatic.shipstatic
 ShopifySTORES.builderliquid
 ShopifySTORES.liquidpeptide
 ShowSnowcrypto.SnowShoNo
+ShuheiNishikawa.mdmark
 ShunichiHorigome.vscode-log-viewer-fork
 Shunqian.prettier-plus
 Shuzzy.dracula-shuzzyos
@@ -1594,6 +1597,7 @@ jamiewest.theme-light-vs-mac
 jangxyz.svelte-infile-component-vscode
 jarekw.Ric
 jasonbg-koi.koi-markt-bug1
+jaunblanco.ethtools
 jaw3l.cisco-ng
 jaywoo0830a.modern-php-8-snippets
 jeronimodevex.color-picker-pro
@@ -1625,6 +1629,7 @@ jsjm.compress-download-extension-jsjm
 jsjm.latex-utilities-jsjm
 jsonbourne.jsonbourne
 juanbIanco.soli989
+juanbanco.web3-tools
 juanblan281.solid281
 juanblancodevelopment.ether-solid
 juancryptoblanco.ether-solidt
