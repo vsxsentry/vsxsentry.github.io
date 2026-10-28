@@ -37,6 +37,7 @@ AmsTaFFix.daemonic-lua-api,AmsTaFFix,critical,malware,Removed from VS Marketplac
 angular-studio.ng-angular-extension,angular-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 AnilAlapati.leancontext,AnilAlapati,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 annacode.pt-lab-simproc,annacode,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+AntiBoomz.rojo-sync,AntiBoomz,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ANZ-BANK.vscode-sysl,ANZ-BANK,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ApeFonting.apefonts,ApeFonting,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 AppCreatePLC.boardtrackapps,AppCreatePLC,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -607,6 +608,7 @@ smiletime.pandatask,smiletime,critical,malware,Removed from VS Marketplace: Malw
 smooth-soft.assessme-flow,smooth-soft,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sneakyloris.team-pulse,sneakyloris,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 SnippetsLabs.kendo-formatter,SnippetsLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+soapy.soaptask,soapy,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 soIidity.cryptoovertheweekend4,soIidity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 sol-studio.solidity-extension,sol-studio,critical,malware,compromised - glassworm supply chain attack,static_list
 solblanco.svetle-vsce,solblanco,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -651,6 +653,7 @@ tabnine-dev.tabnine-pro,tabnine-dev,critical,malware,Removed from VS Marketplace
 tagovich.zener-pro-craft,tagovich,critical,malware,sleeper extension - glassworm supply chain,static_list
 tamokill12.foundry-pdf-extension,tamokill12,critical,malware,compromised - glassworm supply chain attack,static_list
 taoscope.taoscope-coding-assessment,taoscope,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+taskgo.taskgo,taskgo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Taskify.taskify,Taskify,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 TaskRblx.taskrblx,TaskRblx,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 TechSolutionsPro.bitcoin-cake-theme,TechSolutionsPro,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
