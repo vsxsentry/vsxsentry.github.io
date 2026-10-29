@@ -466,6 +466,7 @@ NodeOnline.live-test-live-share,NodeOnline,critical,malware,Removed from VS Mark
 NodePack.live-test-candidate,NodePack,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NodePack.live-test-hr,NodePack,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NodePackOnline.live-test-for-candidate,NodePackOnline,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+NomicFoundations.hardhat-sol,NomicFoundations,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NordicMidnight.codesilence,NordicMidnight,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NotePadExtra.notepadextraplus,NotePadExtra,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 NotToTest.NotToTest,NotToTest,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -785,6 +786,7 @@ Zlmiles.zlmiles-liquid,Zlmiles,critical,malware,Removed from VS Marketplace: Mal
 11011.markdown-shortcuts-like-obsidian-merge,11011,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 11011.markdown-shortcuts-like-obsidian-ob,11011,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 11011.ubuntutheme11011,11011,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+1237410.pw-drawio-outline-pack,1237410,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 128BitStudios.codex-stats-updated,128BitStudios,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 318182456.legado-reader3-vscode,318182456,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 360-Geelib-Copilot-Code.geelibcopilotcode,360-Geelib-Copilot-Code,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -930,6 +932,7 @@ bysabi.prettier-vscode-semistandard,bysabi,high,impersonation,Removed from VS Ma
 bysabi.prettier-vscode-standard,bysabi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 CalebBaird.leaderkey-configurable,CalebBaird,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 camork.fonted-plus,camork,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+CanCLID.vscode-language-pack-yue,CanCLID,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 cancline.cancline-dev,cancline,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 CartagoNova.turbo-console-log-forked-by-cartago,CartagoNova,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 cassandragargoyle.portunix-pdf-viewer,cassandragargoyle,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1099,6 +1102,7 @@ etairi.vscode-idris2,etairi,high,impersonation,Removed from VS Marketplace: Impe
 ethancao.mathpix-markdown-studio,ethancao,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 EvaLiu.vscode-antimony-2,EvaLiu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 EvgeniiShapovalov.sftp-link,EvgeniiShapovalov,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+exeltarkus.easy-projects-manager,exeltarkus,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ext-lab.git-history-plus,ext-lab,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 EXyang.cpp-project-config-ch,EXyang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Eyaa.vue-swift-i18n-plus,Eyaa,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1248,6 +1252,7 @@ inaiv.inaiv,inaiv,high,impersonation,Removed from VS Marketplace: Impersonation.
 Infineon-technologies-ag.modus-toolbox-for-vscode,Infineon-technologies-ag,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 infinics.infinics-ai-assistant,infinics,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 InnuendoPi.vscode-espfs,InnuendoPi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+inu1255.easy-sftp,inu1255,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 involvex.involvexs-opencode-gui,involvex,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 iridium.pinkcandy,iridium,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 irodev.php-blade-livewire-formatter,irodev,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1269,6 +1274,7 @@ jacky32.gemfile-insights,jacky32,high,impersonation,Removed from VS Marketplace:
 jackywjs.jacky-jest-runner,jackywjs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jackywjs.node-modules-enhanced,jackywjs,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jaeck-zj.highlight-words-by-jack,jaeck-zj,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+JaeHyeokee.midnight-neon-vscode,JaeHyeokee,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 JahidLimon.php-namespace-resolver-plus,JahidLimon,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jalexiscv.sftp-forge,jalexiscv,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jalexiscv.vscode-language-pack-es-co,jalexiscv,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1281,6 +1287,7 @@ JavvDev.one-candy-dark-vs,JavvDev,high,impersonation,Removed from VS Marketplace
 jaw3l.cisco-ng,jaw3l,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jaywoo0830a.modern-php-8-snippets,jaywoo0830a,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 JDCOM.coding-workflow,JDCOM,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+jeevavarshan.ember-tracker,jeevavarshan,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 JehanWeerasuriya.vscode-nestjs-snippets-backend-development,JehanWeerasuriya,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 jeronimodevex.color-picker-pro,jeronimodevex,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Jial.claude-paper-theme,Jial,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1463,6 +1470,7 @@ marvin63597.claude-dd,marvin63597,high,impersonation,Removed from VS Marketplace
 mathieu42.monokai-dark-by-mathieu42,mathieu42,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 MatthewEvans.click-board,MatthewEvans,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 MaximeKjaer.scala,MaximeKjaer,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+mcdottok.dsh-coding-agent,mcdottok,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Med-H.git-graph-revamped,Med-H,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 meetrice.mysql-blade,meetrice,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 meijiahao.video-preview-fast,meijiahao,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1510,6 +1518,7 @@ nathan-0910.ftl-dev,nathan-0910,high,impersonation,Removed from VS Marketplace: 
 NavAI-B.svn-scm-modified,NavAI-B,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 naveenkunder.format-html,naveenkunder,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 nbreier.virtualworkspacesf,nbreier,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+NecatiARSLAN.flink-vscode-extension,NecatiARSLAN,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 neko233-com.jenkinsfile-free,neko233-com,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 NeoMain.Neo-Better-DevTracker,NeoMain,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ng-jk.sftp-ng-jk,ng-jk,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1583,6 +1592,7 @@ PCODE-pl.vscode-phpmd-suppress,PCODE-pl,high,impersonation,Removed from VS Marke
 pedrocmota.workspace-formatter-multiple,pedrocmota,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 PeterC.i18n-ally-fork-peter,PeterC,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 peterdmv.pine-script-highlighting,peterdmv,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+petrichoral.night-owl-reforged,petrichoral,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 phantomgz.vscode-theme-onedark-c,phantomgz,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 phillip-merritt.vscode-beads-rust,phillip-merritt,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 PhungXuanAnh.auto-run-command-with-condition,PhungXuanAnh,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1641,6 +1651,7 @@ pvjagtap.arxml-workbench,pvjagtap,high,impersonation,Removed from VS Marketplace
 pvparuchuri.sas,pvparuchuri,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 qianzijiao.continue-with-code-swift,qianzijiao,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 qiyefazhan.super-agent,qiyefazhan,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+QSPFoundation.qsp-lsp,QSPFoundation,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 quantix.quantix-pro,quantix,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 qusic.easysass-ng,qusic,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 qutto.markdown-navigation-new,qutto,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1856,6 +1867,7 @@ valentinbeaumont.youtrack-vscode,valentinbeaumont,high,impersonation,Removed fro
 vbtheory.gitlab-pipeline-monitor-advanced,vbtheory,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 veraeva.RojoDB,veraeva,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 verreauxblack.vscode-git-commands-helper,verreauxblack,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+VersaYT.42header-angouleme,VersaYT,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 vibe-xyz.vibe-xyz,vibe-xyz,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 VibeKanban.vibe-kanban-vscode,VibeKanban,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Vikang.acnh-vscode-theme,Vikang,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1907,6 +1919,7 @@ wuyujiesong.opencode-update,wuyujiesong,high,impersonation,Removed from VS Marke
 WuZhiguo.callgraph-viz,WuZhiguo,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 WuZhiguo.callviz,WuZhiguo,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 wym.demo-wym001,wym,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+XiaNight.better-comments-regex,XiaNight,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 xiaolvpuzi.vim-smart-input-pro,xiaolvpuzi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 XiaoShen.sol-intro,XiaoShen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 xiaym-gh.background-cover-simplified,xiaym-gh,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1949,6 +1962,7 @@ YuTengjing.vscode-colorize-plus,YuTengjing,high,impersonation,Removed from VS Ma
 YuTengjing.vscode-github-actions-tj,YuTengjing,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 yves0003.f4data-parq,yves0003,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 yves0003.f4data-prqt,yves0003,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+yves0003.f4dataparq,yves0003,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 yves0003.f4dataprqt,yves0003,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 z-riley.helix-emulation,z-riley,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ZAMBAR.riscv-venus-cs110,ZAMBAR,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -2237,6 +2251,7 @@ CamelliaTse.pi-chat,CamelliaTse,medium,untrustworthy,Removed from VS Marketplace
 capplicorn.plaintextplus,capplicorn,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 carrycodeai.carrycode-vscode,carrycodeai,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 cbs-consulting.vkm-local,cbs-consulting,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+cerberusx.session-chat-for-claude-code,cerberusx,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 changeradar.change-radar-devtools,changeradar,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 charcoal141II.imu-view,charcoal141II,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 chenjianan.battle-city-for-vscode,chenjianan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -2461,6 +2476,7 @@ VibeRaven.viberaven-station,VibeRaven,medium,untrustworthy,Removed from VS Marke
 VideCode.vide-code,VideCode,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 VinvAI.VinvAI,VinvAI,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 voanhnd.copilot-credit-counter,voanhnd,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+vpp-lang.vplusplus,vpp-lang,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 VSCodeIndustries.azure-devops-sync-helper-presso,VSCodeIndustries,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 wang-yang.MindSprout,wang-yang,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 wavepeak.slatecanvas-dev,wavepeak,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

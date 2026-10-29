@@ -466,6 +466,7 @@ indicator,Text,NodeOnline.live-test-live-share,90,90,Removed from VS Marketplace
 indicator,Text,NodePack.live-test-candidate,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NodePack.live-test-hr,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NodePackOnline.live-test-for-candidate,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,NomicFoundations.hardhat-sol,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NordicMidnight.codesilence,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NotePadExtra.notepadextraplus,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,NotToTest.NotToTest,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -785,6 +786,7 @@ indicator,Text,11011.blenderPluginDevTool11011,75,75,Removed from VS Marketplace
 indicator,Text,11011.markdown-shortcuts-like-obsidian-merge,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,11011.markdown-shortcuts-like-obsidian-ob,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,11011.ubuntutheme11011,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,1237410.pw-drawio-outline-pack,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,128BitStudios.codex-stats-updated,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,318182456.legado-reader3-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,360-Geelib-Copilot-Code.geelibcopilotcode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -930,6 +932,7 @@ indicator,Text,bysabi.prettier-vscode-semistandard,75,75,Removed from VS Marketp
 indicator,Text,bysabi.prettier-vscode-standard,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,CalebBaird.leaderkey-configurable,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,camork.fonted-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,CanCLID.vscode-language-pack-yue,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cancline.cancline-dev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,CartagoNova.turbo-console-log-forked-by-cartago,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cassandragargoyle.portunix-pdf-viewer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1099,6 +1102,7 @@ indicator,Text,etairi.vscode-idris2,75,75,Removed from VS Marketplace: Impersona
 indicator,Text,ethancao.mathpix-markdown-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,EvaLiu.vscode-antimony-2,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,EvgeniiShapovalov.sftp-link,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,exeltarkus.easy-projects-manager,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ext-lab.git-history-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,EXyang.cpp-project-config-ch,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Eyaa.vue-swift-i18n-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1248,6 +1252,7 @@ indicator,Text,inaiv.inaiv,75,75,Removed from VS Marketplace: Impersonation.,imp
 indicator,Text,Infineon-technologies-ag.modus-toolbox-for-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,infinics.infinics-ai-assistant,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,InnuendoPi.vscode-espfs,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,inu1255.easy-sftp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,involvex.involvexs-opencode-gui,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,iridium.pinkcandy,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,irodev.php-blade-livewire-formatter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1269,6 +1274,7 @@ indicator,Text,jacky32.gemfile-insights,75,75,Removed from VS Marketplace: Imper
 indicator,Text,jackywjs.jacky-jest-runner,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jackywjs.node-modules-enhanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jaeck-zj.highlight-words-by-jack,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,JaeHyeokee.midnight-neon-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,JahidLimon.php-namespace-resolver-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jalexiscv.sftp-forge,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jalexiscv.vscode-language-pack-es-co,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1281,6 +1287,7 @@ indicator,Text,JavvDev.one-candy-dark-vs,75,75,Removed from VS Marketplace: Impe
 indicator,Text,jaw3l.cisco-ng,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jaywoo0830a.modern-php-8-snippets,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,JDCOM.coding-workflow,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,jeevavarshan.ember-tracker,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,JehanWeerasuriya.vscode-nestjs-snippets-backend-development,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,jeronimodevex.color-picker-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Jial.claude-paper-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1463,6 +1470,7 @@ indicator,Text,marvin63597.claude-dd,75,75,Removed from VS Marketplace: Imperson
 indicator,Text,mathieu42.monokai-dark-by-mathieu42,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MatthewEvans.click-board,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,MaximeKjaer.scala,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,mcdottok.dsh-coding-agent,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Med-H.git-graph-revamped,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,meetrice.mysql-blade,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,meijiahao.video-preview-fast,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1510,6 +1518,7 @@ indicator,Text,nathan-0910.ftl-dev,75,75,Removed from VS Marketplace: Impersonat
 indicator,Text,NavAI-B.svn-scm-modified,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,naveenkunder.format-html,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,nbreier.virtualworkspacesf,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,NecatiARSLAN.flink-vscode-extension,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,neko233-com.jenkinsfile-free,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,NeoMain.Neo-Better-DevTracker,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ng-jk.sftp-ng-jk,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1583,6 +1592,7 @@ indicator,Text,PCODE-pl.vscode-phpmd-suppress,75,75,Removed from VS Marketplace:
 indicator,Text,pedrocmota.workspace-formatter-multiple,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PeterC.i18n-ally-fork-peter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,peterdmv.pine-script-highlighting,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,petrichoral.night-owl-reforged,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,phantomgz.vscode-theme-onedark-c,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,phillip-merritt.vscode-beads-rust,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,PhungXuanAnh.auto-run-command-with-condition,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1641,6 +1651,7 @@ indicator,Text,pvjagtap.arxml-workbench,75,75,Removed from VS Marketplace: Imper
 indicator,Text,pvparuchuri.sas,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,qianzijiao.continue-with-code-swift,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,qiyefazhan.super-agent,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,QSPFoundation.qsp-lsp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,quantix.quantix-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,qusic.easysass-ng,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,qutto.markdown-navigation-new,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1856,6 +1867,7 @@ indicator,Text,valentinbeaumont.youtrack-vscode,75,75,Removed from VS Marketplac
 indicator,Text,vbtheory.gitlab-pipeline-monitor-advanced,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,veraeva.RojoDB,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,verreauxblack.vscode-git-commands-helper,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,VersaYT.42header-angouleme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,vibe-xyz.vibe-xyz,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,VibeKanban.vibe-kanban-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Vikang.acnh-vscode-theme,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1907,6 +1919,7 @@ indicator,Text,wuyujiesong.opencode-update,75,75,Removed from VS Marketplace: Im
 indicator,Text,WuZhiguo.callgraph-viz,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,WuZhiguo.callviz,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,wym.demo-wym001,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,XiaNight.better-comments-regex,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xiaolvpuzi.vim-smart-input-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,XiaoShen.sol-intro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,xiaym-gh.background-cover-simplified,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1949,6 +1962,7 @@ indicator,Text,YuTengjing.vscode-colorize-plus,75,75,Removed from VS Marketplace
 indicator,Text,YuTengjing.vscode-github-actions-tj,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,yves0003.f4data-parq,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,yves0003.f4data-prqt,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,yves0003.f4dataparq,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,yves0003.f4dataprqt,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,z-riley.helix-emulation,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ZAMBAR.riscv-venus-cs110,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -2237,6 +2251,7 @@ indicator,Text,CamelliaTse.pi-chat,50,50,Removed from VS Marketplace: Untrustwor
 indicator,Text,capplicorn.plaintextplus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,carrycodeai.carrycode-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,cbs-consulting.vkm-local,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,cerberusx.session-chat-for-claude-code,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,changeradar.change-radar-devtools,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,charcoal141II.imu-view,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,chenjianan.battle-city-for-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2461,6 +2476,7 @@ indicator,Text,VibeRaven.viberaven-station,50,50,Removed from VS Marketplace: Un
 indicator,Text,VideCode.vide-code,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,VinvAI.VinvAI,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,voanhnd.copilot-credit-counter,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,vpp-lang.vplusplus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,VSCodeIndustries.azure-devops-sync-helper-presso,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,wang-yang.MindSprout,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,wavepeak.slatecanvas-dev,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
