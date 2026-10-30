@@ -1549,6 +1549,7 @@ numa-forge.sftp-enhanced,numa-forge,high,impersonation,Removed from VS Marketpla
 numso.vscode-tailwindcss-with-hex-colors,numso,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 nurav.ncodes,nurav,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 octohash.powermode-plus,octohash,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+oewer-solutions.odoo-runner,oewer-solutions,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 okg21.bigquery-explorer,okg21,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 okok909090.csv-grid-editor-plus,okok909090,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 okok909090.fast-open-csv-and-xlsx-plus,okok909090,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1723,6 +1724,7 @@ SamuelPinto.prettier-vscode-pluss,SamuelPinto,high,impersonation,Removed from VS
 saurav-sinha.CodeClaude,saurav-sinha,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 schardosin.cline-for-sap-ai-core,schardosin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 sci-inc-publisher.sci-inc,sci-inc-publisher,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+se-nora.noras-lsl-fp,se-nora,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 SEAFTeam.SEAF,SEAFTeam,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 secunit.caddyfile-syntax,secunit,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 seeker.super-change-case-fork,seeker,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -2078,6 +2080,9 @@ ms-vscode-remote.remote-wsl,ms-vscode-remote,medium,risky-remote-access,WSL: ope
 ms-vscode.remote-explorer,ms-vscode,medium,risky-remote-access,Remote Explorer: unified view of all remote machines accessible via SSH and Tunnels - enumerates and provides quick access to all configured remote targets,static_list
 priyankark.AirCodum-app,priyankark,medium,risky-remote-access,AirCodum: smartphone-based remote control for VS Code - control IDE actions and send files from phone - out-of-band remote control channel,static_list
 kanin-020.vscode-proxy-manager,kanin-020,medium,risky-tunnel,VSCode Proxy Manager: manage proxy settings - can redirect VS Code network traffic through arbitrary proxies - may bypass corporate proxy controls,static_list
+1237410.pw-ghost-code-helper,1237410,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+1237410.pw-inspector-handbook,1237410,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+1237410.pw-test-runner-suite,1237410,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.market,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledin,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,71eb6d78-f65c-69f8-a0fd-58407e50bfc6,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
@@ -2319,6 +2324,7 @@ hakor-plugins.tsmap-vscode,hakor-plugins,medium,untrustworthy,Removed from VS Ma
 haseeb-raza.terminal-faah,haseeb-raza,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 HeleneSmith.rSW,HeleneSmith,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 HuxLabs.huxlabsapp,HuxLabs,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+ink-byte.sgf-preview,ink-byte,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Involute.bs5-kit,Involute,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 IONDev.iondev,IONDev,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 ironplc.ironplc,ironplc,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

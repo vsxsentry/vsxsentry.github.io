@@ -1549,6 +1549,7 @@ indicator,Text,numa-forge.sftp-enhanced,75,75,Removed from VS Marketplace: Imper
 indicator,Text,numso.vscode-tailwindcss-with-hex-colors,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,nurav.ncodes,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,octohash.powermode-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,oewer-solutions.odoo-runner,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okg21.bigquery-explorer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okok909090.csv-grid-editor-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okok909090.fast-open-csv-and-xlsx-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1723,6 +1724,7 @@ indicator,Text,SamuelPinto.prettier-vscode-pluss,75,75,Removed from VS Marketpla
 indicator,Text,saurav-sinha.CodeClaude,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,schardosin.cline-for-sap-ai-core,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,sci-inc-publisher.sci-inc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,se-nora.noras-lsl-fp,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,SEAFTeam.SEAF,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,secunit.caddyfile-syntax,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,seeker.super-change-case-fork,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -2078,6 +2080,9 @@ indicator,Text,ms-vscode-remote.remote-wsl,50,50,WSL: opens folders in Windows S
 indicator,Text,ms-vscode.remote-explorer,50,50,Remote Explorer: unified view of all remote machines accessible via SSH and Tunnels - enumerates and provides quick access to all configured remote targets,risky-remote-access;medium
 indicator,Text,priyankark.AirCodum-app,50,50,AirCodum: smartphone-based remote control for VS Code - control IDE actions and send files from phone - out-of-band remote control channel,risky-remote-access;medium
 indicator,Text,kanin-020.vscode-proxy-manager,50,50,VSCode Proxy Manager: manage proxy settings - can redirect VS Code network traffic through arbitrary proxies - may bypass corporate proxy controls,risky-tunnel;medium
+indicator,Text,1237410.pw-ghost-code-helper,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,1237410.pw-inspector-handbook,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,1237410.pw-test-runner-suite,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.market,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledin,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,71eb6d78-f65c-69f8-a0fd-58407e50bfc6.twilightofthewarriorswalledinhdtw,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -2319,6 +2324,7 @@ indicator,Text,hakor-plugins.tsmap-vscode,50,50,Removed from VS Marketplace: Unt
 indicator,Text,haseeb-raza.terminal-faah,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,HeleneSmith.rSW,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,HuxLabs.huxlabsapp,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,ink-byte.sgf-preview,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Involute.bs5-kit,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,IONDev.iondev,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ironplc.ironplc,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
