@@ -31,6 +31,7 @@ indicator,Text,alessandroraffa.tangyr,90,90,Removed from VS Marketplace: Malware
 indicator,Text,AlfonsoGonzalez.VisualXML,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,aligntool.extension-align-professional-tool,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,AllenBarry.Solid,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,alphainnovations.griddeck-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,alphasolutions.studiotask-app,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AmmarTest.hello-ammar-github,90,90,poc - steals tokens,malware;critical
 indicator,Text,AmsTaFFix.daemonic-lua-api,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -114,6 +115,7 @@ indicator,Text,CanvasLLC.Canvas-Boards,90,90,Removed from VS Marketplace: Malwar
 indicator,Text,Canvasorg.Canvas-Boarding,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,CanvasSoftworks.Canvas-Board,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,carveltstone.chatbuddy-auto-suite,90,90,sleeper extension - glassworm supply chain,malware;critical
+indicator,Text,cascadepeak.studioplan-prod,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,Cencurity.cencurity-connector,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,ceo.sammarco,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,charcoal-mint-studio.theme-charcoal-mint,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -133,6 +135,7 @@ indicator,Text,closedtierenchant.vscode-awesome-icons,90,90,sleeper extension - 
 indicator,Text,CloudianApp.CloudianCompanion-56d02aa8da72,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,cmd-studio.pua,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,CMSbrand.liquidfred,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,cobaltstudios.emberflow-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,cobot100.cosave101,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,cobot100.cursor100,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,cobot100.kilobrasil,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -556,6 +559,7 @@ indicator,Text,QuantumCodeLabs.ayu-theme,90,90,Removed from VS Marketplace: Malw
 indicator,Text,QuantumCodeLabs.darky-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,QuantumCodeLabs.dracula-pro-theme,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,QuantumCodeLabs.qoodo-ai-assistant,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,quasarventures.novawork-app,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RabobankAI.rabobank-code-assistant,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,RachelFront.asdtif,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,raidenshogun.javascript-null-sequence,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -962,6 +966,7 @@ indicator,Text,cloorc.vscefiles,75,75,Removed from VS Marketplace: Impersonation
 indicator,Text,cn00.duckdb-lab,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,cn00.sqltools-duckdb,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codelogix.catppuccin-darker-vsc,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,CodeNyangi.type-the-change,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codeomnitrix.firestore-studio,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codesheen.ultra-smooth-ui,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,codevsce.codelddb-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1550,6 +1555,7 @@ indicator,Text,numso.vscode-tailwindcss-with-hex-colors,75,75,Removed from VS Ma
 indicator,Text,nurav.ncodes,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,octohash.powermode-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,oewer-solutions.odoo-runner,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,oguimbal.vscode-mocha-test-adapter,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okg21.bigquery-explorer,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okok909090.csv-grid-editor-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,okok909090.fast-open-csv-and-xlsx-plus,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -2209,6 +2215,9 @@ indicator,Text,SlashMarkHub.auto-log-tracker-by-slashmark,50,50,Removed from VS 
 indicator,Text,SlashMarkHub.error-explainer-by-slashmark,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,SlashMarkHub.global-notes-snippets-by-slashmark,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,SlashMarkITSolutionsOPCPvtLtd.slashmark-json-yaml-converter,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,spicarrtechnology.darkbitch-theme,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,spicarrtechnology.darling,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,spicarrtechnology.nigga-theme,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,toilamanh.claude-usage-pilot-v2,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,vox-studio.vox-language,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,ZeroGAIzerog-ai.zerog-vscode-bridge,50,50,Removed from VS Marketplace: Spam.,spam;medium

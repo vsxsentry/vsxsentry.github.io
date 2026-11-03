@@ -31,6 +31,7 @@ alessandroraffa.tangyr,alessandroraffa,critical,malware,Removed from VS Marketpl
 AlfonsoGonzalez.VisualXML,AlfonsoGonzalez,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 aligntool.extension-align-professional-tool,aligntool,critical,malware,compromised - glassworm supply chain attack,static_list
 AllenBarry.Solid,AllenBarry,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+alphainnovations.griddeck-dev,alphainnovations,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 alphasolutions.studiotask-app,alphasolutions,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 AmmarTest.hello-ammar-github,AmmarTest,critical,malware,poc - steals tokens,static_list
 AmsTaFFix.daemonic-lua-api,AmsTaFFix,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -114,6 +115,7 @@ CanvasLLC.Canvas-Boards,CanvasLLC,critical,malware,Removed from VS Marketplace: 
 Canvasorg.Canvas-Boarding,Canvasorg,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 CanvasSoftworks.Canvas-Board,CanvasSoftworks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 carveltstone.chatbuddy-auto-suite,carveltstone,critical,malware,sleeper extension - glassworm supply chain,static_list
+cascadepeak.studioplan-prod,cascadepeak,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 Cencurity.cencurity-connector,Cencurity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 ceo.sammarco,ceo,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 charcoal-mint-studio.theme-charcoal-mint,charcoal-mint-studio,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -133,6 +135,7 @@ closedtierenchant.vscode-awesome-icons,closedtierenchant,critical,malware,sleepe
 CloudianApp.CloudianCompanion-56d02aa8da72,CloudianApp,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 cmd-studio.pua,cmd-studio,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 CMSbrand.liquidfred,CMSbrand,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+cobaltstudios.emberflow-dev,cobaltstudios,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 cobot100.cosave101,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 cobot100.cursor100,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 cobot100.kilobrasil,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -556,6 +559,7 @@ QuantumCodeLabs.ayu-theme,QuantumCodeLabs,critical,malware,Removed from VS Marke
 QuantumCodeLabs.darky-ai,QuantumCodeLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 QuantumCodeLabs.dracula-pro-theme,QuantumCodeLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 QuantumCodeLabs.qoodo-ai-assistant,QuantumCodeLabs,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+quasarventures.novawork-app,quasarventures,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RabobankAI.rabobank-code-assistant,RabobankAI,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 RachelFront.asdtif,RachelFront,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 raidenshogun.javascript-null-sequence,raidenshogun,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -962,6 +966,7 @@ cloorc.vscefiles,cloorc,high,impersonation,Removed from VS Marketplace: Imperson
 cn00.duckdb-lab,cn00,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 cn00.sqltools-duckdb,cn00,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 codelogix.catppuccin-darker-vsc,codelogix,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+CodeNyangi.type-the-change,CodeNyangi,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 codeomnitrix.firestore-studio,codeomnitrix,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 codesheen.ultra-smooth-ui,codesheen,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 codevsce.codelddb-vscode,codevsce,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1550,6 +1555,7 @@ numso.vscode-tailwindcss-with-hex-colors,numso,high,impersonation,Removed from V
 nurav.ncodes,nurav,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 octohash.powermode-plus,octohash,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 oewer-solutions.odoo-runner,oewer-solutions,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+oguimbal.vscode-mocha-test-adapter,oguimbal,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 okg21.bigquery-explorer,okg21,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 okok909090.csv-grid-editor-plus,okok909090,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 okok909090.fast-open-csv-and-xlsx-plus,okok909090,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -2209,6 +2215,9 @@ SlashMarkHub.auto-log-tracker-by-slashmark,SlashMarkHub,medium,spam,Removed from
 SlashMarkHub.error-explainer-by-slashmark,SlashMarkHub,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 SlashMarkHub.global-notes-snippets-by-slashmark,SlashMarkHub,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 SlashMarkITSolutionsOPCPvtLtd.slashmark-json-yaml-converter,SlashMarkITSolutionsOPCPvtLtd,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+spicarrtechnology.darkbitch-theme,spicarrtechnology,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+spicarrtechnology.darling,spicarrtechnology,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+spicarrtechnology.nigga-theme,spicarrtechnology,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 toilamanh.claude-usage-pilot-v2,toilamanh,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 vox-studio.vox-language,vox-studio,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 ZeroGAIzerog-ai.zerog-vscode-bridge,ZeroGAIzerog-ai,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
