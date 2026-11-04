@@ -510,6 +510,7 @@ MarcusLockwood.wgbk,MarcusLockwood,critical,malware,Removed from VS Marketplace:
 markdown.markdown-all-pro,markdown,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 MarkdownLinks.markdown-links-pro,MarkdownLinks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 MarkdownLinks.tunnel-pro,MarkdownLinks,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+Markers.markersboard,Markers,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 marketplacer.marketplacer,marketplacer,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 MarkH.chatgpt-autocoder-vscode,MarkH,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 MarkH.claude-autocoder-vscode,MarkH,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -831,6 +832,7 @@ veldekov.csv-pro-suite,veldekov,critical,malware,sleeper extension - glassworm s
 VelocityCoderPro.velocitycodeproupdate,VelocityCoderPro,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 veltarik.duplicate-fast-helper,veltarik,critical,malware,sleeper extension - glassworm supply chain,static_list
 vendrakos.rumdl-pro-kit,vendrakos,critical,malware,sleeper extension - glassworm supply chain,static_list
+VeniceProductions.marker-board,VeniceProductions,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 verified.pypi-deepseek,verified,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 verified.pypi-keyBank,verified,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 vertexbridge.paneldesk-prod,vertexbridge,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1185,9 +1187,11 @@ diegomontania.DeepSeekChatForVisualStudio,diegomontania,high,impersonation,Remov
 DiegoPandiello.aws-srp-rest-client,DiegoPandiello,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 DiegoPandiello.elixir-ls-test-args,DiegoPandiello,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 DigitalJSMTUGroup.digitaljsmtu,DigitalJSMTUGroup,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+dileepar26.vscode-todoist,dileepar26,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 DipakParmar.cumulusci,DipakParmar,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Direwolf.deepseek-harness-client,Direwolf,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 dloux.i18n-ally-skip-duplicate,dloux,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+DLS.vscode-stylelint-0-87-6,DLS,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 doctorliang-continue.local-continue,doctorliang-continue,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 donaldtrump-coder.image-information,donaldtrump-coder,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 DonJayamne.DonJayamne,DonJayamne,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1856,6 +1860,7 @@ samuanv.turbo-console-log-single-quotes,samuanv,high,impersonation,Removed from 
 SamuelPinto.better-vscode-html-css,SamuelPinto,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 SamuelPinto.better-vscode-html-css-support,SamuelPinto,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 SamuelPinto.prettier-vscode-pluss,SamuelPinto,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+SanmaoZhao.vscode-stylelint-legacy,SanmaoZhao,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 saurav-sinha.CodeClaude,saurav-sinha,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 schardosin.cline-for-sap-ai-core,schardosin,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 sci-inc-publisher.sci-inc,sci-inc-publisher,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages

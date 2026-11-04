@@ -138,6 +138,7 @@ Cryptocurrency
 CursorFree
 CyrusRune
 DATEx2
+DLS
 DRAWNCODES
 DaChengZhou
 DaMaoCloud
@@ -346,6 +347,7 @@ MarkHutchins
 MarkWood
 MarkdownLinks
 MarkdownViewerPro
+Markers
 MarketingThibs
 Marvello
 MasterByte
@@ -468,6 +470,7 @@ Safee-ullah1
 SalHax
 Sammy
 SamuelPinto
+SanmaoZhao
 Sayantan710
 SeeonesStudio
 Senforsce
@@ -546,6 +549,7 @@ VSDeveloper
 VXL
 VanessaAster
 VelocityCoderPro
+VeniceProductions
 VersaYT
 VibeKanban
 Vikang
@@ -845,6 +849,7 @@ dg19
 diamond
 diegofernandezpandiello
 diegomontania
+dileepar26
 dingdao-opensource
 diola
 discord-inc

@@ -204,6 +204,7 @@ Cryptocurrency.asbaquin
 CursorFree.cursor-free
 CyrusRune.codearts-cli-launcher
 DATEx2.vscode-gutter-preview-by-datex2l
+DLS.vscode-stylelint-0-87-6
 DRAWNCODES.sftp-sync-drawncodes
 DaChengZhou.zed-theme-recreated
 DaMaoCloud.damao-aie
@@ -556,6 +557,7 @@ MarkWood.nonmalicious2
 MarkdownLinks.markdown-links-pro
 MarkdownLinks.tunnel-pro
 MarkdownViewerPro.MarkdownViewerPro
+Markers.markersboard
 MarketingThibs.ampscriptsnippets
 Marvello.js-beautify-wrapper
 MasterByte.masterb-argo-kubernetes-utils
@@ -763,6 +765,7 @@ Sammy.clipboard-manager-with-cycling
 SamuelPinto.better-vscode-html-css
 SamuelPinto.better-vscode-html-css-support
 SamuelPinto.prettier-vscode-pluss
+SanmaoZhao.vscode-stylelint-legacy
 Sawalhaa.sawalhaa
 Sayantan710.ollot
 SchlafferBenjamin.terminal-compiler
@@ -918,6 +921,7 @@ VSDeveloper.universal-intellisense
 VXL.vxl
 VanessaAster.etherefounds
 VelocityCoderPro.velocitycodeproupdate
+VeniceProductions.marker-board
 VersaYT.42header-angouleme
 VibeKanban.vibe-kanban-vscode
 VibeRaven.viberaven-station
@@ -1360,6 +1364,7 @@ dhakshnamoorthi.nexus-code-agent
 diamond.diamond
 diegofernandezpandiello.super-elixir-ls
 diegomontania.DeepSeekChatForVisualStudio
+dileepar26.vscode-todoist
 dimitrius-cadimout.confluence-publisher
 dinesh112.hml-code-generator
 dingdao-opensource.pwa-kit-studio
