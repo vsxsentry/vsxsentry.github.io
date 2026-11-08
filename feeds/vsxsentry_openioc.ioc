@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-a483e4fb-3a4e-4a9a-ae47-809213318619">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-1c251d86-d6ae-48cd-8aef-09ca0dc0c749">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-11-08T05:15:24+00:00</description>
+<description>Generated: 2026-11-08T12:58:32+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
