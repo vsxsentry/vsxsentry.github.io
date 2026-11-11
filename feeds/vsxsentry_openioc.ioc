@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-865a0855-353d-4101-a23e-b75d1747de8f">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-57c1066d-3e05-43ed-ac27-d340914732dc">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-11-11T05:25:23+00:00</description>
+<description>Generated: 2026-11-11T13:48:59+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -10447,6 +10447,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">SecretTea.project-tea</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">seeed-studio.seeed-xiao-zephyr-assistant</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
