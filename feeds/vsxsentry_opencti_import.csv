@@ -169,6 +169,7 @@ indicator,Text,cobot100.kilobrasil,90,90,Removed from VS Marketplace: Malware.,m
 indicator,Text,cobot100.kilochinese,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,cobot100.kilojapan,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,codbroks.compile-runnner-extension,90,90,compromised - glassworm supply chain attack,malware;critical
+indicator,Text,CodeAIAssistant.CodeAIAssistant,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,CodeSecureDev.dependency-scan,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,codevunmis.csv-sql-tsv-rainbow,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,codivus.codivus,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -1503,6 +1504,7 @@ indicator,Text,kindly-robotics.inferall-ai,75,75,Removed from VS Marketplace: Im
 indicator,Text,kingace2056.json-to-dart-fixed-kingace2056,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,kiracode.kira-code,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,KirillKnize.test-extension-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,kliklamala.nimala-raku-lsp-client,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Klioai.Klioai,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,KMSLV.c-ai-chan,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Knotron.treky-dev,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high

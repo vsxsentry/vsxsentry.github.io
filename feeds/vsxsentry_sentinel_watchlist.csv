@@ -169,6 +169,7 @@ cobot100.kilobrasil,cobot100,critical,malware,Removed from VS Marketplace: Malwa
 cobot100.kilochinese,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 cobot100.kilojapan,cobot100,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 codbroks.compile-runnner-extension,codbroks,critical,malware,compromised - glassworm supply chain attack,static_list
+CodeAIAssistant.CodeAIAssistant,CodeAIAssistant,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 CodeSecureDev.dependency-scan,CodeSecureDev,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 codevunmis.csv-sql-tsv-rainbow,codevunmis,critical,malware,compromised - glassworm supply chain attack,static_list
 codivus.codivus,codivus,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -1503,6 +1504,7 @@ kindly-robotics.inferall-ai,kindly-robotics,high,impersonation,Removed from VS M
 kingace2056.json-to-dart-fixed-kingace2056,kingace2056,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 kiracode.kira-code,kiracode,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 KirillKnize.test-extension-vscode,KirillKnize,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+kliklamala.nimala-raku-lsp-client,kliklamala,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Klioai.Klioai,Klioai,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 KMSLV.c-ai-chan,KMSLV,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Knotron.treky-dev,Knotron,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
