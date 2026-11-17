@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-11-16T15:14:19+00:00",
-  "total_records": 2757,
-  "total_malicious": 2685,
+  "generated_utc": "2026-11-17T00:03:28+00:00",
+  "total_records": 2762,
+  "total_malicious": 2690,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 948,
-    "high": 1238,
+    "critical": 949,
+    "high": 1240,
     "low": 22,
-    "medium": 549
+    "medium": 551
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1219,
+    "impersonation": 1221,
     "impersonation-malware": 5,
-    "malware": 948,
+    "malware": 949,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -34,9 +34,9 @@
     "spam": 146,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 328
+    "untrustworthy": 330
   },
-  "total_publishers": 2140,
+  "total_publishers": 2143,
   "top_publishers": [
     [
       "pit00",
@@ -59,12 +59,12 @@
       19
     ],
     [
-      "LinJun",
-      18
+      "LazowskiAnton",
+      19
     ],
     [
-      "LazowskiAnton",
-      17
+      "LinJun",
+      18
     ],
     [
       "viralinclive",

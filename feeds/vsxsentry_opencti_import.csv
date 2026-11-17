@@ -315,6 +315,7 @@ indicator,Text,fluxbyte.studiotasks-app,90,90,Removed from VS Marketplace: Malwa
 indicator,Text,fluxsecurity.zephyrsync-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,fluxservices.flowhub-dev,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,fluxstone.trellisplan-app,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,FNHCreates.canvas-cards,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,FontingFonts.monkeyfont,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,forkelbat.supersigil-rich-hub,90,90,sleeper extension - glassworm supply chain,malware;critical
@@ -1398,6 +1399,7 @@ indicator,Text,hqvjet.pixel-agents-remake,75,75,Removed from VS Marketplace: Imp
 indicator,Text,HrushikeshPhapale.ClaudeCodeForVS,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hsn8086.cph-hsn-edition,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,huangshiyu.sftp-uploader,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,huntrole.assessment-tool,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hwrn001.snakemake-lang-pre-release,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hxyou.commit-assist,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,hxyou.make-it,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -1415,6 +1417,7 @@ indicator,Text,idanSaban.turbo-console-debuglog,75,75,Removed from VS Marketplac
 indicator,Text,idea-icons-themes-for-vscode.idea-icons-themes-for-vscode,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,idlesilver.comment-driver,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ifplusor.semantic-lunaria,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,IhabRabaya.ihab-arabic-python-terminal,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ihyajb.cfxlua-intellisense,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,Ilham-ahmedow.sftp20,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,illusions-x.yeleee-faaaah,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -2555,6 +2558,8 @@ indicator,Text,ktav-lang.ktav,50,50,Removed from VS Marketplace: Untrustworthy.,
 indicator,Text,kyleobr.Paste-Image-zen,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Lars-Ve.cses-tracker,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,laurence06363.laurence-hello-world-5,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,LazowskiAnton.CsvSmith,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,LazowskiAnton.ImageSmith,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,LeiaBalan.LeiaBalan,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,LeiaBalan.luaulink,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,LeiaBalan.roblox-sync,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium

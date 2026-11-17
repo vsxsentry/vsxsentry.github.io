@@ -299,6 +299,7 @@ Extensions-Topic.polish
 Extensions-Topic.portugese
 Eyaa.vue-swift-i18n-plus
 FEYeh.ssc-ibs
+FNHCreates.canvas-cards
 FRONT-END-AI.front-end-ai
 FXEdison.leekfund-fxedison
 FaceCrypto.chocolatesnack
@@ -377,6 +378,7 @@ IZOT-TE-3-FINAL.static-code-parser-FINAL
 IZOT-TE-3.static-code-parser
 IamTheKaaZZ.valgrind-debug
 Iconkieftwo.icon-theme-materiall
+IhabRabaya.ihab-arabic-python-terminal
 Ilham-ahmedow.sftp20
 ImAlien.super-stock2
 Infineon-technologies-ag.modus-toolbox-for-vscode
@@ -493,7 +495,9 @@ Lavender-Studio.theme-lavender-dreams
 LazowskiAnton.BuildSmith
 LazowskiAnton.ChristmasSmith
 LazowskiAnton.ColorSmith
+LazowskiAnton.CsvSmith
 LazowskiAnton.HalloweenSmith
+LazowskiAnton.ImageSmith
 LazowskiAnton.LensSmith
 LazowskiAnton.LocaleSmith
 LazowskiAnton.LunarNewYearSmith
@@ -1714,6 +1718,7 @@ huangshiyu.sftp-uploader
 humao.rest-client
 humy2833.ftp-simple
 hunterdurbin.vscode-4d-callchain
+huntrole.assessment-tool
 hwrn001.snakemake-lang-pre-release
 hxyou.commit-assist
 hxyou.make-it

@@ -315,6 +315,7 @@ fluxbyte.studiotasks-app,fluxbyte,critical,malware,Removed from VS Marketplace: 
 fluxsecurity.zephyrsync-dev,fluxsecurity,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 fluxservices.flowhub-dev,fluxservices,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 fluxstone.trellisplan-app,fluxstone,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+FNHCreates.canvas-cards,FNHCreates,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai,fnweoifweiofewofwoeifjwefvsjceqk,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 FontingFonts.monkeyfont,FontingFonts,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 forkelbat.supersigil-rich-hub,forkelbat,critical,malware,sleeper extension - glassworm supply chain,static_list
@@ -1398,6 +1399,7 @@ hqvjet.pixel-agents-remake,hqvjet,high,impersonation,Removed from VS Marketplace
 HrushikeshPhapale.ClaudeCodeForVS,HrushikeshPhapale,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hsn8086.cph-hsn-edition,hsn8086,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 huangshiyu.sftp-uploader,huangshiyu,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+huntrole.assessment-tool,huntrole,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hwrn001.snakemake-lang-pre-release,hwrn001,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hxyou.commit-assist,hxyou,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 hxyou.make-it,hxyou,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -1415,6 +1417,7 @@ idanSaban.turbo-console-debuglog,idanSaban,high,impersonation,Removed from VS Ma
 idea-icons-themes-for-vscode.idea-icons-themes-for-vscode,idea-icons-themes-for-vscode,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 idlesilver.comment-driver,idlesilver,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ifplusor.semantic-lunaria,ifplusor,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
+IhabRabaya.ihab-arabic-python-terminal,IhabRabaya,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 ihyajb.cfxlua-intellisense,ihyajb,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 Ilham-ahmedow.sftp20,Ilham-ahmedow,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
 illusions-x.yeleee-faaaah,illusions-x,high,impersonation,Removed from VS Marketplace: Impersonation.,microsoft_removed_packages
@@ -2555,6 +2558,8 @@ ktav-lang.ktav,ktav-lang,medium,untrustworthy,Removed from VS Marketplace: Untru
 kyleobr.Paste-Image-zen,kyleobr,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 Lars-Ve.cses-tracker,Lars-Ve,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 laurence06363.laurence-hello-world-5,laurence06363,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+LazowskiAnton.CsvSmith,LazowskiAnton,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+LazowskiAnton.ImageSmith,LazowskiAnton,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 LeiaBalan.LeiaBalan,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 LeiaBalan.luaulink,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 LeiaBalan.roblox-sync,LeiaBalan,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
