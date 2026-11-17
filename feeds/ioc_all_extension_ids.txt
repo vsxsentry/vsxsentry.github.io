@@ -2071,6 +2071,7 @@ mttankkeo.vscode-flutter-widget-preview
 mtxr.sqltools
 muhammadirfangorsi.api-stress-tester
 mycline.my-sibo-claude-dev
+myh456.git-blame-lens-next
 n3tw4lk3r.tomorrow-night-rusty
 namhhitvn.gitlens-support-symbolic-link
 namopins.prettier-pro-vscode-extension
