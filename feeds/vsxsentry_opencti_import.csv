@@ -2411,6 +2411,7 @@ indicator,Text,sanchuan.kimi-copilot,50,50,Removed from VS Marketplace: Spam / M
 indicator,Text,sanchuan.mimo-copilot,50,50,Removed from VS Marketplace: Spam / Malware.,spam-malware;medium
 indicator,Text,sanchuan.minimax-copilot,50,50,Removed from VS Marketplace: Spam / Malware.,spam-malware;medium
 indicator,Text,0x141c6.auto-open-previews,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,0x4fmr.ordova,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,0x7a69.whhid,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,4t-ia.4t-ia,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AbhishekChakrabartti.localghostllmclientextension,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2428,6 +2429,7 @@ indicator,Text,AnujLabs.sound-on-error,50,50,Removed from VS Marketplace: Untrus
 indicator,Text,AnujLabs.sound-on-file-event,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Anujlabsv2.sound-on-error-v2,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Anujlabsv2.sound-on-file-event-v2,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,anwin.for-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,AppCreationsPLC.boardwalkdevapp,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,atulhritik.agent-remote,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,auraone.agent-studio-open,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2527,6 +2529,7 @@ indicator,Text,hakor-plugins.tsmap-vscode,50,50,Removed from VS Marketplace: Unt
 indicator,Text,haseeb-raza.terminal-faah,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Hayyim-Rosenrot.testcalcexecutorblob,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,HeleneSmith.rSW,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,htmlhost.htmlhost,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,HuxLabs.huxlabsapp,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,ink-byte.sgf-preview,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Involute.bs5-kit,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2538,6 +2541,7 @@ indicator,Text,IteoluwakiishiDedeke.ite-agent,50,50,Removed from VS Marketplace:
 indicator,Text,IZOT-TE-3-FINAL.static-code-parser-FINAL,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,IZOT-TE-3.static-code-parser,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,jasonbg-test.koi-market-poc,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,JavadEsmaeili.scanline,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,JohnBake.corklane,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,JohnLimnas.trixtrox,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,joshuadaniel8090.vscode-telegram-bridge,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
