@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-cd9653fa-32c4-4b8f-aa0b-4e3dd995b442">
+<ioc xmlns="http://schemas.mandiant.com/2010/ioc" id="vsxsentry-462a39a7-da0c-4903-91b9-90e41b769499">
 <short_description>VSXSentry VS Code Extension Threat Feed</short_description>
-<description>Generated: 2026-11-20T06:27:23+00:00</description>
+<description>Generated: 2026-11-20T16:48:35+00:00</description>
 <definition>
 <Indicator operator="OR">
   <IndicatorItem condition="contains">
@@ -4550,6 +4550,10 @@
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">codex-extension.codex-plugin</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">CODEZPC.deepseek-statusbar</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
@@ -8299,6 +8303,10 @@
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
     <Content type="string">walteh.protolsp</Content>
+  </IndicatorItem>
+  <IndicatorItem condition="contains">
+    <Context document="processItem" search="processItem/arguments" type="mir"/>
+    <Content type="string">Wanwu.wanwu</Content>
   </IndicatorItem>
   <IndicatorItem condition="contains">
     <Context document="processItem" search="processItem/arguments" type="mir"/>
