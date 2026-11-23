@@ -2278,6 +2278,7 @@ indicator,Text,auton-changeguard.auton-changeguard,50,50,Removed from VS Marketp
 indicator,Text,buildwithlayer.plaid-integration-expert-CDnxo,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,camsAI.camsAI,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,chat-gimay-agent.chat-gimay-agent,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,CoreXyte.corextrader-tdsl,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,docsflowy.docs-flowy,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,DoPracticalAI.practical-ai-orchestrator-jarvis,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,drawdiags.drawlize,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -2629,6 +2630,10 @@ indicator,Text,pypi.yoyoyo,50,50,Removed from VS Marketplace: Untrustworthy.,unt
 indicator,Text,qaqulya2.ai-autocomplete2,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,QiYijiazhen.glm-for-copilot,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,quartz.quartz-markdown-editor,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,quickdm.qdm-np-4103,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,quickdm.qdm-np-4105,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,quickdm.qdm-np-4108,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,quickdm.qdm-probe-7391,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,quickrunner.quickrunner,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,qweqweqwe.test,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,Raidfire.mes-reference-library,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
