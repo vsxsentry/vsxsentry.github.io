@@ -1,7 +1,7 @@
 {
   "name": "VSXSentry VS Code extension threat feed",
   "type": "string",
-  "version": "20261124",
+  "version": "20261125",
   "description": "VS Code extension IDs from the VSXSentry feed",
   "matching_attributes": [
     "text",
@@ -1934,6 +1934,7 @@
     "sgds.uss",
     "shao.deepcode-fx",
     "shaokun.cangjie-code",
+    "SharifdotG.catppuccin-dark-pro",
     "ShaunsWork.tabletopsimulator-lua-community",
     "shellingye.jx3-emmylua",
     "shellingye.xsj-emmylua",
@@ -2288,6 +2289,8 @@
     "camsAI.camsAI",
     "chat-gimay-agent.chat-gimay-agent",
     "CoreXyte.corextrader-tdsl",
+    "DevartSoftware.MCPServerForMySQL",
+    "devartsoftware.MCPServerForOracle",
     "docsflowy.docs-flowy",
     "DoPracticalAI.practical-ai-orchestrator-jarvis",
     "drawdiags.drawlize",
@@ -2731,6 +2734,7 @@
     "wang-yang.MindSprout",
     "wavepeak.slatecanvas-dev",
     "wenox.wenox",
+    "weoptimize.wmark",
     "WhenSunset.chatgpt-china",
     "xanvil.csharp-script-for-application",
     "xavier-arosemena.roo-plus",

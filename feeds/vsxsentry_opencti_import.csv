@@ -1925,6 +1925,7 @@ indicator,Text,Sewara.copy-fences-lang,75,75,Removed from VS Marketplace: Impers
 indicator,Text,sgds.uss,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shao.deepcode-fx,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shaokun.cangjie-code,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
+indicator,Text,SharifdotG.catppuccin-dark-pro,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,ShaunsWork.tabletopsimulator-lua-community,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shellingye.jx3-emmylua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
 indicator,Text,shellingye.xsj-emmylua,75,75,Removed from VS Marketplace: Impersonation.,impersonation;high
@@ -2279,6 +2280,8 @@ indicator,Text,buildwithlayer.plaid-integration-expert-CDnxo,50,50,Removed from 
 indicator,Text,camsAI.camsAI,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,chat-gimay-agent.chat-gimay-agent,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,CoreXyte.corextrader-tdsl,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,DevartSoftware.MCPServerForMySQL,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForOracle,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,docsflowy.docs-flowy,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,DoPracticalAI.practical-ai-orchestrator-jarvis,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,drawdiags.drawlize,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -2722,6 +2725,7 @@ indicator,Text,VSCodeIndustries.azure-devops-sync-helper-presso,50,50,Removed fr
 indicator,Text,wang-yang.MindSprout,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,wavepeak.slatecanvas-dev,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,wenox.wenox,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,weoptimize.wmark,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,WhenSunset.chatgpt-china,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,xanvil.csharp-script-for-application,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,xavier-arosemena.roo-plus,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
