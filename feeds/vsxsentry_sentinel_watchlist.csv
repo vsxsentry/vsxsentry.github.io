@@ -29,6 +29,8 @@ AhmedSleem.secure-code,AhmedSleem,critical,malware,Removed from VS Marketplace: 
 AhmedSlem.secure-codee,AhmedSlem,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 alanas-is-testing.alanas-is-testing,alanas-is-testing,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 alessandroraffa.tangyr,alessandroraffa,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+alex09x.mitts,alex09x,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
+alex09x.rust-intelligence,alex09x,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 AlfonsoGonzalez.VisualXML,AlfonsoGonzalez,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
 aligntool.extension-align-professional-tool,aligntool,critical,malware,compromised - glassworm supply chain attack,static_list
 AllenBarry.Solid,AllenBarry,critical,malware,Removed from VS Marketplace: Malware.,microsoft_removed_packages
@@ -2280,8 +2282,16 @@ buildwithlayer.plaid-integration-expert-CDnxo,buildwithlayer,medium,spam,Removed
 camsAI.camsAI,camsAI,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 chat-gimay-agent.chat-gimay-agent,chat-gimay-agent,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 CoreXyte.corextrader-tdsl,CoreXyte,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerForFirebird,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerForHubSpot,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 DevartSoftware.MCPServerForMySQL,DevartSoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerForNetSuite,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 devartsoftware.MCPServerForOracle,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerForSalesforce,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerForSalesforceMarketingCloud,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerForXBase,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerForZohoCRM,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
+devartsoftware.MCPServerUniversal,devartsoftware,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 docsflowy.docs-flowy,docsflowy,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 DoPracticalAI.practical-ai-orchestrator-jarvis,DoPracticalAI,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
 drawdiags.drawlize,drawdiags,medium,spam,Removed from VS Marketplace: Spam.,microsoft_removed_packages
@@ -2522,6 +2532,7 @@ Exile404.faaah-error-sound,Exile404,medium,untrustworthy,Removed from VS Marketp
 ext-lab.ftp-supports,ext-lab,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 farhadggu.commitpilotify,farhadggu,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 flowstate.luaslope,flowstate,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+ForgeGUI.forgegui-studio,ForgeGUI,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 galedynamics.sketchdesk-prod,galedynamics,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 GCIDCAIAmericasAndAsia.A11y-Agent,GCIDCAIAmericasAndAsia,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 gdnwxf.search-like-intellij,gdnwxf,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
@@ -2650,6 +2661,7 @@ renovate12.renovate,renovate12,medium,untrustworthy,Removed from VS Marketplace:
 rishiishah.csegraph-vscode,rishiishah,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 rizkura96.compareanalyze,rizkura96,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 rladnwls122.blindspot,rladnwls122,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
+roberto-menezes.git-dock,roberto-menezes,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 roboard.roboard,roboard,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 romanage.romanage,romanage,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages
 romanager.ro-manager,romanager,medium,untrustworthy,Removed from VS Marketplace: Untrustworthy.,microsoft_removed_packages

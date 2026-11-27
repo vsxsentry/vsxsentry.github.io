@@ -29,6 +29,8 @@ indicator,Text,AhmedSleem.secure-code,90,90,Removed from VS Marketplace: Malware
 indicator,Text,AhmedSlem.secure-codee,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,alanas-is-testing.alanas-is-testing,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,alessandroraffa.tangyr,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,alex09x.mitts,90,90,Removed from VS Marketplace: Malware.,malware;critical
+indicator,Text,alex09x.rust-intelligence,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,AlfonsoGonzalez.VisualXML,90,90,Removed from VS Marketplace: Malware.,malware;critical
 indicator,Text,aligntool.extension-align-professional-tool,90,90,compromised - glassworm supply chain attack,malware;critical
 indicator,Text,AllenBarry.Solid,90,90,Removed from VS Marketplace: Malware.,malware;critical
@@ -2280,8 +2282,16 @@ indicator,Text,buildwithlayer.plaid-integration-expert-CDnxo,50,50,Removed from 
 indicator,Text,camsAI.camsAI,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,chat-gimay-agent.chat-gimay-agent,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,CoreXyte.corextrader-tdsl,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForFirebird,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForHubSpot,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,DevartSoftware.MCPServerForMySQL,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForNetSuite,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,devartsoftware.MCPServerForOracle,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForSalesforce,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForSalesforceMarketingCloud,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForXBase,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerForZohoCRM,50,50,Removed from VS Marketplace: Spam.,spam;medium
+indicator,Text,devartsoftware.MCPServerUniversal,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,docsflowy.docs-flowy,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,DoPracticalAI.practical-ai-orchestrator-jarvis,50,50,Removed from VS Marketplace: Spam.,spam;medium
 indicator,Text,drawdiags.drawlize,50,50,Removed from VS Marketplace: Spam.,spam;medium
@@ -2522,6 +2532,7 @@ indicator,Text,Exile404.faaah-error-sound,50,50,Removed from VS Marketplace: Unt
 indicator,Text,ext-lab.ftp-supports,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,farhadggu.commitpilotify,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,flowstate.luaslope,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,ForgeGUI.forgegui-studio,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,galedynamics.sketchdesk-prod,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,GCIDCAIAmericasAndAsia.A11y-Agent,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,gdnwxf.search-like-intellij,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
@@ -2650,6 +2661,7 @@ indicator,Text,renovate12.renovate,50,50,Removed from VS Marketplace: Untrustwor
 indicator,Text,rishiishah.csegraph-vscode,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,rizkura96.compareanalyze,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,rladnwls122.blindspot,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
+indicator,Text,roberto-menezes.git-dock,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,roboard.roboard,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,romanage.romanage,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
 indicator,Text,romanager.ro-manager,50,50,Removed from VS Marketplace: Untrustworthy.,untrustworthy;medium
